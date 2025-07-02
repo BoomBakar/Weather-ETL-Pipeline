@@ -1,0 +1,767 @@
+[
+  {
+    "coord": {
+      "lon": 67.0011,
+      "lat": 24.8607
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 29.19,
+      "feels_like": 34.82,
+      "temp_min": 29.19,
+      "temp_max": 29.19,
+      "pressure": 999,
+      "humidity": 78,
+      "sea_level": 999,
+      "grnd_level": 997
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 6.74,
+      "deg": 246,
+      "gust": 8.56
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1751477006,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751417180,
+      "sunset": 1751466323
+    },
+    "timezone": 18000,
+    "id": 1174872,
+    "name": "Karachi",
+    "cod": 200,
+    "city": "Karachi"
+  },
+  {
+    "coord": {
+      "lon": 74.3436,
+      "lat": 31.5497
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 33.34,
+      "feels_like": 38.94,
+      "temp_min": 33.34,
+      "temp_max": 33.34,
+      "pressure": 998,
+      "humidity": 56,
+      "sea_level": 998,
+      "grnd_level": 974
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.41,
+      "deg": 92,
+      "gust": 6.07
+    },
+    "clouds": {
+      "all": 67
+    },
+    "dt": 1751477315,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414493,
+      "sunset": 1751465486
+    },
+    "timezone": 18000,
+    "id": 1172451,
+    "name": "Lahore",
+    "cod": 200,
+    "city": "Lahore"
+  },
+  {
+    "coord": {
+      "lon": 73.0479,
+      "lat": 33.6844
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 29.97,
+      "feels_like": 34.26,
+      "temp_min": 29.97,
+      "temp_max": 29.97,
+      "pressure": 1000,
+      "humidity": 67,
+      "sea_level": 1000,
+      "grnd_level": 927
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3,
+      "deg": 84,
+      "gust": 4.01
+    },
+    "clouds": {
+      "all": 78
+    },
+    "dt": 1751477382,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414476,
+      "sunset": 1751466125
+    },
+    "timezone": 18000,
+    "id": 1176615,
+    "name": "Islamabad",
+    "cod": 200,
+    "city": "Islamabad"
+  },
+  {
+    "coord": {
+      "lon": 73.0679,
+      "lat": 33.6007
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 30.75,
+      "feels_like": 35.57,
+      "temp_min": 30.75,
+      "temp_max": 30.75,
+      "pressure": 999,
+      "humidity": 65,
+      "sea_level": 999,
+      "grnd_level": 936
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.17,
+      "deg": 87,
+      "gust": 4.86
+    },
+    "clouds": {
+      "all": 95
+    },
+    "dt": 1751477382,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414484,
+      "sunset": 1751466107
+    },
+    "timezone": 18000,
+    "id": 1166993,
+    "name": "Rawalpindi",
+    "cod": 200,
+    "city": "Rawalpindi"
+  },
+  {
+    "coord": {
+      "lon": 73.135,
+      "lat": 31.4504
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 35.71,
+      "feels_like": 41.15,
+      "temp_min": 35.71,
+      "temp_max": 35.71,
+      "pressure": 997,
+      "humidity": 47,
+      "sea_level": 997,
+      "grnd_level": 976
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.16,
+      "deg": 103,
+      "gust": 6.44
+    },
+    "clouds": {
+      "all": 48
+    },
+    "dt": 1751477383,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414797,
+      "sunset": 1751465761
+    },
+    "timezone": 18000,
+    "id": 1179400,
+    "name": "Faisalabad",
+    "cod": 200,
+    "city": "Faisalabad"
+  },
+  {
+    "coord": {
+      "lon": 71.5249,
+      "lat": 30.1575
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 38.86,
+      "feels_like": 44.44,
+      "temp_min": 38.86,
+      "temp_max": 38.86,
+      "pressure": 995,
+      "humidity": 38,
+      "sea_level": 995,
+      "grnd_level": 981
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.65,
+      "deg": 163,
+      "gust": 5.43
+    },
+    "clouds": {
+      "all": 4
+    },
+    "dt": 1751477383,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751415373,
+      "sunset": 1751465958
+    },
+    "timezone": 18000,
+    "id": 1169825,
+    "name": "Multan",
+    "cod": 200,
+    "city": "Multan"
+  },
+  {
+    "coord": {
+      "lon": 71.5805,
+      "lat": 34.0151
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 36.01,
+      "feels_like": 40.64,
+      "temp_min": 36.01,
+      "temp_max": 36.01,
+      "pressure": 997,
+      "humidity": 44,
+      "sea_level": 997,
+      "grnd_level": 962
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.32,
+      "deg": 53,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 59
+    },
+    "dt": 1751477383,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414776,
+      "sunset": 1751466529
+    },
+    "timezone": 18000,
+    "id": 1168197,
+    "name": "Peshawar",
+    "cod": 200,
+    "city": "Peshawar"
+  },
+  {
+    "coord": {
+      "lon": 66.975,
+      "lat": 30.1798
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 28.82,
+      "feels_like": 29.43,
+      "temp_min": 28.82,
+      "temp_max": 28.82,
+      "pressure": 1001,
+      "humidity": 50,
+      "sea_level": 1001,
+      "grnd_level": 806
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.48,
+      "deg": 118,
+      "gust": 3.92
+    },
+    "clouds": {
+      "all": 27
+    },
+    "dt": 1751477385,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751416462,
+      "sunset": 1751467053
+    },
+    "timezone": 18000,
+    "id": 1172993,
+    "name": "Kot Malik Barkhurdar",
+    "cod": 200,
+    "city": "Quetta"
+  },
+  {
+    "coord": {
+      "lon": 74.5229,
+      "lat": 32.4945
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 32.99,
+      "feels_like": 38.45,
+      "temp_min": 32.99,
+      "temp_max": 32.99,
+      "pressure": 998,
+      "humidity": 57,
+      "sea_level": 998,
+      "grnd_level": 971
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.21,
+      "deg": 81,
+      "gust": 3.7
+    },
+    "clouds": {
+      "all": 97
+    },
+    "dt": 1751477386,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414307,
+      "sunset": 1751465586
+    },
+    "timezone": 18000,
+    "id": 1381523,
+    "name": "Mianapura Khurd",
+    "cod": 200,
+    "city": "Sialkot"
+  },
+  {
+    "coord": {
+      "lon": 74.1945,
+      "lat": 32.1877
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 34.27,
+      "feels_like": 40.86,
+      "temp_min": 34.27,
+      "temp_max": 34.27,
+      "pressure": 998,
+      "humidity": 55,
+      "sea_level": 998,
+      "grnd_level": 973
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.14,
+      "deg": 111,
+      "gust": 3.39
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1751477387,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414432,
+      "sunset": 1751465618
+    },
+    "timezone": 18000,
+    "id": 1177662,
+    "name": "Gujranwala",
+    "cod": 200,
+    "city": "Gujranwala"
+  },
+  {
+    "coord": {
+      "lon": 68.3578,
+      "lat": 25.396
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 31.2,
+      "feels_like": 35.8,
+      "temp_min": 31.2,
+      "temp_max": 31.2,
+      "pressure": 998,
+      "humidity": 62,
+      "sea_level": 998,
+      "grnd_level": 993
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 8.17,
+      "deg": 230,
+      "gust": 10.06
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1751477389,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751416785,
+      "sunset": 1751466067
+    },
+    "timezone": 18000,
+    "id": 1176734,
+    "name": "Hyder\u0101b\u0101d",
+    "cod": 200,
+    "city": "Hyderabad"
+  },
+  {
+    "coord": {
+      "lon": 71.6836,
+      "lat": 29.3956
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 38.08,
+      "feels_like": 43.15,
+      "temp_min": 38.08,
+      "temp_max": 38.08,
+      "pressure": 996,
+      "humidity": 39,
+      "sea_level": 996,
+      "grnd_level": 982
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.07,
+      "deg": 165,
+      "gust": 4.46
+    },
+    "clouds": {
+      "all": 22
+    },
+    "dt": 1751477390,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751415444,
+      "sunset": 1751465811
+    },
+    "timezone": 18000,
+    "id": 1183880,
+    "name": "Bahawalpur",
+    "cod": 200,
+    "city": "Bahawalpur"
+  },
+  {
+    "coord": {
+      "lon": 72.6711,
+      "lat": 32.0836
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 35.45,
+      "feels_like": 41.76,
+      "temp_min": 35.45,
+      "temp_max": 35.45,
+      "pressure": 997,
+      "humidity": 50,
+      "sea_level": 997,
+      "grnd_level": 976
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.16,
+      "deg": 107,
+      "gust": 7.54
+    },
+    "clouds": {
+      "all": 89
+    },
+    "dt": 1751477392,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414814,
+      "sunset": 1751465968
+    },
+    "timezone": 18000,
+    "id": 1166000,
+    "name": "Sargodha",
+    "cod": 200,
+    "city": "Sargodha"
+  },
+  {
+    "coord": {
+      "lon": 73.2215,
+      "lat": 34.1688
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 23.88,
+      "feels_like": 24.36,
+      "temp_min": 23.88,
+      "temp_max": 23.88,
+      "pressure": 1003,
+      "humidity": 78,
+      "sea_level": 1003,
+      "grnd_level": 854
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 0.77,
+      "deg": 132,
+      "gust": 0.51
+    },
+    "clouds": {
+      "all": 58
+    },
+    "dt": 1751477393,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414357,
+      "sunset": 1751466160
+    },
+    "timezone": 18000,
+    "id": 1185056,
+    "name": "Abbottabad",
+    "cod": 200,
+    "city": "Abbottabad"
+  },
+  {
+    "coord": {
+      "lon": 73.7518,
+      "lat": 33.1483
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 31.76,
+      "feels_like": 36.23,
+      "temp_min": 31.76,
+      "temp_max": 31.76,
+      "pressure": 998,
+      "humidity": 59,
+      "sea_level": 998,
+      "grnd_level": 960
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.08,
+      "deg": 90,
+      "gust": 2.9
+    },
+    "clouds": {
+      "all": 17
+    },
+    "dt": 1751477394,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414391,
+      "sunset": 1751465872
+    },
+    "timezone": 18000,
+    "id": 1169027,
+    "name": "New Mirpur",
+    "cod": 200,
+    "city": "Mirpur"
+  },
+  {
+    "coord": {
+      "lon": 73.4711,
+      "lat": 34.37
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.14,
+      "feels_like": 26.14,
+      "temp_min": 26.14,
+      "temp_max": 26.14,
+      "pressure": 1004,
+      "humidity": 83,
+      "sea_level": 1004,
+      "grnd_level": 843
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.2,
+      "deg": 69,
+      "gust": 1.41
+    },
+    "clouds": {
+      "all": 44
+    },
+    "dt": 1751477394,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751414265,
+      "sunset": 1751466132
+    },
+    "timezone": 18000,
+    "id": 1169607,
+    "name": "Muzaffarabad",
+    "cod": 200,
+    "city": "Muzaffarabad"
+  },
+  {
+    "coord": {
+      "lon": 68.8574,
+      "lat": 27.7052
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 37.15,
+      "feels_like": 42.81,
+      "temp_min": 37.15,
+      "temp_max": 37.15,
+      "pressure": 996,
+      "humidity": 43,
+      "sea_level": 996,
+      "grnd_level": 989
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 7.42,
+      "deg": 181,
+      "gust": 8.31
+    },
+    "clouds": {
+      "all": 78
+    },
+    "dt": 1751477132,
+    "sys": {
+      "country": "PK",
+      "sunrise": 1751416358,
+      "sunset": 1751466255
+    },
+    "timezone": 18000,
+    "id": 1164408,
+    "name": "Sukkur",
+    "cod": 200,
+    "city": "Sukkur"
+  }
+]
