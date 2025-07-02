@@ -30,7 +30,6 @@ cities = [
     {"name": "Sukkur", "lat": 27.7052, "lon": 68.8574}
 ]
 
-
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 weather_data = []
 structured_data = []
@@ -49,22 +48,23 @@ for city in cities:
         city_weather["city"] = city["name"]
         weather_data.append(city_weather)
 
-        # Standardize and clean
+        # Standardize and clean with null-safe defaults
         main = city_weather.get("main", {})
         wind = city_weather.get("wind", {})
         weather = city_weather.get("weather", [{}])[0]
-        timestamp = city_weather.get("dt")
+        clouds = city_weather.get("clouds", {})
+        timestamp = city_weather.get("dt", 0)
+
         pkt = timezone(timedelta(hours=5))
-        timestamp = city_weather.get("dt")
         dt_pkt = datetime.fromtimestamp(timestamp, timezone.utc).astimezone(pkt)
 
         structured_data.append({
-            "city_name": city["name"],
-            "temperature_c": main.get("temp"),
-            "humidity_percent": main.get("humidity"),
-            "wind_speed_mps": wind.get("speed"),
-            "weather_main": weather.get("main"),
-            "weather_description": weather.get("description"),
+            "city_name": city.get("name", "Unknown"),
+            "temperature_c": main.get("temp", 0.0),
+            "humidity_percent": main.get("humidity", 0),
+            "wind_speed_mps": wind.get("speed", 0.0),
+            "weather_main": weather.get("main", "Unknown"),
+            "weather_description": weather.get("description", "Unknown"),
             "date_pkt": dt_pkt.strftime("%Y-%m-%d"),
             "time_pkt": dt_pkt.strftime("%H:%M:%S")
         })
