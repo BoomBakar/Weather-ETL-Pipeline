@@ -27,8 +27,19 @@ cities = [
     {"name": "Abbottabad", "lat": 34.1688, "lon": 73.2215},
     {"name": "Mirpur", "lat": 33.1483, "lon": 73.7518},
     {"name": "Muzaffarabad", "lat": 34.3700, "lon": 73.4711},
-    {"name": "Sukkur", "lat": 27.7052, "lon": 68.8574}
+    {"name": "Sukkur", "lat": 27.7052, "lon": 68.8574},
+    {"name": "Mardan", "lat": 34.2014, "lon": 72.0520},
+    {"name": "Kasur", "lat": 31.1155, "lon": 74.4467},
+    {"name": "Larkana", "lat": 27.5616, "lon": 68.2066},
+    {"name": "Sheikhupura", "lat": 31.7131, "lon": 73.9783},
+    {"name": "Jhang", "lat": 31.2681, "lon": 72.3189},
+    {"name": "Okara", "lat": 30.8081, "lon": 73.4458},
+    {"name": "Chiniot", "lat": 31.7202, "lon": 72.9789},
+    {"name": "Nawabshah", "lat": 26.2442, "lon": 68.4101},
+    {"name": "Dera Ghazi Khan", "lat": 30.0515, "lon": 70.6348},
+    {"name": "Turbat", "lat": 25.9933, "lon": 63.0300}
 ]
+
 
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 weather_data = []
