@@ -51,16 +51,16 @@ def fetch_weather_data(city):
         city_weather = response.json()
         return city_weather
     else:
-        print(f"❌ Failed to fetch weather for {city[1]}")
+        print(f"Failed to fetch weather for {city[1]}")
         return None
 
 # Insert weather data into the DB
-def insert_weather_data_into_db(weather_data, city_id, weather_type_id):
+def insert_weather_data_into_db(weather_data, city_id, weather_type_id, weather_description):
     conn = get_db_connection()
     cursor = conn.cursor()
     query = """
-        INSERT INTO weather_data (city_id, temperature_c, humidity_percent, wind_speed_mps, wind_direction_deg, weather_type_id, date, time)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s);
+        INSERT INTO weather_data (city_id, temperature_c, humidity_percent, wind_speed_mps, wind_direction_deg, weather_type_id, weather_description, date, time)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s);
     """
     timestamp = weather_data.get("dt")
     dt_pkt = datetime.fromtimestamp(timestamp, timezone.utc).astimezone(timezone(timedelta(hours=5)))  # Pakistan Standard Time (PKT)
@@ -74,6 +74,7 @@ def insert_weather_data_into_db(weather_data, city_id, weather_type_id):
         weather_data.get("wind", {}).get("speed"),
         weather_data.get("wind", {}).get("deg"),
         weather_type_id,
+        weather_description,
         date,
         time
     ))
@@ -81,7 +82,7 @@ def insert_weather_data_into_db(weather_data, city_id, weather_type_id):
     conn.close()
 
 # Insert weather type into DB (if it doesn't exist)
-def insert_weather_type(weather_main, weather_description):
+def insert_weather_type(weather_main):
     conn = get_db_connection()
     cursor = conn.cursor()
     
@@ -92,10 +93,10 @@ def insert_weather_type(weather_main, weather_description):
         weather_type_id = existing_type[0]
     else:
         cursor.execute("""
-            INSERT INTO weather_types (weather_name, description) 
-            VALUES (%s, %s) 
+            INSERT INTO weather_types (weather_name) 
+            VALUES (%s) 
             RETURNING weather_type_id;
-        """, (weather_main, weather_description))
+        """, (weather_main,))
         weather_type_id = cursor.fetchone()[0]
     
     conn.commit()
@@ -107,12 +108,12 @@ def save_weather_data_to_files(structured_data):
     # Save to JSON
     with open("pakistani_cities_weather.json", "w") as f:
         json.dump(structured_data, f, indent=2)
-    print("✅ Weather data saved to pakistani_cities_weather.json")
+    print("Weather data saved to pakistani_cities_weather.json")
 
     # Save to CSV
     df = pd.DataFrame(structured_data)
     df.to_csv("cleaned_weather_data.csv", index=False)
-    print("✅ Cleaned weather data saved to cleaned_weather_data.csv")
+    print("Cleaned weather data saved to cleaned_weather_data.csv")
 
 # Main function to handle everything
 def main():
@@ -123,15 +124,15 @@ def main():
         weather_data = fetch_weather_data(city)
         
         if weather_data:
-            # Get the weather type (main weather condition)
+            # Get the weather type (main weather condition) and description
             weather_main = weather_data["weather"][0]["main"]
             weather_description = weather_data["weather"][0]["description"]
             
             # Insert the weather type into the DB and get the ID
-            weather_type_id = insert_weather_type(weather_main, weather_description)
+            weather_type_id = insert_weather_type(weather_main)
             
             # Insert the weather data into the DB
-            insert_weather_data_into_db(weather_data, city[0], weather_type_id)
+            insert_weather_data_into_db(weather_data, city[0], weather_type_id, weather_description)
             
             # Add data to structured list for saving to files
             structured_data.append({
@@ -144,7 +145,7 @@ def main():
                 "date_pkt": datetime.fromtimestamp(weather_data["dt"]).strftime("%Y-%m-%d"),
                 "time_pkt": datetime.fromtimestamp(weather_data["dt"]).strftime("%H:%M:%S")
             })
-
+    print("Weather data fetched and stored in the database.")
     # Save data to files
     save_weather_data_to_files(structured_data)
 

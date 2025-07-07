@@ -1,1223 +1,272 @@
 [
   {
-    "coord": {
-      "lon": 67.0035,
-      "lat": 24.8581
-    },
-    "weather": [
-      {
-        "id": 804,
-        "main": "Clouds",
-        "description": "overcast clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 30.76,
-      "feels_like": 37.76,
-      "temp_min": 30.76,
-      "temp_max": 30.76,
-      "pressure": 999,
-      "humidity": 73,
-      "sea_level": 999,
-      "grnd_level": 997
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 5.08,
-      "deg": 255,
-      "gust": 5.49
-    },
-    "clouds": {
-      "all": 100
-    },
-    "dt": 1751527769,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751503601,
-      "sunset": 1751552722
-    },
-    "timezone": 18000,
-    "id": 1174872,
-    "name": "Karachi",
-    "cod": 200,
-    "city": "Karachi"
+    "city_name": "Karachi",
+    "temperature_c": 30.32,
+    "humidity_percent": 73,
+    "wind_speed_mps": 4.87,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:34:11"
   },
   {
-    "coord": {
-      "lon": 74.3436,
-      "lat": 31.5497
-    },
-    "weather": [
-      {
-        "id": 804,
-        "main": "Clouds",
-        "description": "overcast clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 33.91,
-      "feels_like": 40.91,
-      "temp_min": 33.91,
-      "temp_max": 33.91,
-      "pressure": 1000,
-      "humidity": 65,
-      "sea_level": 1000,
-      "grnd_level": 976
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 2.53,
-      "deg": 148,
-      "gust": 3.12
-    },
-    "clouds": {
-      "all": 85
-    },
-    "dt": 1751527746,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500917,
-      "sunset": 1751551883
-    },
-    "timezone": 18000,
-    "id": 1172451,
-    "name": "Lahore",
-    "cod": 200,
-    "city": "Lahore"
+    "city_name": "Lahore",
+    "temperature_c": 28.54,
+    "humidity_percent": 62,
+    "wind_speed_mps": 2.47,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:28:52"
   },
   {
-    "coord": {
-      "lon": 73.0479,
-      "lat": 33.6844
-    },
-    "weather": [
-      {
-        "id": 804,
-        "main": "Clouds",
-        "description": "overcast clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 32.12,
-      "feels_like": 36.17,
-      "temp_min": 32.12,
-      "temp_max": 32.12,
-      "pressure": 1001,
-      "humidity": 56,
-      "sea_level": 1001,
-      "grnd_level": 927
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 0.5,
-      "deg": 142,
-      "gust": 1.69
-    },
-    "clouds": {
-      "all": 100
-    },
-    "dt": 1751527922,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500902,
-      "sunset": 1751552520
-    },
-    "timezone": 18000,
-    "id": 1176615,
-    "name": "Islamabad",
-    "cod": 200,
-    "city": "Islamabad"
+    "city_name": "Islamabad",
+    "temperature_c": 32.52,
+    "humidity_percent": 58,
+    "wind_speed_mps": 3.1,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:05"
   },
   {
-    "coord": {
-      "lon": 73.0679,
-      "lat": 33.6007
-    },
-    "weather": [
-      {
-        "id": 804,
-        "main": "Clouds",
-        "description": "overcast clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 33.54,
-      "feels_like": 37.4,
-      "temp_min": 33.54,
-      "temp_max": 33.54,
-      "pressure": 1000,
-      "humidity": 50,
-      "sea_level": 1000,
-      "grnd_level": 937
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 0.85,
-      "deg": 173,
-      "gust": 1.66
-    },
-    "clouds": {
-      "all": 94
-    },
-    "dt": 1751527939,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500910,
-      "sunset": 1751552502
-    },
-    "timezone": 18000,
-    "id": 1166993,
-    "name": "Rawalpindi",
-    "cod": 200,
-    "city": "Rawalpindi"
+    "city_name": "Rawalpindi",
+    "temperature_c": 33.33,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.29,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:38:56"
   },
   {
-    "coord": {
-      "lon": 73.135,
-      "lat": 31.4504
-    },
-    "weather": [
-      {
-        "id": 804,
-        "main": "Clouds",
-        "description": "overcast clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 37.59,
-      "feels_like": 41.25,
-      "temp_min": 37.59,
-      "temp_max": 37.59,
-      "pressure": 998,
-      "humidity": 37,
-      "sea_level": 998,
-      "grnd_level": 977
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 2.06,
-      "deg": 110,
-      "gust": 1.67
-    },
-    "clouds": {
-      "all": 100
-    },
-    "dt": 1751528043,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751501222,
-      "sunset": 1751552158
-    },
-    "timezone": 18000,
-    "id": 1179400,
-    "name": "Faisalabad",
-    "cod": 200,
-    "city": "Faisalabad"
+    "city_name": "Faisalabad",
+    "temperature_c": 37.03,
+    "humidity_percent": 36,
+    "wind_speed_mps": 3.07,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:07"
   },
   {
-    "coord": {
-      "lon": 71.5249,
-      "lat": 30.1575
-    },
-    "weather": [
-      {
-        "id": 800,
-        "main": "Clear",
-        "description": "clear sky",
-        "icon": "01d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 42.07,
-      "feels_like": 46.82,
-      "temp_min": 42.07,
-      "temp_max": 42.07,
-      "pressure": 996,
-      "humidity": 29,
-      "sea_level": 996,
-      "grnd_level": 983
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 2.35,
-      "deg": 126,
-      "gust": 3.02
-    },
-    "clouds": {
-      "all": 1
-    },
-    "dt": 1751528043,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751501797,
-      "sunset": 1751552356
-    },
-    "timezone": 18000,
-    "id": 1169825,
-    "name": "Multan",
-    "cod": 200,
-    "city": "Multan"
+    "city_name": "Multan",
+    "temperature_c": 38.25,
+    "humidity_percent": 30,
+    "wind_speed_mps": 4.89,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:08"
   },
   {
-    "coord": {
-      "lon": 71.5805,
-      "lat": 34.0151
-    },
-    "weather": [
-      {
-        "id": 801,
-        "main": "Clouds",
-        "description": "few clouds",
-        "icon": "02d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 39.18,
-      "feels_like": 43.27,
-      "temp_min": 39.18,
-      "temp_max": 39.18,
-      "pressure": 998,
-      "humidity": 34,
-      "sea_level": 998,
-      "grnd_level": 963
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 3.06,
-      "deg": 54,
-      "gust": 2.04
-    },
-    "clouds": {
-      "all": 22
-    },
-    "dt": 1751528044,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751501202,
-      "sunset": 1751552924
-    },
-    "timezone": 18000,
-    "id": 1168197,
-    "name": "Peshawar",
-    "cod": 200,
-    "city": "Peshawar"
+    "city_name": "Peshawar",
+    "temperature_c": 29.65,
+    "humidity_percent": 47,
+    "wind_speed_mps": 0.9,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:09"
   },
   {
-    "coord": {
-      "lon": 66.975,
-      "lat": 30.1798
-    },
-    "weather": [
-      {
-        "id": 800,
-        "main": "Clear",
-        "description": "clear sky",
-        "icon": "01d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 34.34,
-      "feels_like": 32.93,
-      "temp_min": 34.34,
-      "temp_max": 34.34,
-      "pressure": 1000,
-      "humidity": 25,
-      "sea_level": 1000,
-      "grnd_level": 806
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 2.6,
-      "deg": 159,
-      "gust": 3.07
-    },
-    "clouds": {
-      "all": 3
-    },
-    "dt": 1751528044,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751502886,
-      "sunset": 1751553451
-    },
-    "timezone": 18000,
-    "id": 1172993,
-    "name": "Kot Malik Barkhurdar",
-    "cod": 200,
-    "city": "Quetta"
+    "city_name": "Quetta",
+    "temperature_c": 35.77,
+    "humidity_percent": 17,
+    "wind_speed_mps": 3.49,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:10"
   },
   {
-    "coord": {
-      "lon": 74.5229,
-      "lat": 32.4945
-    },
-    "weather": [
-      {
-        "id": 801,
-        "main": "Clouds",
-        "description": "few clouds",
-        "icon": "02d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 29.81,
-      "feels_like": 31.92,
-      "temp_min": 29.81,
-      "temp_max": 29.81,
-      "pressure": 1000,
-      "humidity": 57,
-      "sea_level": 1000,
-      "grnd_level": 972
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 4.03,
-      "deg": 152,
-      "gust": 2.73
-    },
-    "clouds": {
-      "all": 12
-    },
-    "dt": 1751528045,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500732,
-      "sunset": 1751551982
-    },
-    "timezone": 18000,
-    "id": 1381523,
-    "name": "Mianapura Khurd",
-    "cod": 200,
-    "city": "Sialkot"
+    "city_name": "Sialkot",
+    "temperature_c": 28.99,
+    "humidity_percent": 65,
+    "wind_speed_mps": 2.93,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:11"
   },
   {
-    "coord": {
-      "lon": 74.1945,
-      "lat": 32.1877
-    },
-    "weather": [
-      {
-        "id": 500,
-        "main": "Rain",
-        "description": "light rain",
-        "icon": "10d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 30.6,
-      "feels_like": 32.53,
-      "temp_min": 30.6,
-      "temp_max": 30.6,
-      "pressure": 999,
-      "humidity": 53,
-      "sea_level": 999,
-      "grnd_level": 973
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 3.76,
-      "deg": 124,
-      "gust": 3.17
-    },
-    "rain": {
-      "1h": 0.1
-    },
-    "clouds": {
-      "all": 82
-    },
-    "dt": 1751528045,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500857,
-      "sunset": 1751552014
-    },
-    "timezone": 18000,
-    "id": 1177662,
-    "name": "Gujranwala",
-    "cod": 200,
-    "city": "Gujranwala"
+    "city_name": "Gujranwala",
+    "temperature_c": 29.55,
+    "humidity_percent": 57,
+    "wind_speed_mps": 2.14,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:12"
   },
   {
-    "coord": {
-      "lon": 68.3578,
-      "lat": 25.396
-    },
-    "weather": [
-      {
-        "id": 804,
-        "main": "Clouds",
-        "description": "overcast clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 34.31,
-      "feels_like": 40.18,
-      "temp_min": 34.31,
-      "temp_max": 34.31,
-      "pressure": 997,
-      "humidity": 53,
-      "sea_level": 997,
-      "grnd_level": 993
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 7.24,
-      "deg": 224,
-      "gust": 7.34
-    },
-    "clouds": {
-      "all": 100
-    },
-    "dt": 1751528045,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751503207,
-      "sunset": 1751552467
-    },
-    "timezone": 18000,
-    "id": 1176734,
-    "name": "Hyder\u0101b\u0101d",
-    "cod": 200,
-    "city": "Hyderabad"
+    "city_name": "Hyderabad",
+    "temperature_c": 37.1,
+    "humidity_percent": 44,
+    "wind_speed_mps": 5.84,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:13"
   },
   {
-    "coord": {
-      "lon": 71.6836,
-      "lat": 29.3956
-    },
-    "weather": [
-      {
-        "id": 800,
-        "main": "Clear",
-        "description": "clear sky",
-        "icon": "01d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 41.53,
-      "feels_like": 46.78,
-      "temp_min": 41.53,
-      "temp_max": 41.53,
-      "pressure": 996,
-      "humidity": 31,
-      "sea_level": 996,
-      "grnd_level": 983
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 3.08,
-      "deg": 131,
-      "gust": 3.93
-    },
-    "clouds": {
-      "all": 5
-    },
-    "dt": 1751528046,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751501868,
-      "sunset": 1751552209
-    },
-    "timezone": 18000,
-    "id": 1183880,
-    "name": "Bahawalpur",
-    "cod": 200,
-    "city": "Bahawalpur"
+    "city_name": "Bahawalpur",
+    "temperature_c": 40.26,
+    "humidity_percent": 33,
+    "wind_speed_mps": 6,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:14"
   },
   {
-    "coord": {
-      "lon": 72.6711,
-      "lat": 32.0836
-    },
-    "weather": [
-      {
-        "id": 500,
-        "main": "Rain",
-        "description": "light rain",
-        "icon": "10d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 38.93,
-      "feels_like": 43.2,
-      "temp_min": 38.93,
-      "temp_max": 38.93,
-      "pressure": 997,
-      "humidity": 35,
-      "sea_level": 997,
-      "grnd_level": 977
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 1.42,
-      "deg": 149,
-      "gust": 0.84
-    },
-    "rain": {
-      "1h": 0.32
-    },
-    "clouds": {
-      "all": 47
-    },
-    "dt": 1751527882,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751501239,
-      "sunset": 1751552364
-    },
-    "timezone": 18000,
-    "id": 1166000,
-    "name": "Sargodha",
-    "cod": 200,
-    "city": "Sargodha"
+    "city_name": "Sargodha",
+    "temperature_c": 38.92,
+    "humidity_percent": 34,
+    "wind_speed_mps": 4.15,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:38:57"
   },
   {
-    "coord": {
-      "lon": 73.2215,
-      "lat": 34.1688
-    },
-    "weather": [
-      {
-        "id": 803,
-        "main": "Clouds",
-        "description": "broken clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 27.67,
-      "feels_like": 29.07,
-      "temp_min": 27.67,
-      "temp_max": 27.67,
-      "pressure": 1003,
-      "humidity": 61,
-      "sea_level": 1003,
-      "grnd_level": 855
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 3.27,
-      "deg": 225,
-      "gust": 2.48
-    },
-    "clouds": {
-      "all": 65
-    },
-    "dt": 1751528046,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500784,
-      "sunset": 1751552555
-    },
-    "timezone": 18000,
-    "id": 1185056,
-    "name": "Abbottabad",
-    "cod": 200,
-    "city": "Abbottabad"
+    "city_name": "Abbottabad",
+    "temperature_c": 25.86,
+    "humidity_percent": 73,
+    "wind_speed_mps": 3.32,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:17"
   },
   {
-    "coord": {
-      "lon": 73.7518,
-      "lat": 33.1483
-    },
-    "weather": [
-      {
-        "id": 803,
-        "main": "Clouds",
-        "description": "broken clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 31.6,
-      "feels_like": 33,
-      "temp_min": 31.6,
-      "temp_max": 31.6,
-      "pressure": 999,
-      "humidity": 47,
-      "sea_level": 999,
-      "grnd_level": 961
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 1.98,
-      "deg": 123,
-      "gust": 2.48
-    },
-    "clouds": {
-      "all": 79
-    },
-    "dt": 1751528047,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500817,
-      "sunset": 1751552267
-    },
-    "timezone": 18000,
-    "id": 1169027,
-    "name": "New Mirpur",
-    "cod": 200,
-    "city": "Mirpur"
+    "city_name": "Mirpur",
+    "temperature_c": 31.12,
+    "humidity_percent": 53,
+    "wind_speed_mps": 4.32,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:18"
   },
   {
-    "coord": {
-      "lon": 73.4711,
-      "lat": 34.37
-    },
-    "weather": [
-      {
-        "id": 802,
-        "main": "Clouds",
-        "description": "scattered clouds",
-        "icon": "03d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 31.92,
-      "feels_like": 35.48,
-      "temp_min": 31.92,
-      "temp_max": 31.92,
-      "pressure": 1003,
-      "humidity": 55,
-      "sea_level": 1003,
-      "grnd_level": 843
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 2.72,
-      "deg": 239,
-      "gust": 2.05
-    },
-    "clouds": {
-      "all": 50
-    },
-    "dt": 1751528047,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500692,
-      "sunset": 1751552527
-    },
-    "timezone": 18000,
-    "id": 1169607,
-    "name": "Muzaffarabad",
-    "cod": 200,
-    "city": "Muzaffarabad"
+    "city_name": "Muzaffarabad",
+    "temperature_c": 30.32,
+    "humidity_percent": 66,
+    "wind_speed_mps": 2.33,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:31:33"
   },
   {
-    "coord": {
-      "lon": 68.8574,
-      "lat": 27.7052
-    },
-    "weather": [
-      {
-        "id": 803,
-        "main": "Clouds",
-        "description": "broken clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 41.99,
-      "feels_like": 46.65,
-      "temp_min": 41.99,
-      "temp_max": 41.99,
-      "pressure": 996,
-      "humidity": 29,
-      "sea_level": 996,
-      "grnd_level": 989
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 4.73,
-      "deg": 145,
-      "gust": 4.12
-    },
-    "clouds": {
-      "all": 77
-    },
-    "dt": 1751528047,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751502780,
-      "sunset": 1751552653
-    },
-    "timezone": 18000,
-    "id": 1164408,
-    "name": "Sukkur",
-    "cod": 200,
-    "city": "Sukkur"
+    "city_name": "Sukkur",
+    "temperature_c": 40.56,
+    "humidity_percent": 34,
+    "wind_speed_mps": 4.85,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:20"
   },
   {
-    "coord": {
-      "lon": 72.052,
-      "lat": 34.2014
-    },
-    "weather": [
-      {
-        "id": 802,
-        "main": "Clouds",
-        "description": "scattered clouds",
-        "icon": "03d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 36.47,
-      "feels_like": 42.1,
-      "temp_min": 36.47,
-      "temp_max": 36.47,
-      "pressure": 999,
-      "humidity": 45,
-      "sea_level": 999,
-      "grnd_level": 963
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 4.49,
-      "deg": 87,
-      "gust": 3.73
-    },
-    "clouds": {
-      "all": 32
-    },
-    "dt": 1751528048,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751501059,
-      "sunset": 1751552841
-    },
-    "timezone": 18000,
-    "id": 1170880,
-    "name": "Mardan",
-    "cod": 200,
-    "city": "Mardan"
+    "city_name": "Mardan",
+    "temperature_c": 32.81,
+    "humidity_percent": 47,
+    "wind_speed_mps": 2.75,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:22"
   },
   {
-    "coord": {
-      "lon": 74.4467,
-      "lat": 31.1155
-    },
-    "weather": [
-      {
-        "id": 803,
-        "main": "Clouds",
-        "description": "broken clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 36.24,
-      "feels_like": 43.24,
-      "temp_min": 36.24,
-      "temp_max": 36.24,
-      "pressure": 999,
-      "humidity": 49,
-      "sea_level": 999,
-      "grnd_level": 976
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 2.86,
-      "deg": 136,
-      "gust": 2.06
-    },
-    "clouds": {
-      "all": 68
-    },
-    "dt": 1751528048,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500957,
-      "sunset": 1751551794
-    },
-    "timezone": 18000,
-    "id": 1174625,
-    "name": "Kasur",
-    "cod": 200,
-    "city": "Kasur"
+    "city_name": "Kasur",
+    "temperature_c": 32.04,
+    "humidity_percent": 48,
+    "wind_speed_mps": 3.1,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:23"
   },
   {
-    "coord": {
-      "lon": 68.2066,
-      "lat": 27.5616
-    },
-    "weather": [
-      {
-        "id": 802,
-        "main": "Clouds",
-        "description": "scattered clouds",
-        "icon": "03d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 43.24,
-      "feels_like": 46.93,
-      "temp_min": 43.24,
-      "temp_max": 43.24,
-      "pressure": 995,
-      "humidity": 25,
-      "sea_level": 995,
-      "grnd_level": 989
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 4.65,
-      "deg": 141,
-      "gust": 4.25
-    },
-    "clouds": {
-      "all": 49
-    },
-    "dt": 1751528049,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751502956,
-      "sunset": 1751552790
-    },
-    "timezone": 18000,
-    "id": 1172128,
-    "name": "Larkana",
-    "cod": 200,
-    "city": "Larkana"
+    "city_name": "Larkana",
+    "temperature_c": 41.74,
+    "humidity_percent": 30,
+    "wind_speed_mps": 5.11,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:24"
   },
   {
-    "coord": {
-      "lon": 73.9783,
-      "lat": 31.7131
-    },
-    "weather": [
-      {
-        "id": 802,
-        "main": "Clouds",
-        "description": "scattered clouds",
-        "icon": "03d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 34.24,
-      "feels_like": 38.58,
-      "temp_min": 34.24,
-      "temp_max": 34.24,
-      "pressure": 999,
-      "humidity": 49,
-      "sea_level": 999,
-      "grnd_level": 975
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 3.48,
-      "deg": 149,
-      "gust": 2.2
-    },
-    "clouds": {
-      "all": 45
-    },
-    "dt": 1751528049,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751500981,
-      "sunset": 1751551995
-    },
-    "timezone": 18000,
-    "id": 1165221,
-    "name": "Shekhupura",
-    "cod": 200,
-    "city": "Sheikhupura"
+    "city_name": "Sheikhupura",
+    "temperature_c": 31.54,
+    "humidity_percent": 48,
+    "wind_speed_mps": 3.26,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:25"
   },
   {
-    "coord": {
-      "lon": 72.3189,
-      "lat": 31.2681
-    },
-    "weather": [
-      {
-        "id": 804,
-        "main": "Clouds",
-        "description": "overcast clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 40.94,
-      "feels_like": 46.04,
-      "temp_min": 40.94,
-      "temp_max": 40.94,
-      "pressure": 997,
-      "humidity": 32,
-      "sea_level": 997,
-      "grnd_level": 979
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 3.39,
-      "deg": 123,
-      "gust": 1.94
-    },
-    "clouds": {
-      "all": 100
-    },
-    "dt": 1751528049,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751501445,
-      "sunset": 1751552327
-    },
-    "timezone": 18000,
-    "id": 1175892,
-    "name": "Jhang Sadr",
-    "cod": 200,
-    "city": "Jhang"
+    "city_name": "Jhang",
+    "temperature_c": 41.11,
+    "humidity_percent": 30,
+    "wind_speed_mps": 5.14,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:26"
   },
   {
-    "coord": {
-      "lon": 73.4458,
-      "lat": 30.8081
-    },
-    "weather": [
-      {
-        "id": 804,
-        "main": "Clouds",
-        "description": "overcast clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 38.56,
-      "feels_like": 42.86,
-      "temp_min": 38.56,
-      "temp_max": 38.56,
-      "pressure": 998,
-      "humidity": 36,
-      "sea_level": 998,
-      "grnd_level": 978
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 2.97,
-      "deg": 82,
-      "gust": 2.55
-    },
-    "clouds": {
-      "all": 100
-    },
-    "dt": 1751528050,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751501242,
-      "sunset": 1751551989
-    },
-    "timezone": 18000,
-    "id": 1168718,
-    "name": "Okara",
-    "cod": 200,
-    "city": "Okara"
+    "city_name": "Okara",
+    "temperature_c": 37.02,
+    "humidity_percent": 37,
+    "wind_speed_mps": 4.58,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:27"
   },
   {
-    "coord": {
-      "lon": 72.9789,
-      "lat": 31.7202
-    },
-    "weather": [
-      {
-        "id": 803,
-        "main": "Clouds",
-        "description": "broken clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 38.06,
-      "feels_like": 41.81,
-      "temp_min": 38.06,
-      "temp_max": 38.06,
-      "pressure": 998,
-      "humidity": 36,
-      "sea_level": 998,
-      "grnd_level": 977
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 3.37,
-      "deg": 152,
-      "gust": 2.56
-    },
-    "clouds": {
-      "all": 67
-    },
-    "dt": 1751528050,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751501219,
-      "sunset": 1751552235
-    },
-    "timezone": 18000,
-    "id": 1181096,
-    "name": "Chiniot",
-    "cod": 200,
-    "city": "Chiniot"
+    "city_name": "Chiniot",
+    "temperature_c": 37.69,
+    "humidity_percent": 34,
+    "wind_speed_mps": 3.23,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:28"
   },
   {
-    "coord": {
-      "lon": 68.4101,
-      "lat": 26.2442
-    },
-    "weather": [
-      {
-        "id": 804,
-        "main": "Clouds",
-        "description": "overcast clouds",
-        "icon": "04d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 41.04,
-      "feels_like": 46.8,
-      "temp_min": 41.04,
-      "temp_max": 41.04,
-      "pressure": 995,
-      "humidity": 33,
-      "sea_level": 995,
-      "grnd_level": 992
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 5.24,
-      "deg": 145,
-      "gust": 4.6
-    },
-    "clouds": {
-      "all": 100
-    },
-    "dt": 1751528051,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751503083,
-      "sunset": 1751552565
-    },
-    "timezone": 18000,
-    "id": 1169116,
-    "name": "Nawabshah",
-    "cod": 200,
-    "city": "Nawabshah"
+    "city_name": "Nawabshah",
+    "temperature_c": 38.97,
+    "humidity_percent": 38,
+    "wind_speed_mps": 6.32,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:29"
   },
   {
-    "coord": {
-      "lon": 70.6348,
-      "lat": 30.0515
-    },
-    "weather": [
-      {
-        "id": 800,
-        "main": "Clear",
-        "description": "clear sky",
-        "icon": "01d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 41.65,
-      "feels_like": 47.04,
-      "temp_min": 41.65,
-      "temp_max": 41.65,
-      "pressure": 996,
-      "humidity": 31,
-      "sea_level": 996,
-      "grnd_level": 982
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 2.21,
-      "deg": 54,
-      "gust": 2.77
-    },
-    "clouds": {
-      "all": 0
-    },
-    "dt": 1751528051,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751502026,
-      "sunset": 1751552554
-    },
-    "timezone": 18000,
-    "id": 1180289,
-    "name": "Dera Ghazi Khan",
-    "cod": 200,
-    "city": "Dera Ghazi Khan"
+    "city_name": "Dera Ghazi Khan",
+    "temperature_c": 41.16,
+    "humidity_percent": 29,
+    "wind_speed_mps": 7.96,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:30"
   },
   {
-    "coord": {
-      "lon": 63.03,
-      "lat": 25.9933
-    },
-    "weather": [
-      {
-        "id": 802,
-        "main": "Clouds",
-        "description": "scattered clouds",
-        "icon": "03d"
-      }
-    ],
-    "base": "stations",
-    "main": {
-      "temp": 36.72,
-      "feels_like": 41.01,
-      "temp_min": 36.72,
-      "temp_max": 36.72,
-      "pressure": 997,
-      "humidity": 41,
-      "sea_level": 997,
-      "grnd_level": 982
-    },
-    "visibility": 10000,
-    "wind": {
-      "speed": 3.66,
-      "deg": 205,
-      "gust": 3.27
-    },
-    "clouds": {
-      "all": 47
-    },
-    "dt": 1751528051,
-    "sys": {
-      "country": "PK",
-      "sunrise": 1751504408,
-      "sunset": 1751553823
-    },
-    "timezone": 18000,
-    "id": 1178285,
-    "name": "Gush Tang",
-    "cod": 200,
-    "city": "Turbat"
+    "city_name": "Turbat",
+    "temperature_c": 38.42,
+    "humidity_percent": 36,
+    "wind_speed_mps": 3.3,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "12:40:31"
   }
 ]
