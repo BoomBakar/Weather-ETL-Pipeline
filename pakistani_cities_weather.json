@@ -1,272 +1,272 @@
 [
   {
     "city_name": "Karachi",
-    "temperature_c": 30.32,
-    "humidity_percent": 73,
-    "wind_speed_mps": 4.87,
+    "temperature_c": 30.33,
+    "humidity_percent": 74,
+    "wind_speed_mps": 4.72,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "date_pkt": "2025-07-07",
-    "time_pkt": "12:34:11"
+    "time_pkt": "17:10:40"
   },
   {
     "city_name": "Lahore",
-    "temperature_c": 28.54,
-    "humidity_percent": 62,
-    "wind_speed_mps": 2.47,
+    "temperature_c": 33.52,
+    "humidity_percent": 63,
+    "wind_speed_mps": 2.99,
     "weather_main": "Clear",
     "weather_description": "clear sky",
     "date_pkt": "2025-07-07",
-    "time_pkt": "12:28:52"
+    "time_pkt": "16:58:34"
   },
   {
     "city_name": "Islamabad",
-    "temperature_c": 32.52,
-    "humidity_percent": 58,
-    "wind_speed_mps": 3.1,
-    "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:05"
-  },
-  {
-    "city_name": "Rawalpindi",
-    "temperature_c": 33.33,
-    "humidity_percent": 54,
-    "wind_speed_mps": 3.29,
-    "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:38:56"
-  },
-  {
-    "city_name": "Faisalabad",
-    "temperature_c": 37.03,
-    "humidity_percent": 36,
-    "wind_speed_mps": 3.07,
-    "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:07"
-  },
-  {
-    "city_name": "Multan",
-    "temperature_c": 38.25,
-    "humidity_percent": 30,
-    "wind_speed_mps": 4.89,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:08"
-  },
-  {
-    "city_name": "Peshawar",
-    "temperature_c": 29.65,
-    "humidity_percent": 47,
-    "wind_speed_mps": 0.9,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:09"
-  },
-  {
-    "city_name": "Quetta",
-    "temperature_c": 35.77,
-    "humidity_percent": 17,
-    "wind_speed_mps": 3.49,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:10"
-  },
-  {
-    "city_name": "Sialkot",
-    "temperature_c": 28.99,
-    "humidity_percent": 65,
-    "wind_speed_mps": 2.93,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:11"
-  },
-  {
-    "city_name": "Gujranwala",
-    "temperature_c": 29.55,
-    "humidity_percent": 57,
-    "wind_speed_mps": 2.14,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:12"
-  },
-  {
-    "city_name": "Hyderabad",
-    "temperature_c": 37.1,
-    "humidity_percent": 44,
-    "wind_speed_mps": 5.84,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:13"
-  },
-  {
-    "city_name": "Bahawalpur",
-    "temperature_c": 40.26,
-    "humidity_percent": 33,
-    "wind_speed_mps": 6,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:14"
-  },
-  {
-    "city_name": "Sargodha",
-    "temperature_c": 38.92,
-    "humidity_percent": 34,
-    "wind_speed_mps": 4.15,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:38:57"
-  },
-  {
-    "city_name": "Abbottabad",
-    "temperature_c": 25.86,
-    "humidity_percent": 73,
-    "wind_speed_mps": 3.32,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:17"
-  },
-  {
-    "city_name": "Mirpur",
-    "temperature_c": 31.12,
-    "humidity_percent": 53,
-    "wind_speed_mps": 4.32,
-    "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:18"
-  },
-  {
-    "city_name": "Muzaffarabad",
-    "temperature_c": 30.32,
-    "humidity_percent": 66,
-    "wind_speed_mps": 2.33,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:31:33"
-  },
-  {
-    "city_name": "Sukkur",
-    "temperature_c": 40.56,
-    "humidity_percent": 34,
-    "wind_speed_mps": 4.85,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:20"
-  },
-  {
-    "city_name": "Mardan",
-    "temperature_c": 32.81,
-    "humidity_percent": 47,
-    "wind_speed_mps": 2.75,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:22"
-  },
-  {
-    "city_name": "Kasur",
-    "temperature_c": 32.04,
-    "humidity_percent": 48,
-    "wind_speed_mps": 3.1,
-    "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:23"
-  },
-  {
-    "city_name": "Larkana",
-    "temperature_c": 41.74,
-    "humidity_percent": 30,
-    "wind_speed_mps": 5.11,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:24"
-  },
-  {
-    "city_name": "Sheikhupura",
-    "temperature_c": 31.54,
-    "humidity_percent": 48,
-    "wind_speed_mps": 3.26,
+    "temperature_c": 30.82,
+    "humidity_percent": 72,
+    "wind_speed_mps": 1.93,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:25"
+    "time_pkt": "17:01:01"
   },
   {
-    "city_name": "Jhang",
-    "temperature_c": 41.11,
-    "humidity_percent": 30,
-    "wind_speed_mps": 5.14,
+    "city_name": "Rawalpindi",
+    "temperature_c": 32.07,
+    "humidity_percent": 69,
+    "wind_speed_mps": 1.33,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
     "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:26"
+    "time_pkt": "16:57:30"
   },
   {
-    "city_name": "Okara",
-    "temperature_c": 37.02,
-    "humidity_percent": 37,
-    "wind_speed_mps": 4.58,
+    "city_name": "Faisalabad",
+    "temperature_c": 36.47,
+    "humidity_percent": 45,
+    "wind_speed_mps": 5.5,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:02"
+  },
+  {
+    "city_name": "Multan",
+    "temperature_c": 42.4,
+    "humidity_percent": 28,
+    "wind_speed_mps": 4.52,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:03"
+  },
+  {
+    "city_name": "Peshawar",
+    "temperature_c": 33.55,
+    "humidity_percent": 40,
+    "wind_speed_mps": 3.52,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:04"
+  },
+  {
+    "city_name": "Quetta",
+    "temperature_c": 35.96,
+    "humidity_percent": 20,
+    "wind_speed_mps": 1.35,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:04"
+  },
+  {
+    "city_name": "Sialkot",
+    "temperature_c": 34.78,
+    "humidity_percent": 65,
+    "wind_speed_mps": 0.52,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
     "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:27"
+    "time_pkt": "17:01:05"
+  },
+  {
+    "city_name": "Gujranwala",
+    "temperature_c": 35.49,
+    "humidity_percent": 59,
+    "wind_speed_mps": 4.11,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "16:58:07"
+  },
+  {
+    "city_name": "Hyderabad",
+    "temperature_c": 38.07,
+    "humidity_percent": 39,
+    "wind_speed_mps": 4.54,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:06"
+  },
+  {
+    "city_name": "Bahawalpur",
+    "temperature_c": 41.39,
+    "humidity_percent": 30,
+    "wind_speed_mps": 5.87,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:07"
+  },
+  {
+    "city_name": "Sargodha",
+    "temperature_c": 40.13,
+    "humidity_percent": 31,
+    "wind_speed_mps": 0.7,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:11:03"
+  },
+  {
+    "city_name": "Abbottabad",
+    "temperature_c": 26.04,
+    "humidity_percent": 72,
+    "wind_speed_mps": 0.98,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:08"
+  },
+  {
+    "city_name": "Mirpur",
+    "temperature_c": 34.91,
+    "humidity_percent": 51,
+    "wind_speed_mps": 1.32,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:08"
+  },
+  {
+    "city_name": "Muzaffarabad",
+    "temperature_c": 28.71,
+    "humidity_percent": 74,
+    "wind_speed_mps": 0.87,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:09"
+  },
+  {
+    "city_name": "Sukkur",
+    "temperature_c": 41.39,
+    "humidity_percent": 30,
+    "wind_speed_mps": 4.86,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "16:56:15"
+  },
+  {
+    "city_name": "Mardan",
+    "temperature_c": 36.5,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.96,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:10"
+  },
+  {
+    "city_name": "Kasur",
+    "temperature_c": 35.76,
+    "humidity_percent": 56,
+    "wind_speed_mps": 4.25,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:11"
+  },
+  {
+    "city_name": "Larkana",
+    "temperature_c": 42.29,
+    "humidity_percent": 29,
+    "wind_speed_mps": 4.76,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:11"
+  },
+  {
+    "city_name": "Sheikhupura",
+    "temperature_c": 36.47,
+    "humidity_percent": 53,
+    "wind_speed_mps": 1.47,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:12"
+  },
+  {
+    "city_name": "Jhang",
+    "temperature_c": 41.84,
+    "humidity_percent": 28,
+    "wind_speed_mps": 3.67,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "17:01:12"
+  },
+  {
+    "city_name": "Okara",
+    "temperature_c": 33.25,
+    "humidity_percent": 58,
+    "wind_speed_mps": 3.7,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-07",
+    "time_pkt": "16:58:31"
   },
   {
     "city_name": "Chiniot",
-    "temperature_c": 37.69,
+    "temperature_c": 39.81,
     "humidity_percent": 34,
-    "wind_speed_mps": 3.23,
+    "wind_speed_mps": 4.63,
     "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
+    "weather_description": "broken clouds",
     "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:28"
+    "time_pkt": "17:01:14"
   },
   {
     "city_name": "Nawabshah",
-    "temperature_c": 38.97,
-    "humidity_percent": 38,
-    "wind_speed_mps": 6.32,
+    "temperature_c": 39.78,
+    "humidity_percent": 35,
+    "wind_speed_mps": 4.76,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:29"
+    "time_pkt": "17:01:14"
   },
   {
     "city_name": "Dera Ghazi Khan",
-    "temperature_c": 41.16,
-    "humidity_percent": 29,
-    "wind_speed_mps": 7.96,
+    "temperature_c": 43.26,
+    "humidity_percent": 27,
+    "wind_speed_mps": 6.04,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:30"
+    "time_pkt": "17:01:15"
   },
   {
     "city_name": "Turbat",
-    "temperature_c": 38.42,
-    "humidity_percent": 36,
-    "wind_speed_mps": 3.3,
+    "temperature_c": 37.94,
+    "humidity_percent": 40,
+    "wind_speed_mps": 8.02,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "date_pkt": "2025-07-07",
-    "time_pkt": "12:40:31"
+    "time_pkt": "17:01:15"
   }
 ]
