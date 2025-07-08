@@ -123,7 +123,6 @@ def main():
     structured_data = fetch_weather_data_parallel(cities)
     print("Weather data fetched and stored in the database.")
     save_weather_data_to_files(structured_data)
-
     
 
 
@@ -136,6 +135,45 @@ def log_to_file(message):
     with log_lock:
         with open(log_file_path, "a", encoding="utf-8") as log_file:
             log_file.write(line)
+
+def fetch_weather_data_sequential(cities):
+    structured_data = []
+
+    for idx, city in enumerate(cities, start=1):
+        log_to_file(f"Processing ({idx}/{len(cities)}): {city[1]}")
+        try:
+            weather_data = fetch_weather_data(city)
+            if weather_data:
+                weather_main = weather_data["weather"][0]["main"]
+                weather_description = weather_data["weather"][0]["description"]
+                weather_type_id = insert_weather_type(weather_main)
+
+                # Avoid duplicate inserts
+                timestamp = weather_data.get("dt")
+                date = datetime.fromtimestamp(timestamp, timezone.utc).astimezone(
+                    timezone(timedelta(hours=5))
+                ).strftime("%Y-%m-%d")
+
+                # if weather_entry_exists(city[0], date):
+                #     log_to_file(f"Skipping duplicate for {city[1]} on {date}")
+                #     continue
+
+                insert_weather_data_into_db(weather_data, city[0], weather_type_id, weather_description)
+
+                structured_data.append({
+                    "city_name": city[1],
+                    "temperature_c": weather_data["main"]["temp"],
+                    "humidity_percent": weather_data["main"]["humidity"],
+                    "wind_speed_mps": weather_data["wind"]["speed"],
+                    "weather_main": weather_main,
+                    "weather_description": weather_description,
+                    "date_pkt": date,
+                    "time_pkt": datetime.fromtimestamp(weather_data["dt"]).strftime("%H:%M:%S")
+                })
+        except Exception as e:
+            log_to_file(f"Error processing {city[1]}: {str(e)}")
+
+    return structured_data
 
 def fetch_weather_data_parallel(cities):
     structured_data = []
@@ -168,7 +206,7 @@ def fetch_weather_data_parallel(cities):
         return None
 
 
-    with ThreadPoolExecutor(max_workers=50) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:
         futures = [executor.submit(process_city, i, city) for i, city in enumerate(cities)]
         for future in as_completed(futures):
             result = future.result()
