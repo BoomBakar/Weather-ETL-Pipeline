@@ -5,6 +5,8 @@ import pandas as pd
 import psycopg2
 from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
 
 # Load the API key from .env
 load_dotenv()
@@ -118,36 +120,62 @@ def save_weather_data_to_files(structured_data):
 # Main function to handle everything
 def main():
     cities = fetch_cities_from_db()
+    structured_data = fetch_weather_data_parallel(cities)
+    print("Weather data fetched and stored in the database.")
+    save_weather_data_to_files(structured_data)
+
+    
+
+
+log_lock = threading.Lock()
+log_file_path = "weather_etl_log.txt"
+
+def log_to_file(message):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    line = f"[{timestamp}] {message}\n"
+    with log_lock:
+        with open(log_file_path, "a", encoding="utf-8") as log_file:
+            log_file.write(line)
+
+def fetch_weather_data_parallel(cities):
     structured_data = []
 
-    for city in cities:
-        weather_data = fetch_weather_data(city)
-        
-        if weather_data:
-            # Get the weather type (main weather condition) and description
-            weather_main = weather_data["weather"][0]["main"]
-            weather_description = weather_data["weather"][0]["description"]
-            
-            # Insert the weather type into the DB and get the ID
-            weather_type_id = insert_weather_type(weather_main)
-            
-            # Insert the weather data into the DB
-            insert_weather_data_into_db(weather_data, city[0], weather_type_id, weather_description)
-            
-            # Add data to structured list for saving to files
-            structured_data.append({
-                "city_name": city[1],
-                "temperature_c": weather_data["main"]["temp"],
-                "humidity_percent": weather_data["main"]["humidity"],
-                "wind_speed_mps": weather_data["wind"]["speed"],
-                "weather_main": weather_main,
-                "weather_description": weather_description,
-                "date_pkt": datetime.fromtimestamp(weather_data["dt"]).strftime("%Y-%m-%d"),
-                "time_pkt": datetime.fromtimestamp(weather_data["dt"]).strftime("%H:%M:%S")
-            })
-    print("Weather data fetched and stored in the database.")
-    # Save data to files
-    save_weather_data_to_files(structured_data)
+    log_to_file("==== New ETL Run Started ====\n")
+    
+    def process_city(index, city):
+        city_name = city[1]
+        log_to_file(f"Processing ({index + 1}/{len(cities)}): {city_name}")
+        try:
+            weather_data = fetch_weather_data(city)
+            if weather_data:
+                weather_main = weather_data["weather"][0]["main"]
+                weather_description = weather_data["weather"][0]["description"]
+                weather_type_id = insert_weather_type(weather_main)
+                insert_weather_data_into_db(weather_data, city[0], weather_type_id, weather_description)
+
+                return {
+                    "city_name": city_name,
+                    "temperature_c": weather_data["main"]["temp"],
+                    "humidity_percent": weather_data["main"]["humidity"],
+                    "wind_speed_mps": weather_data["wind"]["speed"],
+                    "weather_main": weather_main,
+                    "weather_description": weather_description,
+                    "date_pkt": datetime.fromtimestamp(weather_data["dt"]).strftime("%Y-%m-%d"),
+                    "time_pkt": datetime.fromtimestamp(weather_data["dt"]).strftime("%H:%M:%S")
+                }
+        except Exception as e:
+            log_to_file(f"Error processing {city_name}: {e}")
+        return None
+
+
+    with ThreadPoolExecutor(max_workers=50) as executor:
+        futures = [executor.submit(process_city, i, city) for i, city in enumerate(cities)]
+        for future in as_completed(futures):
+            result = future.result()
+            if result:
+                structured_data.append(result)
+
+    return structured_data
 
 if __name__ == "__main__":
     main()
