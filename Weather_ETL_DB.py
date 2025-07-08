@@ -117,6 +117,17 @@ def save_weather_data_to_files(structured_data):
     df.to_csv("cleaned_weather_data.csv", index=False)
     print("Cleaned weather data saved to cleaned_weather_data.csv")
 
+def weather_entry_exists(city_id, date, time):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute(
+        "SELECT 1 FROM weather_data WHERE city_id = %s AND date = %s AND time = %s;",
+        (city_id, date, time)
+    )
+    exists = cursor.fetchone() is not None
+    conn.close()
+    return exists
+
 # Main function to handle everything
 def main():
     cities = fetch_cities_from_db()
@@ -189,6 +200,16 @@ def fetch_weather_data_parallel(cities):
                 weather_main = weather_data["weather"][0]["main"]
                 weather_description = weather_data["weather"][0]["description"]
                 weather_type_id = insert_weather_type(weather_main)
+
+                timestamp = weather_data.get("dt")
+                dt_pkt = datetime.fromtimestamp(timestamp, timezone.utc).astimezone(timezone(timedelta(hours=5)))
+                date = dt_pkt.strftime("%Y-%m-%d")
+                time = dt_pkt.strftime("%H:%M:%S")
+
+                if weather_entry_exists(city[0], date, time):
+                    log_to_file(f"Skipping duplicate for {city[1]} on {date} at {time}")
+                    return None
+
                 insert_weather_data_into_db(weather_data, city[0], weather_type_id, weather_description)
 
                 return {
