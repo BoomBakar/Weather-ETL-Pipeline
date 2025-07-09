@@ -19,7 +19,7 @@ cur = conn.cursor()
 url = "http://api.geonames.org/searchJSON"
 params = {
     "country": "PK",                   # Restrict to Pakistan
-    "maxRows": 600,
+    "maxRows": 700,
     "orderby": "population",
     "featureClass": "P",              # 'P' = Populated place
     "username": os.getenv("GEONAMES_USERNAME")
