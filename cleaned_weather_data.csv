@@ -1,699 +1,701 @@
 city_name,temperature_c,humidity_percent,wind_speed_mps,weather_main,weather_description,date_pkt,time_pkt
-Larkana,41.46,31,3.42,Clouds,overcast clouds,2025-07-09,16:47:40
-Wah Cantt,34.04,58,4.7,Clouds,scattered clouds,2025-07-09,16:47:40
-Kasur,36.03,56,2.59,Clouds,overcast clouds,2025-07-09,16:47:40
-Dera Ghazi Khan,42.98,27,7.9,Clouds,scattered clouds,2025-07-09,16:47:40
-Nawabshah,40.26,33,6.51,Clouds,overcast clouds,2025-07-09,16:47:41
-Jhang Sadar,41.74,28,5.51,Rain,light rain,2025-07-09,16:47:41
-Bhimber,33.42,60,2.2,Clouds,broken clouds,2025-07-09,16:47:41
-Hafizabad,36.54,47,4.31,Clouds,broken clouds,2025-07-09,16:47:41
-Chiniot,39.44,33,3.71,Rain,light rain,2025-07-09,16:47:42
-Mardan,33.86,55,4.33,Clouds,broken clouds,2025-07-09,16:47:43
-Malir Cantonment,32.4,61,6.0,Clouds,scattered clouds,2025-07-09,16:47:43
-Mingora,28.64,69,2.29,Clouds,broken clouds,2025-07-09,16:47:43
-Abbottabad,25.77,67,1.53,Clouds,broken clouds,2025-07-09,16:47:44
-Mirpur Khas,38.66,36,8.44,Clouds,few clouds,2025-07-09,16:47:44
-Bahawalpur,39.59,32,5.45,Clouds,broken clouds,2025-07-09,16:47:44
-Skardu,23.43,58,3.08,Clouds,overcast clouds,2025-07-09,16:47:44
-Muzaffargarh,42.7,27,6.35,Clouds,scattered clouds,2025-07-09,16:47:45
-Khangarh,43.46,26,5.15,Clouds,broken clouds,2025-07-09,16:47:45
-Gilgit,28.32,39,2.62,Clouds,overcast clouds,2025-07-09,16:47:45
-Shikarpur,42.43,28,5.17,Clouds,broken clouds,2025-07-09,16:47:45
-Dadu,39.46,33,3.06,Clouds,overcast clouds,2025-07-09,16:47:46
-Tando Allahyar,38.42,36,7.91,Clouds,scattered clouds,2025-07-09,16:47:46
-Shahkot,37.42,41,4.66,Clouds,broken clouds,2025-07-09,16:47:47
-Kamoke,36.21,54,3.59,Clouds,overcast clouds,2025-07-09,16:47:47
-Khairpur,41.4,30,6.56,Clouds,overcast clouds,2025-07-09,16:47:47
-Jhelum,36.1,49,5.41,Clouds,broken clouds,2025-07-09,16:47:47
-Saddiqabad,41.31,28,6.08,Clouds,broken clouds,2025-07-09,16:39:04
-Burewala,41.32,28,6.17,Clouds,broken clouds,2025-07-09,16:47:48
-Muridke,36.29,56,3.86,Clouds,broken clouds,2025-07-09,16:47:48
-Arif Wala,30.9,68,1.71,Clouds,overcast clouds,2025-07-09,16:47:48
-Kohat,35.16,46,5.31,Clouds,broken clouds,2025-07-09,16:47:49
-Layyah,43.82,22,4.08,Clear,clear sky,2025-07-09,16:47:49
-Tordher,35.35,51,3.17,Clear,clear sky,2025-07-09,16:47:49
-Umarkot,37.01,40,8.5,Clouds,scattered clouds,2025-07-09,16:47:49
-Lodhran,41.33,29,6.21,Clouds,broken clouds,2025-07-09,16:47:50
-Khanpur,41.25,29,6.2,Clouds,broken clouds,2025-07-09,16:47:50
-Khuzdar,36.8,21,3.32,Clouds,overcast clouds,2025-07-09,16:47:50
-Gojra,39.77,32,3.45,Rain,light rain,2025-07-09,16:47:50
-Bhakkar,42.86,25,3.63,Clear,clear sky,2025-07-09,16:47:51
-Narowal,35.41,56,2.35,Clouds,broken clouds,2025-07-09,16:47:51
-Mandi Bahauddin,36.13,47,5.12,Clouds,overcast clouds,2025-07-09,16:47:51
-Mianwali,41.55,28,4.15,Clouds,broken clouds,2025-07-09,16:47:51
-Daska Kalan,35.43,60,2.41,Clouds,broken clouds,2025-07-09,16:47:52
-Pakpattan,39.28,33,4.41,Clouds,broken clouds,2025-07-09,16:47:52
-Bahawalnagar,39.3,33,4.43,Clouds,broken clouds,2025-07-09,16:47:52
-Tando Adam,39.76,33,6.92,Clouds,scattered clouds,2025-07-09,16:47:53
-New Mirpur City,33.66,54,3.23,Clouds,broken clouds,2025-07-09,16:47:53
-Toba Tek Singh,40.55,30,4.87,Rain,light rain,2025-07-09,16:47:53
-Chishtian,40.24,31,6.06,Clouds,broken clouds,2025-07-09,16:47:54
-Charsadda,33.67,57,4.95,Clouds,overcast clouds,2025-07-09,16:47:54
-Ghotki,41.95,27,6.08,Clouds,broken clouds,2025-07-09,16:47:54
-Shahdad Kot,42.7,27,5.09,Clouds,overcast clouds,2025-07-09,16:47:55
-Jaranwala,38.55,37,4.24,Clouds,broken clouds,2025-07-09,16:47:55
-Badin,34.54,48,7.58,Clouds,scattered clouds,2025-07-09,16:47:55
-Ahmedpur East,40.82,30,5.84,Clouds,broken clouds,2025-07-09,16:47:56
-Tando Muhammad Khan,37.02,41,7.73,Clouds,few clouds,2025-07-09,16:47:56
-Vehari,41.72,28,6.74,Clouds,broken clouds,2025-07-09,16:47:56
-Kamalia,40.6,30,5.11,Clouds,broken clouds,2025-07-09,16:47:56
-Kot Addu,43.91,24,7.71,Clouds,few clouds,2025-07-09,16:47:57
-Khushāb,38.95,35,5.07,Clouds,broken clouds,2025-07-09,16:47:58
-Wazirabad,35.34,60,3.15,Clouds,broken clouds,2025-07-09,16:40:30
-Chakwal,31.3,60,3.51,Clouds,broken clouds,2025-07-09,16:47:58
-Model Town,36.42,60,2.88,Clouds,broken clouds,2025-07-09,16:43:42
-Swabi,34.79,52,2.86,Clouds,scattered clouds,2025-07-09,16:47:58
-Nowshera Cantonment,35.25,51,4.7,Clouds,broken clouds,2025-07-09,16:47:59
-Jalalpur Jattan,34.63,62,3.99,Clouds,broken clouds,2025-07-09,16:47:59
-Chaman,40.13,9,4.91,Clear,clear sky,2025-07-09,16:47:59
-Kandhkot,42.48,26,6.02,Clouds,broken clouds,2025-07-09,16:47:59
-Hasilpur,40.79,30,6.41,Clouds,broken clouds,2025-07-09,16:48:00
-Arifwala,40.91,29,4.09,Clouds,broken clouds,2025-07-09,16:48:00
-Mianke Mor,36.77,49,3.94,Clouds,overcast clouds,2025-07-09,16:48:01
-Attock City,35.2,52,3.23,Clouds,few clouds,2025-07-09,16:48:01
-Chichawatni,40.51,30,5.23,Clouds,broken clouds,2025-07-09,16:48:02
-Kharian,35.0,55,5.09,Clouds,broken clouds,2025-07-09,16:48:02
-Qambar,41.74,30,3.92,Clouds,overcast clouds,2025-07-09,16:48:02
-Moro,40.35,33,3.65,Clouds,overcast clouds,2025-07-09,16:48:02
-Mian Channu,40.56,30,3.53,Clouds,broken clouds,2025-07-09,16:48:03
-Bhalwal,38.53,36,3.95,Clouds,broken clouds,2025-07-09,16:48:03
-Turbat,33.2,59,4.21,Clouds,overcast clouds,2025-07-09,16:48:03
-Dipalpur,38.54,36,3.46,Clouds,overcast clouds,2025-07-09,16:41:08
-Pano Aqil,41.92,27,6.24,Clouds,broken clouds,2025-07-09,16:48:04
-Kotri,38.49,38,7.78,Clouds,scattered clouds,2025-07-09,16:48:04
-Harunabad,39.44,32,5.01,Clouds,overcast clouds,2025-07-09,16:48:05
-Gwadar,29.41,75,6.07,Clouds,broken clouds,2025-07-09,16:48:05
-Pattoki,37.36,43,3.71,Clouds,overcast clouds,2025-07-09,16:38:23
-Rabwah,39.59,33,3.42,Clouds,broken clouds,2025-07-09,16:48:05
-Kahror Pakka,41.5,28,6.17,Clouds,overcast clouds,2025-07-09,16:48:06
-Chuhar Kana,36.84,48,4.06,Clouds,overcast clouds,2025-07-09,16:48:06
-Shahdadpur,40.1,32,6.56,Clouds,scattered clouds,2025-07-09,16:48:07
-Shabqadar,33.26,58,5.55,Clouds,overcast clouds,2025-07-09,16:48:08
-Mansehra,27.65,65,2.11,Clouds,broken clouds,2025-07-09,16:48:08
-Shujaabad,42.15,28,7.35,Clouds,broken clouds,2025-07-09,16:48:09
-Gujar Khan,34.02,55,4.29,Clouds,broken clouds,2025-07-09,16:48:09
-Kot Malik Barkhurdar,35.56,16,3.23,Clouds,few clouds,2025-07-09,16:48:09
-Haveli Lakha,38.03,36,2.92,Clouds,overcast clouds,2025-07-09,16:48:09
-Shorkot,42.55,26,4.91,Clear,clear sky,2025-07-09,16:48:10
-Lalamusa,34.82,58,4.64,Clouds,broken clouds,2025-07-09,16:48:10
-Mailsi,41.66,28,6.44,Clouds,overcast clouds,2025-07-09,16:48:10
-Shakargarh,34.08,57,1.61,Clouds,broken clouds,2025-07-09,16:48:10
-Sibi,41.42,30,4.56,Clouds,broken clouds,2025-07-09,16:48:11
-Jampur,42.18,29,6.82,Clouds,scattered clouds,2025-07-09,16:48:11
-Sambrial,34.83,64,2.43,Clouds,broken clouds,2025-07-09,16:48:11
-Sanghar,40.64,31,6.56,Clouds,scattered clouds,2025-07-09,16:48:11
-Hujra Shah Muqim,38.07,38,2.75,Clouds,overcast clouds,2025-07-09,16:48:12
-Kabirwala,40.99,30,4.36,Clouds,broken clouds,2025-07-09,16:48:12
-Chunian,37.12,44,3.59,Clouds,overcast clouds,2025-07-09,16:48:12
-Sangla Hill,37.29,41,5.06,Clouds,broken clouds,2025-07-09,16:48:13
-Haripur,32.69,58,1.49,Clouds,broken clouds,2025-07-09,16:48:13
-Nankana Sahib,37.29,44,4.6,Clouds,broken clouds,2025-07-09,16:48:13
-Pasrur,35.49,57,2.65,Clouds,broken clouds,2025-07-09,16:48:13
-Rajanpur,42.03,28,6.26,Clouds,broken clouds,2025-07-09,16:48:13
-Rohri,41.74,28,6.43,Clouds,broken clouds,2025-07-09,16:48:14
-Zhob,36.82,19,5.67,Clear,clear sky,2025-07-09,16:48:14
-Matli,36.3,42,7.52,Clouds,few clouds,2025-07-09,16:48:14
-Rawalakot,23.75,68,1.88,Clouds,overcast clouds,2025-07-09,16:48:15
-Hadali,35.51,58,3.83,Clouds,scattered clouds,2025-07-09,16:48:15
-Mirpur Mathelo,41.61,28,6.29,Clouds,scattered clouds,2025-07-09,16:48:15
-Dullewala,41.96,27,4.58,Clear,clear sky,2025-07-09,16:48:16
-Hala,39.8,33,6.81,Clouds,scattered clouds,2025-07-09,16:48:16
-Ratodero,42.05,30,4.57,Clouds,broken clouds,2025-07-09,16:48:16
-Jatoi Shimali,42.6,28,7.03,Clouds,broken clouds,2025-07-09,16:48:16
-Jauharabad,39.61,33,5.46,Clouds,broken clouds,2025-07-09,16:48:16
-Bat Khela,31.12,62,1.94,Clouds,broken clouds,2025-07-09,16:48:17
-Kot Radha Kishan,36.57,51,3.64,Clouds,overcast clouds,2025-07-09,16:48:17
-Kahna Nau,36.34,59,2.63,Clouds,broken clouds,2025-07-09,16:47:48
-Mustafabad,38.95,35,5.27,Clouds,overcast clouds,2025-07-09,16:48:17
-Chak Thirty-one -Eleven Left,40.9,29,4.88,Clouds,broken clouds,2025-07-09,16:48:18
-Talagang,35.38,44,5.16,Clouds,broken clouds,2025-07-09,16:48:18
-Taunsa,42.6,24,1.96,Clear,clear sky,2025-07-09,16:48:19
-Thatta,34.58,51,7.65,Clouds,scattered clouds,2025-07-09,16:48:19
-Sarai Alamgir,36.16,50,5.52,Clouds,broken clouds,2025-07-09,16:48:19
-Usta Muhammad,43.6,26,4.25,Clouds,overcast clouds,2025-07-09,16:48:19
-Kamra,27.36,68,1.52,Clouds,broken clouds,2025-07-09,16:48:20
-Basirpur,37.75,38,2.59,Clouds,overcast clouds,2025-07-09,16:48:20
-Sehwan,39.74,33,3.32,Clouds,overcast clouds,2025-07-09,16:48:20
-Naushahra Virkan,36.33,51,3.25,Clouds,broken clouds,2025-07-09,16:48:20
-Fort Abbas,39.59,31,4.33,Clouds,broken clouds,2025-07-09,16:48:21
-Havelian,29.27,65,1.14,Clouds,overcast clouds,2025-07-09,16:48:21
-Khairpur,41.42,28,6.36,Clouds,scattered clouds,2025-07-09,16:48:21
-Ladhewala Waraich,35.98,54,3.02,Clouds,overcast clouds,2025-07-09,16:48:22
-Dinga,35.94,51,5.45,Clouds,broken clouds,2025-07-09,16:48:22
-New Badah,40.92,32,3.94,Clouds,overcast clouds,2025-07-09,16:48:22
-Tank,40.84,30,3.74,Clear,clear sky,2025-07-09,16:48:22
-Kot Mumin,38.19,37,4.75,Clouds,broken clouds,2025-07-09,16:48:23
-Khalabat,33.04,58,0.93,Clouds,broken clouds,2025-07-09,16:48:23
-Tandlianwala,39.88,31,5.7,Clouds,overcast clouds,2025-07-09,16:48:23
-Chak Azam Sahu,39.81,31,5.29,Clouds,overcast clouds,2025-07-09,16:48:23
-Loralai,32.74,38,8.16,Clouds,scattered clouds,2025-07-09,16:48:24
-Jalalpur Pirwala,41.56,29,7.44,Clouds,broken clouds,2025-07-09,16:48:24
-Pabbi,35.44,50,4.54,Clouds,overcast clouds,2025-07-09,16:48:24
-Chak Jhumra,39.02,34,4.55,Rain,light rain,2025-07-09,16:48:24
-Renala Khurd,38.64,36,4.58,Clouds,overcast clouds,2025-07-09,16:48:25
-Sahiwal,41.65,27,5.79,Clouds,broken clouds,2025-07-09,16:48:25
-Risālpur,34.63,53,5.11,Clouds,broken clouds,2025-07-09,16:48:26
-Topi,34.54,54,2.79,Clouds,broken clouds,2025-07-09,16:48:26
-Lakki,41.07,30,4.65,Clouds,scattered clouds,2025-07-09,16:48:26
-Hangu,32.23,49,3.17,Clouds,scattered clouds,2025-07-09,16:48:26
-Pir Jo Goth,41.63,30,6.02,Clouds,overcast clouds,2025-07-09,16:48:27
-Kundian,41.72,27,3.23,Clouds,scattered clouds,2025-07-09,16:48:27
-Pir Mahal,41.2,29,4.01,Rain,moderate rain,2025-07-09,16:48:27
-Khurarianwala,38.68,36,4.38,Rain,light rain,2025-07-09,16:48:27
-Mehrabpur,43.52,26,4.88,Clouds,overcast clouds,2025-07-09,16:48:28
-Pindi Bhattian,37.71,39,5.2,Clouds,broken clouds,2025-07-09,16:48:28
-Malakwal City,37.24,42,3.88,Clouds,overcast clouds,2025-07-09,16:48:28
-Narang Mandi,36.25,55,3.65,Clouds,broken clouds,2025-07-09,16:48:28
-Malakwal,37.24,42,3.88,Clouds,overcast clouds,2025-07-09,16:48:28
-Thul,42.76,27,5.37,Clouds,broken clouds,2025-07-09,16:48:29
-Pindi Gheb,36.1,47,6.85,Clouds,broken clouds,2025-07-09,16:48:29
-Zahir Pir,41.66,28,6.13,Clouds,broken clouds,2025-07-09,16:48:31
-Dunyapur,41.8,28,6.61,Clouds,broken clouds,2025-07-09,16:48:31
-Gambat,41.19,31,6.51,Clouds,overcast clouds,2025-07-09,16:48:31
-Alipur,42.5,27,7.33,Clouds,broken clouds,2025-07-09,16:48:32
-Kashmor,41.98,27,6.16,Clouds,broken clouds,2025-07-09,16:48:33
-Bagh,24.74,70,1.91,Clouds,overcast clouds,2025-07-09,16:48:33
-Naudero,41.6,31,4.32,Clouds,broken clouds,2025-07-09,16:48:33
-Pasni,28.28,81,3.6,Clouds,overcast clouds,2025-07-09,16:48:33
-Sukheke Mandi,37.22,43,4.6,Clouds,overcast clouds,2025-07-09,16:48:33
-Setharja Old,41.09,32,6.63,Clouds,overcast clouds,2025-07-09,16:48:34
-Khewra,35.58,45,3.62,Clouds,broken clouds,2025-07-09,16:48:34
-Mamu Kanjan,40.21,31,5.53,Clouds,overcast clouds,2025-07-09,16:48:34
-Sharqpur Sharif,36.5,55,3.26,Clouds,broken clouds,2025-07-09,16:48:34
-Digri,37.03,39,7.36,Clouds,few clouds,2025-07-09,16:48:35
-Bhera,38.15,38,3.08,Clouds,overcast clouds,2025-07-09,16:48:35
-Sakrand,40.08,34,6.65,Clouds,overcast clouds,2025-07-09,16:48:36
-Tando Jam,38.57,37,7.41,Clouds,scattered clouds,2025-07-09,16:48:36
-Raiwind,36.34,55,3.14,Clouds,broken clouds,2025-07-09,16:48:36
-Lalian,39.72,32,3.66,Clouds,broken clouds,2025-07-09,16:48:36
-Khairpur Tamewah,41.38,28,6.29,Clouds,overcast clouds,2025-07-09,16:48:36
-Kharan,43.81,12,6.67,Clouds,scattered clouds,2025-07-09,16:48:37
-Mehar,40.39,33,4.08,Clouds,broken clouds,2025-07-09,16:48:37
-Khangah Dogran,37.01,45,4.28,Clouds,overcast clouds,2025-07-09,16:48:37
-Khairpur Nathan Shah,40.39,32,4.47,Clouds,broken clouds,2025-07-09,16:48:37
-Dīr,25.32,73,3.18,Clouds,broken clouds,2025-07-09,16:48:38
-Ghauspur,42.39,27,5.93,Clouds,broken clouds,2025-07-09,16:48:38
-Tangi,31.93,65,4.81,Clouds,overcast clouds,2025-07-09,16:48:39
-Utmanzai,33.21,59,4.99,Clouds,overcast clouds,2025-07-09,16:48:39
-Thal,19.75,80,3.42,Clouds,few clouds,2025-07-09,16:48:39
-Minchianabad,38.7,35,2.36,Clouds,broken clouds,2025-07-09,16:48:39
-Garh Maharaja,41.91,28,6.49,Clouds,scattered clouds,2025-07-09,16:48:40
-Jahanian Shah,42.2,26,4.19,Clouds,scattered clouds,2025-07-09,16:48:40
-Mastung,35.74,16,2.74,Clouds,scattered clouds,2025-07-09,16:48:40
-Mananwala,37.08,45,4.48,Clouds,overcast clouds,2025-07-09,16:48:40
-Fazilpur,34.78,57,1.5,Clouds,broken clouds,2025-07-09,16:48:41
-Talamba,40.28,30,2.79,Clouds,broken clouds,2025-07-09,16:48:41
-Kunjah,35.6,56,4.23,Clouds,overcast clouds,2025-07-09,16:48:41
-Jhawarian,38.32,36,4.25,Clouds,broken clouds,2025-07-09,16:48:41
-Nasirabad,40.84,33,4.2,Clouds,overcast clouds,2025-07-09,16:48:42
-Nushki,41.32,12,3.9,Clouds,broken clouds,2025-07-09,16:48:42
-Sita Road,40.72,33,3.95,Clouds,broken clouds,2025-07-09,16:48:42
-Dijkot,39.12,34,3.92,Rain,light rain,2025-07-09,16:48:43
-Sillanwali,41.4,28,6.42,Clouds,broken clouds,2025-07-09,16:48:43
-Kandiaro,40.79,33,5.25,Clouds,overcast clouds,2025-07-09,16:48:43
-Zaida,35.09,51,3.18,Clouds,scattered clouds,2025-07-09,16:48:43
-Kunri,36.66,40,7.98,Clouds,scattered clouds,2025-07-09,16:48:43
-Kalat,32.15,18,4.9,Clouds,broken clouds,2025-07-09,16:48:44
-Daud Khel,39.5,34,2.66,Clouds,broken clouds,2025-07-09,16:48:44
-Mitha Tiwana,40.73,29,5.28,Clouds,broken clouds,2025-07-09,16:48:44
-Dunga Bunga,39.44,33,4.91,Clouds,broken clouds,2025-07-09,16:48:45
-Hazro,35.52,52,3.19,Clouds,scattered clouds,2025-07-09,16:48:45
-Amangarh,35.3,51,5.02,Clouds,overcast clouds,2025-07-09,16:48:45
-Karor,43.42,24,3.54,Clear,clear sky,2025-07-09,16:48:46
-Kot Diji,40.96,31,6.81,Clouds,overcast clouds,2025-07-09,16:48:46
-Kalur Kot,41.59,28,4.41,Clouds,few clouds,2025-07-09,16:48:47
-Murree,22.94,68,1.3,Clouds,overcast clouds,2025-07-09,16:48:47
-Faqirwali,39.23,32,5.06,Clouds,overcast clouds,2025-07-09,16:48:47
-Ahmadpur Sial,42.48,27,7.58,Clouds,scattered clouds,2025-07-09,16:48:47
-Mian Sahib,42.72,27,5.29,Clouds,broken clouds,2025-07-09,16:48:47
-Phalia,36.22,47,4.88,Clouds,broken clouds,2025-07-09,16:48:48
-Yazman,41.04,29,6.66,Clouds,overcast clouds,2025-07-09,16:48:48
-Raja Jang,36.28,56,3.12,Clouds,overcast clouds,2025-07-09,16:48:48
-Chak Five Hundred Seventy-five,36.88,48,4.26,Clouds,overcast clouds,2025-07-09,16:48:49
-Pishin,37.99,11,5.44,Clear,clear sky,2025-07-09,16:48:49
-Chak One Hundred Twenty Nine Left,41.06,29,3.53,Clouds,broken clouds,2025-07-09,16:48:56
-Ubauro,41.48,28,6.18,Clouds,scattered clouds,2025-07-09,16:49:01
-Chawinda,35.3,57,2.3,Clouds,broken clouds,2025-07-09,16:49:11
-Zafarwal,34.89,56,1.8,Clouds,broken clouds,2025-07-09,16:49:35
-Ranipur,41.13,32,6.56,Clouds,overcast clouds,2025-07-09,16:49:36
-Kahuta,30.9,65,3.2,Clouds,broken clouds,2025-07-09,16:49:36
-Kulachi,41.77,28,3.36,Clear,clear sky,2025-07-09,16:49:37
-Khanpur Mahar,41.62,28,6.58,Clouds,broken clouds,2025-07-09,16:49:37
-Naukot,35.94,42,7.72,Clouds,scattered clouds,2025-07-09,16:49:38
-Pind Dadan Khan,37.28,42,3.47,Clouds,broken clouds,2025-07-09,16:49:38
-Hingorja,41.11,32,6.51,Clouds,overcast clouds,2025-07-09,16:49:38
-Kanganpur,37.13,43,2.91,Clouds,overcast clouds,2025-07-09,16:49:39
-Faruka,41.85,27,5.88,Clouds,broken clouds,2025-07-09,16:49:39
-Mithi,35.03,45,7.78,Clouds,broken clouds,2025-07-09,16:49:26
-Kotli Loharan,35.28,61,3.35,Clouds,scattered clouds,2025-07-09,16:49:40
-Talhar,35.67,44,7.53,Clouds,scattered clouds,2025-07-09,16:49:41
-Pad Idan,40.67,33,7.3,Clouds,overcast clouds,2025-07-09,16:49:41
-Shahpur Chakar,40.35,31,6.49,Clouds,broken clouds,2025-07-09,16:49:41
-Kot Ghulam Muhammad,35.29,59,2.72,Clouds,broken clouds,2025-07-09,16:49:41
-Qadirpur Ran,41.09,30,4.87,Clouds,broken clouds,2025-07-09,16:49:42
-Sook Kalan,34.74,62,3.84,Clouds,broken clouds,2025-07-09,16:49:43
-Bela,31.56,67,2.45,Clouds,overcast clouds,2025-07-09,16:49:43
-Surkhpur,35.07,59,4.03,Clouds,scattered clouds,2025-07-09,16:49:44
-Kot Samaba,41.37,28,6.06,Clouds,broken clouds,2025-07-09,16:49:45
-Dhoro Naro,37.77,38,8.97,Clouds,few clouds,2025-07-09,16:49:47
-Gharo,32.97,58,7.16,Clouds,scattered clouds,2025-07-09,16:49:50
-Khangarh,42.41,28,6.39,Clouds,scattered clouds,2025-07-09,16:49:51
-Dhanote,41.33,29,6.12,Clouds,overcast clouds,2025-07-09,16:49:55
-Warah,40.93,33,4.68,Clouds,overcast clouds,2025-07-09,16:49:55
-Sarai Naurang,40.81,29,5.41,Clouds,scattered clouds,2025-07-09,16:49:55
-Lachi,36.07,43,3.61,Clouds,broken clouds,2025-07-09,16:49:57
-Baddomalhi,35.98,55,3.44,Clouds,broken clouds,2025-07-09,16:49:57
-Jand,36.5,43,2.99,Clouds,broken clouds,2025-07-09,16:49:57
-Matiari,39.39,34,6.99,Clouds,scattered clouds,2025-07-09,16:49:58
-Fatehpur,43.86,23,5.21,Clouds,few clouds,2025-07-09,16:49:59
-Dera Bugti,38.39,33,6.0,Clouds,broken clouds,2025-07-09,16:49:59
-Tharu Shah,40.68,33,4.55,Clouds,overcast clouds,2025-07-09,16:49:59
-Naushahro Firoz,40.62,33,4.95,Clouds,overcast clouds,2025-07-09,16:50:00
-Dajal,42.15,28,8.31,Clouds,scattered clouds,2025-07-09,16:50:00
-Daur,40.41,33,7.06,Clouds,overcast clouds,2025-07-09,16:50:00
-Bhopalwala,34.98,63,2.3,Clouds,broken clouds,2025-07-09,16:50:01
-Paharpur,41.75,28,4.96,Clouds,few clouds,2025-07-09,16:50:01
-Bhan,39.3,32,3.15,Clouds,overcast clouds,2025-07-09,16:50:02
-Mach,34.67,41,4.53,Clear,clear sky,2025-07-09,16:50:02
-Goth Radhan,40.66,33,4.01,Clouds,broken clouds,2025-07-09,16:50:02
-Uthal,31.81,64,4.51,Clouds,overcast clouds,2025-07-09,16:50:03
-Kaleke Mandi,37.04,44,4.35,Clouds,overcast clouds,2025-07-09,16:50:03
-Jiwani,29.27,76,7.26,Clouds,overcast clouds,2025-07-09,16:50:04
-Johi,38.91,31,2.32,Clouds,overcast clouds,2025-07-09,16:50:04
-Mangla,41.91,27,5.65,Clouds,scattered clouds,2025-07-09,16:50:05
-Chhor,37.58,39,8.84,Clouds,few clouds,2025-07-09,16:50:05
-Bhawana,40.44,30,5.38,Rain,light rain,2025-07-09,16:50:05
-Shahr Sultan,42.52,27,7.42,Clouds,broken clouds,2025-07-09,16:50:06
-Jhol,40.43,32,6.7,Clouds,scattered clouds,2025-07-09,16:50:07
-Sodhra,35.05,62,2.89,Clouds,broken clouds,2025-07-09,16:50:07
-Kalabagh,38.71,36,1.74,Clouds,broken clouds,2025-07-09,16:50:07
-Sinjhoro,40.52,31,6.46,Clouds,scattered clouds,2025-07-09,16:50:07
-Kamar Mushani,39.99,33,3.98,Clouds,broken clouds,2025-07-09,16:50:09
-Kallar Kahar,32.69,51,4.69,Clouds,broken clouds,2025-07-09,16:50:09
-Chuhar Jamali,34.12,51,7.0,Clouds,scattered clouds,2025-07-09,16:50:09
-Harnoli,41.63,27,3.66,Clouds,few clouds,2025-07-09,16:50:09
-Sarai Sidhu,40.66,31,5.14,Clouds,broken clouds,2025-07-09,16:50:10
-Choa Saidan Shah,32.69,49,3.95,Clouds,scattered clouds,2025-07-09,16:50:11
-Dadhar,42.01,29,5.65,Clouds,few clouds,2025-07-09,16:50:11
-Darya Khan,42.67,26,4.45,Clear,clear sky,2025-07-09,16:50:11
-Harappa,40.19,31,5.35,Clouds,overcast clouds,2025-07-09,16:50:12
-Garhiyasin,42.48,29,5.02,Clouds,broken clouds,2025-07-09,16:50:12
-Daira Din Panah,44.08,24,7.27,Clouds,few clouds,2025-07-09,16:50:12
-Madeji,41.92,30,4.83,Clouds,broken clouds,2025-07-09,16:50:13
-Bhit Shah,39.87,33,6.78,Clouds,scattered clouds,2025-07-09,16:50:13
-Dokri,41.08,32,3.8,Clouds,overcast clouds,2025-07-09,16:50:13
-Sobhodero,41.25,32,5.86,Clouds,overcast clouds,2025-07-09,16:50:14
-Dalbandin,42.28,10,6.7,Clouds,few clouds,2025-07-09,16:50:14
-Daulatpur,40.2,32,3.55,Clouds,overcast clouds,2025-07-09,16:50:14
-Bhag,42.36,28,3.33,Clouds,broken clouds,2025-07-09,16:50:15
-Rasulnagar,35.87,51,4.45,Clouds,broken clouds,2025-07-09,16:50:15
-Chak,42.13,28,5.83,Clouds,broken clouds,2025-07-09,16:50:16
-Shahpur,38.6,35,4.51,Clouds,broken clouds,2025-07-09,16:50:16
-Tando Bago,35.38,45,7.69,Clouds,scattered clouds,2025-07-09,16:50:16
-Baffa,27.34,64,1.79,Clouds,broken clouds,2025-07-09,16:50:16
-Muhammad Pur,39.94,31,5.11,Clouds,overcast clouds,2025-07-09,16:50:17
-Karak,35.93,40,2.09,Clouds,broken clouds,2025-07-09,16:50:17
-Lakhi,42.19,28,5.45,Clouds,broken clouds,2025-07-09,16:50:18
-Garhi Khairo,43.44,26,5.24,Clouds,overcast clouds,2025-07-09,16:50:18
-Gadani,30.3,77,4.58,Clouds,scattered clouds,2025-07-09,16:50:18
-Surab,32.74,24,4.87,Clouds,overcast clouds,2025-07-09,16:50:18
-Chak One Hundred Thirty-eight Nine Left,40.59,30,4.07,Clouds,overcast clouds,2025-07-09,16:50:19
-Rojhan,41.93,28,6.12,Clouds,scattered clouds,2025-07-09,16:50:19
-Ormara,28.24,85,4.97,Clouds,overcast clouds,2025-07-09,16:50:19
-Chamber,37.66,38,7.71,Clouds,few clouds,2025-07-09,16:50:20
-Kalaswala,35.58,56,2.79,Clouds,broken clouds,2025-07-09,16:50:21
-Islamkot,34.26,49,8.07,Clouds,broken clouds,2025-07-09,16:50:21
-Bhiria,40.7,33,5.75,Clouds,overcast clouds,2025-07-09,16:50:22
-Liliani,38.46,36,4.47,Clouds,broken clouds,2025-07-09,16:50:22
-Mirwah Gorchani,37.55,38,7.58,Clouds,few clouds,2025-07-09,16:50:23
-Saidpur,28.74,65,3.32,Clouds,scattered clouds,2025-07-09,16:47:59
-Dhaunkal,35.39,59,3.09,Clouds,overcast clouds,2025-07-09,16:50:23
-Bhagowal,35.11,58,2.6,Clouds,scattered clouds,2025-07-09,16:50:24
-Daultala,33.24,56,3.91,Clouds,broken clouds,2025-07-09,16:46:21
-Diplo,34.57,47,7.18,Clouds,broken clouds,2025-07-09,16:50:24
-Kohlu,33.92,37,8.15,Clouds,few clouds,2025-07-09,16:50:25
-Harnai,34.28,44,5.05,Clear,clear sky,2025-07-09,16:50:25
-Daromehar,36.17,45,7.08,Clouds,scattered clouds,2025-07-09,16:50:25
-Jandiala Sher Khan,36.59,50,3.55,Clouds,overcast clouds,2025-07-09,16:50:25
-Sanjwal,34.96,53,3.51,Clouds,few clouds,2025-07-09,16:50:26
-Bhagwal,34.58,57,4.68,Clouds,broken clouds,2025-07-09,16:50:26
-Miro Khan,42.22,29,4.23,Clouds,broken clouds,2025-07-09,16:50:27
-Mankera,43.4,23,5.96,Rain,light rain,2025-07-09,16:50:27
-Khar,29.97,61,2.45,Clouds,broken clouds,2025-07-09,16:50:28
-Gahkuch,30.36,34,5.35,Clouds,scattered clouds,2025-07-09,16:50:28
-Kot Sultan,43.83,23,4.65,Clear,clear sky,2025-07-09,16:50:28
-Khadro,40.52,31,6.49,Clouds,broken clouds,2025-07-09,16:50:28
-Berani,39.78,33,7.31,Clouds,scattered clouds,2025-07-09,16:50:29
-Mirdad Muafi,40.01,31,5.4,Clouds,overcast clouds,2025-07-09,16:50:30
-Chak Ninety-eight -Nine Left,40.23,30,3.76,Clouds,overcast clouds,2025-07-09,16:50:30
-Tibbi Jay Singh,39.82,32,5.51,Clouds,overcast clouds,2025-07-09,16:50:30
-Chak Sixty-five A Gugera Distributary,39.69,32,4.68,Clouds,overcast clouds,2025-07-09,16:50:31
-Chak One Hundred Twelve -Nine Left,40.34,30,3.76,Clouds,broken clouds,2025-07-09,16:50:31
-Begowala,34.98,63,2.53,Clouds,broken clouds,2025-07-09,16:50:31
-Tangwani,42.69,26,5.85,Clouds,broken clouds,2025-07-09,16:50:32
-Bozdar Wada,40.84,31,6.87,Clouds,overcast clouds,2025-07-09,16:50:32
-Darya Khan Marri,40.63,33,7.38,Clouds,overcast clouds,2025-07-09,16:50:33
-Jati,33.11,54,7.28,Clouds,few clouds,2025-07-09,16:50:33
-Rustam,42.32,28,5.54,Clouds,broken clouds,2025-07-09,16:50:33
-Doaba,32.81,47,2.3,Clouds,broken clouds,2025-07-09,16:50:34
-Sohbatpur,43.53,25,5.08,Clouds,overcast clouds,2025-07-09,16:50:35
-Sann,39.47,36,6.84,Clouds,overcast clouds,2025-07-09,16:50:35
-Mīrpur Batoro,35.99,44,7.19,Clouds,few clouds,2025-07-09,16:50:35
-Barkhan,33.91,38,5.49,Clouds,scattered clouds,2025-07-09,16:50:35
-Samaro,37.34,39,7.52,Clouds,few clouds,2025-07-09,16:50:35
-Bandhi,40.55,34,7.31,Clouds,overcast clouds,2025-07-09,16:50:36
-Karaundi,40.61,33,7.37,Clouds,overcast clouds,2025-07-09,16:50:37
-Mirpur Sakro,32.46,58,7.13,Clouds,scattered clouds,2025-07-09,16:50:37
-Kaure Shah Zerin,39.8,31,5.43,Clouds,overcast clouds,2025-07-09,16:50:37
-Chak One Hundred Ninety Nine A Left,40.25,30,4.84,Clouds,overcast clouds,2025-07-09,16:50:37
-Adilpur,41.88,27,6.18,Clouds,broken clouds,2025-07-09,16:50:38
-Chak One Hundred Eighty-six Nine Left,40.42,30,4.54,Clouds,overcast clouds,2025-07-09,16:50:39
-Chak Ninety-nine -Nine Left,39.99,31,3.75,Clouds,overcast clouds,2025-07-09,16:50:39
-Goth Phulji,39.62,31,3.89,Clouds,overcast clouds,2025-07-09,16:50:39
-Bagarji,41.98,29,5.95,Clouds,broken clouds,2025-07-09,16:50:39
-Chak One Hundred Eighty-five A Nine Left,40.57,30,4.26,Clouds,broken clouds,2025-07-09,16:50:40
-Rajo Khanani,36.09,43,7.59,Clouds,scattered clouds,2025-07-09,16:50:42
-Alik Ghund,29.62,22,3.89,Clear,clear sky,2025-07-09,16:50:42
-Dinan Wala,39.39,33,4.88,Clouds,broken clouds,2025-07-09,16:50:42
-Thamewali,37.53,34,2.99,Clouds,broken clouds,2025-07-09,16:50:43
-Chak One Hundred Eighty-seven Nine Left,40.45,30,4.31,Clouds,overcast clouds,2025-07-09,16:50:43
-Chak One Hundred Twenty-nine -Nine Left,40.59,30,3.91,Clouds,overcast clouds,2025-07-09,16:50:44
-Jām Sāhib,40.37,31,6.74,Clouds,broken clouds,2025-07-09,16:50:44
-Kandiari,40.56,32,7.0,Clouds,overcast clouds,2025-07-09,16:50:44
-Goth Garelo,41.17,32,3.66,Clouds,overcast clouds,2025-07-09,16:50:44
-Kadhan,33.9,52,7.97,Clouds,broken clouds,2025-07-09,16:50:45
-Nazir Town,33.61,55,3.89,Clouds,overcast clouds,2025-07-09,16:50:45
-Chak One Hundred Eight -Nine Left,40.36,30,3.72,Clouds,overcast clouds,2025-07-09,16:50:45
-Khadan Khak,34.87,14,9.46,Clear,clear sky,2025-07-09,16:50:46
-Chak One Hundred Three Seven Right,40.16,31,5.55,Clouds,broken clouds,2025-07-09,16:50:46
-Chak One Hundred Forty-two Nine Left,40.57,30,4.26,Clouds,broken clouds,2025-07-09,16:50:46
-Pithoro,38.16,37,8.61,Clouds,few clouds,2025-07-09,16:50:47
-Duki,34.5,38,6.53,Clouds,scattered clouds,2025-07-09,16:50:47
-Chak One Hundred Thirty-nine Nine Left,40.74,29,3.77,Clouds,broken clouds,2025-07-09,16:50:47
-Nabisar,36.04,42,8.05,Clouds,scattered clouds,2025-07-09,16:50:48
-Chak One Hundred Eighteen Nine Left,40.85,29,3.64,Clouds,broken clouds,2025-07-09,16:50:48
-Chak One Hundred -Nine Left,40.23,30,3.76,Clouds,overcast clouds,2025-07-09,16:50:50
-Chak One Hundred Ten -Nine Left,40.21,30,3.73,Clouds,overcast clouds,2025-07-09,16:50:50
-Kario Ghanwar,35.28,46,7.21,Clouds,few clouds,2025-07-09,16:50:50
-Chak One Hundred Forty Nine Left,40.86,29,3.7,Clouds,broken clouds,2025-07-09,16:50:50
-Chak Three Ten Left,40.31,30,5.06,Clouds,broken clouds,2025-07-09,16:50:51
-Chak Fifty-six -Four Right,39.78,32,4.58,Clouds,overcast clouds,2025-07-09,16:50:51
-Chak Hundred One,40.15,31,5.14,Clouds,overcast clouds,2025-07-09,16:50:52
-Chak One Hundred Four -Nine Left,40.42,30,3.94,Clouds,overcast clouds,2025-07-09,16:50:52
-Chak One Hundred Twenty-one Nine Left,41.15,28,3.47,Clouds,broken clouds,2025-07-09,16:50:52
-Chak One Hundred Fifty-three -Nine Left,41.08,29,3.5,Clouds,broken clouds,2025-07-09,16:50:53
-Chak Eighty-eight -Six Right,39.88,31,4.59,Clouds,overcast clouds,2025-07-09,16:50:54
-Chak One Hundred Seventeen Nine Left,40.75,29,3.66,Clouds,broken clouds,2025-07-09,16:50:55
-Chak One Hundred Forty-three Nine Left,40.69,29,4.02,Clouds,broken clouds,2025-07-09,16:50:55
-Chak One Hundred Thirty-two -Nine Left,40.3,30,4.33,Clouds,overcast clouds,2025-07-09,16:50:55
-Chak One Hundred Eighty-eight Nine A Left,40.28,30,4.57,Clouds,overcast clouds,2025-07-09,16:50:55
-Chak One Hundred Forty-one Nine Left,40.86,29,3.7,Clouds,broken clouds,2025-07-09,16:50:56
-Chak Ninety-nine -Six Right,40.16,31,4.59,Clouds,overcast clouds,2025-07-09,16:50:57
-Chak One Hundred Six -Nine Left,40.55,30,3.81,Clouds,overcast clouds,2025-07-09,16:50:57
-Nao Mian Sahib,42.72,27,5.29,Clouds,broken clouds,2025-07-09,16:48:47
-Chak Pindi,35.27,58,4.44,Clouds,broken clouds,2025-07-09,16:50:58
-Mehmand Chak,35.59,52,5.47,Clouds,broken clouds,2025-07-09,16:50:58
-Mughalabad,20.41,68,1.25,Clouds,overcast clouds,2025-07-09,16:50:59
-Bulri,36.66,42,7.53,Clouds,few clouds,2025-07-09,16:51:00
-Chak One Hundred Four Seven Right,40.16,31,5.55,Clouds,broken clouds,2025-07-09,16:51:00
-Bar Shinglai,23.26,65,2.13,Clouds,broken clouds,2025-07-09,16:51:00
-Miranshah,34.63,42,5.37,Clouds,broken clouds,2025-07-09,16:51:00
-Alizai,32.37,48,3.39,Clouds,broken clouds,2025-07-09,16:51:01
-Amirabad,27.74,64,1.75,Clouds,broken clouds,2025-07-09,16:51:01
-Kakad Wari Dir Upper,26.21,71,2.67,Clouds,broken clouds,2025-07-09,16:51:03
-Keti Bandar,30.38,70,5.46,Clouds,broken clouds,2025-07-09,16:51:05
-Cherat Cantonement,31.62,53,2.87,Clouds,broken clouds,2025-07-09,16:51:05
-Tando Mitha Khan,40.17,33,7.58,Clouds,scattered clouds,2025-07-09,16:51:06
-Dittewal,35.14,58,4.3,Clouds,broken clouds,2025-07-09,16:51:07
-Landi Kotal,31.31,60,6.25,Clouds,broken clouds,2025-07-09,16:51:08
-Wana,31.08,48,7.38,Clouds,few clouds,2025-07-09,16:51:09
-Chak Eighty Three Twelve L,41.27,28,6.03,Clouds,broken clouds,2025-07-09,16:51:12
-Chak Seventy-five - Five Right,39.55,32,3.79,Clouds,overcast clouds,2025-07-09,16:51:12
-Barishal,14.75,60,5.34,Clouds,overcast clouds,2025-07-09,16:51:12
-Shooli Bazar,35.49,47,6.21,Clouds,broken clouds,2025-07-09,16:51:12
-Chowki Jamali,43.32,26,5.61,Clouds,overcast clouds,2025-07-09,16:51:12
-Dandot RS,34.11,45,3.58,Clouds,broken clouds,2025-07-09,16:51:13
-Banian,35.14,58,4.3,Clouds,broken clouds,2025-07-09,16:51:14
-Bakhri Ahmad Khan,43.5,23,3.48,Clear,clear sky,2025-07-09,16:51:14
-Basti Dosa,43.56,23,3.55,Clear,clear sky,2025-07-09,16:51:14
-Kot Rajkour,35.15,59,2.53,Clouds,broken clouds,2025-07-09,16:51:14
-Keshupur,38.71,35,4.39,Clouds,broken clouds,2025-07-09,16:51:14
-Muhammad Moryal Sahito Jo Goth,41.04,32,6.64,Clouds,overcast clouds,2025-07-09,16:51:15
-Ashanagro Koto,35.04,50,3.48,Clouds,few clouds,2025-07-09,16:51:15
-Gulishah Kach,31.34,38,3.14,Clouds,scattered clouds,2025-07-09,16:51:15
-Khandowa,32.1,50,4.48,Clouds,broken clouds,2025-07-09,16:51:15
-Moza Shahwala,43.58,22,3.48,Clear,clear sky,2025-07-09,16:51:16
-Shinpokh,32.89,61,5.43,Clouds,broken clouds,2025-07-09,16:51:17
-Nooriabad,32.62,61,4.01,Clouds,broken clouds,2025-07-09,16:51:17
-Abdullah Khaskheli,37.4,38,7.39,Clouds,few clouds,2025-07-09,16:51:17
-Basti Aukharvand,43.6,23,3.7,Clear,clear sky,2025-07-09,16:51:17
-Dajjal wala,43.7,23,4.0,Clear,clear sky,2025-07-09,16:51:18
-Nooriabad,33.93,53,8.26,Clouds,scattered clouds,2025-07-09,16:51:18
-Ziarat,26.39,37,4.17,Clear,clear sky,2025-07-09,16:51:18
-Dhok Awan,34.7,48,5.58,Clouds,broken clouds,2025-07-09,16:51:19
-Pakki Shagwanwali,43.56,23,3.55,Clear,clear sky,2025-07-09,16:51:14
-Thakar Ke Hashim,37.63,38,2.79,Clouds,overcast clouds,2025-07-09,16:51:19
-Lalbazgaray,29.01,52,3.42,Clouds,scattered clouds,2025-07-09,16:51:20
-Basti Machi,43.56,23,3.55,Clear,clear sky,2025-07-09,16:51:21
-Chah Umar Hayyat Wala,41.63,29,7.33,Clouds,broken clouds,2025-07-09,16:51:21
-Shaheed Abad,25.56,54,2.37,Clouds,broken clouds,2025-07-09,16:51:21
-Chak 54/4,37.77,41,4.65,Clouds,broken clouds,2025-07-09,16:51:22
-Amir Kalasa,35.14,58,4.3,Clouds,broken clouds,2025-07-09,16:51:22
-Hot Chat,37.85,42,5.87,Clouds,broken clouds,2025-07-09,16:51:23
-Basti Qaudhia,43.56,23,3.55,Clear,clear sky,2025-07-09,16:51:24
-Taragar wāla,43.56,23,3.55,Clear,clear sky,2025-07-09,16:51:21
-Pirotak,38.02,41,5.54,Clouds,broken clouds,2025-07-09,16:51:24
-Dera Tehsildarwala,40.99,29,6.48,Clouds,broken clouds,2025-07-09,16:51:25
-Jath,38.0,41,5.61,Clouds,broken clouds,2025-07-09,16:51:25
-Sheeriwala (Old),43.44,23,3.11,Clear,clear sky,2025-07-09,16:51:25
-Asad Ullah,26.21,71,2.67,Clouds,broken clouds,2025-07-09,16:51:03
-Dhoke Allah Razi,32.1,50,4.48,Clouds,broken clouds,2025-07-09,16:51:26
-Haveli Mehr Ghulam Qadir Hiraj,40.4,30,3.11,Clouds,broken clouds,2025-07-09,16:51:26
-Asad Ullah Khan Dirvi,26.21,71,2.67,Clouds,broken clouds,2025-07-09,16:51:03
-Uzhnu,27.19,17,3.63,Clouds,scattered clouds,2025-07-09,16:51:27
-Asad Ullah DIrvi,26.21,71,2.67,Clouds,broken clouds,2025-07-09,16:51:03
-Aun Hiraj's County,42.06,28,5.95,Clouds,broken clouds,2025-07-09,16:51:27
-Kandogai,18.06,82,4.68,Clouds,broken clouds,2025-07-09,16:51:27
-Bankhar Banda,18.06,82,4.68,Clouds,broken clouds,2025-07-09,16:51:27
-Burj Banda,12.23,82,5.07,Clouds,broken clouds,2025-07-09,16:51:28
-Khar Banda,12.23,82,5.07,Clouds,broken clouds,2025-07-09,16:51:28
-Khor Banda,12.23,82,5.07,Clouds,broken clouds,2025-07-09,16:51:28
-Nathi Banda,12.23,82,5.07,Clouds,broken clouds,2025-07-09,16:51:29
-Bandla Banda,6.18,81,5.05,Clouds,scattered clouds,2025-07-09,16:51:29
-Janchal,18.76,76,3.87,Clouds,broken clouds,2025-07-09,16:51:29
-Luge Banda,16.66,81,2.82,Clouds,broken clouds,2025-07-09,16:51:30
-Seru Banda,17.29,82,2.91,Clouds,broken clouds,2025-07-09,16:51:30
-Charai Banda,13.31,80,3.76,Clouds,broken clouds,2025-07-09,16:51:30
-Panji Banda,13.31,80,3.76,Clouds,broken clouds,2025-07-09,16:51:30
-Mihr Bat,22.36,75,2.73,Clouds,broken clouds,2025-07-09,16:51:31
-Dhup,27.53,75,3.0,Clouds,broken clouds,2025-07-09,16:51:31
-Duber Bazar,27.53,75,3.0,Clouds,broken clouds,2025-07-09,16:51:31
-Lawa,38.09,35,3.17,Clouds,overcast clouds,2025-07-09,16:51:32
-Ranolia,27.53,75,3.0,Clouds,broken clouds,2025-07-09,16:51:32
-Khenai,22.92,76,2.95,Clouds,broken clouds,2025-07-09,16:51:32
-Darra,24.09,77,3.31,Clouds,broken clouds,2025-07-09,16:51:32
-Gabar,24.09,77,3.31,Clouds,broken clouds,2025-07-09,16:51:33
-Shungial,24.09,77,3.31,Clouds,broken clouds,2025-07-09,16:51:33
-Segan,24.09,77,3.31,Clouds,broken clouds,2025-07-09,16:51:33
-Shitgal,17.1,78,3.64,Clouds,broken clouds,2025-07-09,16:51:34
-Jag Kalle,22.33,77,3.77,Clouds,broken clouds,2025-07-09,16:51:34
-Taralla Banda,17.1,78,3.64,Clouds,broken clouds,2025-07-09,16:51:34
-Lang,24.16,79,4.15,Clouds,broken clouds,2025-07-09,16:51:34
-Sanagai,20.1,79,3.96,Clouds,broken clouds,2025-07-09,16:51:35
-Shilke,20.1,79,3.96,Clouds,broken clouds,2025-07-09,16:51:35
-Sakah,17.02,81,4.26,Clouds,broken clouds,2025-07-09,16:51:35
-Serai,17.02,81,4.26,Clouds,broken clouds,2025-07-09,16:51:36
-Harnai Banda,18.06,82,4.68,Clouds,broken clouds,2025-07-09,16:51:36
-Nitai Banda,18.06,82,4.68,Clouds,broken clouds,2025-07-09,16:51:36
-Dathra,19.21,81,4.77,Clouds,broken clouds,2025-07-09,16:51:36
-Nilgai Banda,11.42,80,5.2,Clouds,scattered clouds,2025-07-09,16:51:37
-Yazai,14.85,80,4.98,Clouds,broken clouds,2025-07-09,16:51:37
-Gujar Banda,14.85,80,4.98,Clouds,broken clouds,2025-07-09,16:51:37
-Haj Dir,15.06,79,5.34,Clouds,scattered clouds,2025-07-09,16:51:37
-Karbej,14.85,80,4.98,Clouds,broken clouds,2025-07-09,16:51:38
-Shaint,20.51,79,4.67,Clouds,broken clouds,2025-07-09,16:51:38
-Dhar,20.51,79,4.67,Clouds,broken clouds,2025-07-09,16:51:38
-Shamalguli,14.85,80,4.98,Clouds,broken clouds,2025-07-09,16:51:39
-Kamar Banda,14.85,80,4.98,Clouds,broken clouds,2025-07-09,16:51:39
-Datol Banda,20.51,79,4.67,Clouds,broken clouds,2025-07-09,16:51:39
-Chilari,20.51,79,4.67,Clouds,broken clouds,2025-07-09,16:51:39
-Banil Kalle,24.16,79,4.15,Clouds,broken clouds,2025-07-09,16:51:40
-Shamal,19.99,78,4.28,Clouds,broken clouds,2025-07-09,16:51:40
-Bulai,19.99,78,4.28,Clouds,broken clouds,2025-07-09,16:51:40
-Bara Amba,24.16,79,4.15,Clouds,broken clouds,2025-07-09,16:51:41
-Kuz Amba,22.33,77,3.77,Clouds,broken clouds,2025-07-09,16:51:41
-Kigamara,22.94,75,3.45,Clouds,broken clouds,2025-07-09,16:51:41
-Khwar Badar Khel,25.79,76,3.39,Clouds,broken clouds,2025-07-09,16:51:41
-Serai,22.94,75,3.45,Clouds,broken clouds,2025-07-09,16:51:42
-Sandari,23.08,74,3.03,Clouds,broken clouds,2025-07-09,16:51:42
-Chhor Banda,30.42,73,3.05,Clouds,broken clouds,2025-07-09,16:51:42
-Mali Dera,23.08,74,3.03,Clouds,broken clouds,2025-07-09,16:51:42
-Gloz Banda,25.79,76,3.39,Clouds,broken clouds,2025-07-09,16:51:43
-Kuwde,27.46,76,3.93,Clouds,broken clouds,2025-07-09,16:51:43
-Sirai Kalle Dag,24.21,77,4.37,Clouds,broken clouds,2025-07-09,16:51:43
-Khertai Bela Duber,24.09,77,3.31,Clouds,broken clouds,2025-07-09,16:51:44
-Manjinr Banda,19.01,79,3.48,Clouds,broken clouds,2025-07-09,16:51:44
-Bankhar,22.36,75,2.73,Clouds,broken clouds,2025-07-09,16:51:44
-Sarang,27.53,75,3.0,Clouds,broken clouds,2025-07-09,16:51:45
-Shrshain,23.08,74,3.03,Clouds,broken clouds,2025-07-09,16:51:45
-Khenai,22.36,75,2.73,Clouds,broken clouds,2025-07-09,16:51:45
-Thil Banda,28.29,72,2.71,Clouds,broken clouds,2025-07-09,16:51:45
-Mahran,28.29,72,2.71,Clouds,broken clouds,2025-07-09,16:51:46
-Khal,28.29,72,2.71,Clouds,broken clouds,2025-07-09,16:51:46
-Nazro,24.71,72,2.7,Clouds,broken clouds,2025-07-09,16:51:46
-Shamdara,24.71,72,2.7,Clouds,broken clouds,2025-07-09,16:51:47
-Shamial,24.31,72,2.69,Clouds,broken clouds,2025-07-09,16:51:47
-Khakharo,24.71,72,2.7,Clouds,broken clouds,2025-07-09,16:51:47
-Gambir,30.16,74,3.48,Clouds,broken clouds,2025-07-09,16:51:47
-Gambir,30.16,74,3.48,Clouds,broken clouds,2025-07-09,16:51:48
-Gut,20.1,79,3.96,Clouds,broken clouds,2025-07-09,16:51:48
-Khan Sar,19.01,79,3.48,Clouds,broken clouds,2025-07-09,16:51:48
-Gedar Banda,13.31,80,3.76,Clouds,broken clouds,2025-07-09,16:51:49
-Karlo Banda,20.1,79,3.96,Clouds,broken clouds,2025-07-09,16:51:49
-Ghando,21.6,78,3.21,Clouds,broken clouds,2025-07-09,16:51:50
-Gando,21.6,78,3.21,Clouds,broken clouds,2025-07-09,16:51:50
-Abdul Aziz Koruna,31.67,66,4.18,Clouds,broken clouds,2025-07-09,16:51:50
-Sholgara,22.36,75,2.73,Clouds,broken clouds,2025-07-09,16:51:50
-Binkot,27.67,73,2.73,Clouds,broken clouds,2025-07-09,16:51:51
-Duni,17.61,82,4.21,Clouds,broken clouds,2025-07-09,16:51:51
-Mun Bek,17.61,82,4.21,Clouds,broken clouds,2025-07-09,16:51:51
-Mali Banda,17.61,82,4.21,Clouds,broken clouds,2025-07-09,16:51:52
-Jabela Banda,11.71,83,3.9,Clouds,broken clouds,2025-07-09,16:51:52
-Cholao Banda,11.71,83,3.9,Clouds,broken clouds,2025-07-09,16:51:52
-Sore,20.62,82,2.76,Clouds,broken clouds,2025-07-09,16:51:53
-Shonrial,13.26,83,2.84,Clouds,broken clouds,2025-07-09,16:51:53
-Chaprao,13.31,80,3.76,Clouds,broken clouds,2025-07-09,16:51:53
-Fatehpur,25.0,75,2.17,Clouds,broken clouds,2025-07-09,16:51:53
-Shalkho Banda,19.01,79,3.48,Clouds,broken clouds,2025-07-09,16:51:54
-Kuz Laikot,23.52,71,3.95,Clouds,few clouds,2025-07-09,16:51:54
-Hariani,23.52,71,3.95,Clouds,few clouds,2025-07-09,16:51:54
-Bun,15.59,68,3.22,Clouds,scattered clouds,2025-07-09,16:51:55
-Spedār,19.18,67,3.28,Clouds,scattered clouds,2025-07-09,16:51:55
-Ghulam Khan,32.27,40,5.7,Clouds,broken clouds,2025-07-09,16:51:55
-Muragh Kili,34.0,9,4.16,Clear,clear sky,2025-07-09,16:51:55
-Ghawai Bela,14.59,55,4.44,Clouds,few clouds,2025-07-09,16:51:56
-Dab Banda,18.39,59,4.51,Clouds,scattered clouds,2025-07-09,16:51:56
-Kain,18.39,59,4.51,Clouds,scattered clouds,2025-07-09,16:51:56
-Kanda,18.39,59,4.51,Clouds,scattered clouds,2025-07-09,16:51:56
-Lahore,36.38,61,3.02,Clouds,broken clouds,2025-07-09,16:51:57
-Karachi,30.59,74,5.89,Clouds,scattered clouds,2025-07-09,16:51:40
-Peshawar,35.6,47,3.6,Clouds,overcast clouds,2025-07-09,16:50:08
-Faisalabad,39.54,33,3.98,Clouds,broken clouds,2025-07-09,16:51:58
-Rawalpindi,32.18,64,5.18,Clouds,broken clouds,2025-07-09,16:44:06
-Gujranwala,36.0,54,2.89,Clouds,overcast clouds,2025-07-09,16:51:10
-Multan,41.99,28,5.98,Clouds,broken clouds,2025-07-09,16:50:00
-Hyderābād,38.68,37,7.57,Clouds,scattered clouds,2025-07-09,16:51:59
-Quetta,35.28,17,2.99,Clouds,few clouds,2025-07-09,16:51:59
-Bannu,39.5,32,6.51,Clouds,broken clouds,2025-07-09,16:51:59
-Sargodha,39.44,33,3.83,Clouds,scattered clouds,2025-07-09,16:52:00
-Sialkot,35.09,61,2.66,Clouds,broken clouds,2025-07-09,16:52:00
-Bahawalpur,41.2,29,6.17,Clouds,overcast clouds,2025-07-09,16:52:00
-Dera Ismail Khan,42.72,26,4.48,Clear,clear sky,2025-07-09,16:52:01
-Muzaffarabad,28.25,70,1.33,Clouds,broken clouds,2025-07-09,16:52:01
-Kotli,27.76,74,1.95,Clouds,overcast clouds,2025-07-09,16:52:01
-Battagram City,28.29,67,2.07,Clouds,overcast clouds,2025-07-09,16:52:01
-Islamabad,31.47,65,3.89,Clouds,scattered clouds,2025-07-09,16:47:08
-Shekhupura,36.54,52,3.7,Clouds,overcast clouds,2025-07-09,16:52:02
-Gujrat,35.01,60,3.85,Clouds,broken clouds,2025-07-09,16:52:02
-Sukkur,41.9,28,6.27,Clouds,broken clouds,2025-07-09,16:52:02
-Sahiwal,39.9,31,4.14,Clouds,overcast clouds,2025-07-09,16:52:03
-Noorabad,41.39,28,6.7,Clouds,scattered clouds,2025-07-09,16:52:04
-Rahim Yar Khan,41.25,28,6.01,Clouds,broken clouds,2025-07-09,16:52:04
-Okara,39.14,34,4.75,Clouds,overcast clouds,2025-07-09,16:52:03
-Maria Banda,19.01,79,3.48,Clouds,broken clouds,2025-07-09,16:52:04
-Tikki Banda,14.78,80,3.32,Clouds,broken clouds,2025-07-09,16:52:04
-Dhup Banda,14.78,80,3.32,Clouds,broken clouds,2025-07-09,16:52:05
-Dand Banda,14.78,80,3.32,Clouds,broken clouds,2025-07-09,16:52:05
-Jabba Gedar Banda,14.78,80,3.32,Clouds,broken clouds,2025-07-09,16:52:05
-Dhand,17.79,79,3.11,Clouds,broken clouds,2025-07-09,16:52:05
-Jalkot,21.6,78,3.21,Clouds,broken clouds,2025-07-09,16:52:06
-Soya,21.6,78,3.21,Clouds,broken clouds,2025-07-09,16:52:06
-Daro Banda,17.79,79,3.11,Clouds,broken clouds,2025-07-09,16:52:07
-Manri,17.79,79,3.11,Clouds,broken clouds,2025-07-09,16:52:07
-Ranolia Bar Kalle,22.92,76,2.95,Clouds,broken clouds,2025-07-09,16:52:07
-Chhar,17.92,78,2.91,Clouds,broken clouds,2025-07-09,16:52:07
-Thapan,17.92,78,2.91,Clouds,broken clouds,2025-07-09,16:52:07
-Ranolia Kuz Kalle,22.92,76,2.95,Clouds,broken clouds,2025-07-09,16:52:08
-Dan,15.82,76,2.72,Clouds,broken clouds,2025-07-09,16:52:08
-Dahar,22.36,75,2.73,Clouds,broken clouds,2025-07-09,16:52:09
-Dhussa,15.82,76,2.72,Clouds,broken clouds,2025-07-09,16:52:09
-Kopu Banda,20.14,80,2.91,Clouds,broken clouds,2025-07-09,16:52:09
-Kafir Banda,10.29,82,3.03,Clouds,broken clouds,2025-07-09,16:52:10
-Kandao Banda,17.92,78,2.91,Clouds,broken clouds,2025-07-09,16:52:10
-Satil Banda,17.79,79,3.11,Clouds,broken clouds,2025-07-09,16:52:10
-Loe Kobu,8.01,81,3.16,Clouds,broken clouds,2025-07-09,16:52:10
-Shakil Gum Banda,17.79,79,3.11,Clouds,broken clouds,2025-07-09,16:52:10
-Chhari Banda,17.79,79,3.11,Clouds,broken clouds,2025-07-09,16:52:11
-Cholao Banda,17.79,79,3.11,Clouds,broken clouds,2025-07-09,16:52:11
-Cholao Banda,17.79,79,3.11,Clouds,broken clouds,2025-07-09,16:52:11
-Nate Banda,8.01,81,3.16,Clouds,broken clouds,2025-07-09,16:52:10
-Khana Banda,8.01,81,3.16,Clouds,broken clouds,2025-07-09,16:52:12
-Kichar Banda,14.78,80,3.32,Clouds,broken clouds,2025-07-09,16:52:12
-Jabba Banda,13.31,80,3.76,Clouds,broken clouds,2025-07-09,16:51:53
-Sher Banda,13.06,79,2.85,Clouds,broken clouds,2025-07-09,16:52:13
-Chharon Banda,15.82,76,2.72,Clouds,broken clouds,2025-07-09,16:52:13
-Sangotia Banda,17.11,77,2.72,Clouds,broken clouds,2025-07-09,16:52:13
-Jarin Banda,15.82,76,2.72,Clouds,broken clouds,2025-07-09,16:52:14
-Chhapra Banda,17.92,78,2.91,Clouds,broken clouds,2025-07-09,16:52:14
-Manwain Banda,17.92,78,2.91,Clouds,broken clouds,2025-07-09,16:52:14
-Mizakhpa,20.53,75,2.57,Clouds,broken clouds,2025-07-09,16:52:15
-Ber,20.53,75,2.57,Clouds,broken clouds,2025-07-09,16:52:15
-Bela Rustam Khel,26.84,73,2.54,Clouds,broken clouds,2025-07-09,16:52:15
-Gullu Ziarat,33.63,20,7.16,Clouds,few clouds,2025-07-09,16:52:15
-Kili Sikandar Khan,34.57,16,5.05,Clear,clear sky,2025-07-09,16:52:15
-Kili Sardar Khan,34.57,16,5.05,Clear,clear sky,2025-07-09,16:52:16
-Ashewat Dak Choki,34.16,20,7.31,Clouds,few clouds,2025-07-09,16:52:16
-Khwazhobai,34.84,11,2.08,Clouds,few clouds,2025-07-09,16:52:17
-Khelan,20.31,77,3.46,Clouds,few clouds,2025-07-09,16:52:17
-Manzakai,32.64,26,7.77,Clear,clear sky,2025-07-09,16:52:17
-Hasan Kili,30.59,26,8.82,Clouds,few clouds,2025-07-09,16:52:17
-Zarakai Kili One,30.59,26,8.82,Clouds,few clouds,2025-07-09,16:52:17
-Ochakke,31.53,27,8.97,Clouds,few clouds,2025-07-09,16:52:18
-Haji Sulaimanzai,30.6,29,10.86,Clouds,few clouds,2025-07-09,16:52:19
-Hasan Kili,30.23,28,10.15,Clouds,few clouds,2025-07-09,16:52:19
-Sahmulao Kili,30.63,26,9.01,Clouds,few clouds,2025-07-09,16:52:19
-Sheran Kili,29.7,26,8.8,Clouds,few clouds,2025-07-09,16:52:20
-Kili Ziaba,32.15,27,9.16,Clouds,few clouds,2025-07-09,16:52:20
-Zamkai Kili Two,30.36,26,8.66,Clouds,few clouds,2025-07-09,16:52:21
-Kili Mola Fateh Khan,29.7,26,8.8,Clouds,few clouds,2025-07-09,16:52:21
-Kili Wazir,31.96,27,8.18,Clear,clear sky,2025-07-09,16:52:21
-Kili Jumma Din,32.64,26,7.77,Clear,clear sky,2025-07-09,16:52:21
-Kili Gulab Khan,32.64,26,7.77,Clear,clear sky,2025-07-09,16:52:21
-Kili Rasanan,32.48,27,8.21,Clear,clear sky,2025-07-09,16:52:22
-Mulla Baran,31.83,27,8.74,Clear,clear sky,2025-07-09,16:52:22
-Kili Haji Shah Wali,32.37,27,8.56,Clear,clear sky,2025-07-09,16:52:23
-Kili Khudadad,32.37,27,8.56,Clear,clear sky,2025-07-09,16:52:23
-Kili Shahu,31.58,28,9.08,Clouds,few clouds,2025-07-09,16:52:23
-Kili Khial Muhammad,31.58,28,9.08,Clouds,few clouds,2025-07-09,16:52:23
-Kili Lalu,31.24,27,8.81,Clouds,few clouds,2025-07-09,16:52:24
-Kili Ghulam Nabi,32.05,28,9.43,Clouds,few clouds,2025-07-09,16:52:24
-Gal,22.25,72,3.69,Clouds,few clouds,2025-07-09,16:52:24
-Wach Sanzalai Kili,31.63,26,7.05,Clear,clear sky,2025-07-09,16:52:25
-Kawai Kili,32.75,26,7.32,Clear,clear sky,2025-07-09,16:52:25
-Tanga,31.83,27,8.74,Clear,clear sky,2025-07-09,16:52:22
-Bar Kalle,20.25,83,2.75,Clouds,broken clouds,2025-07-09,16:52:26
-Jezhan,32.28,26,8.46,Clear,clear sky,2025-07-09,16:52:26
-Sar,20.25,83,2.75,Clouds,broken clouds,2025-07-09,16:52:26
-Badalai,20.25,83,2.83,Clouds,broken clouds,2025-07-09,16:52:26
-Pia,23.94,79,2.42,Clouds,broken clouds,2025-07-09,16:52:27
-Sutann,23.45,79,2.5,Clouds,broken clouds,2025-07-09,16:52:27
-Hasangat,23.94,79,2.42,Clouds,broken clouds,2025-07-09,16:52:27
-Agro,23.94,79,2.42,Clouds,broken clouds,2025-07-09,16:52:28
-Rahat Kot,25.22,77,2.18,Clouds,broken clouds,2025-07-09,16:52:28
-Bach Paichwal,22.23,77,2.31,Clouds,broken clouds,2025-07-09,16:52:28
-Barimar Banda,11.27,83,3.63,Clouds,broken clouds,2025-07-09,16:52:29
-Shamalguli,27.67,73,2.73,Clouds,broken clouds,2025-07-09,16:52:29
-Shao,25.14,71,3.09,Clouds,broken clouds,2025-07-09,16:52:29
-Dam,25.14,71,3.09,Clouds,broken clouds,2025-07-09,16:52:29
-Kohan,21.19,76,2.48,Clouds,broken clouds,2025-07-09,16:52:29
-Jilga Hadira,32.83,11,6.25,Clear,clear sky,2025-07-09,16:52:30
-Mehri Zaranda,32.84,11,6.12,Clear,clear sky,2025-07-09,16:52:30
-Takarai,32.06,11,5.82,Clear,clear sky,2025-07-09,16:52:31
-Musa,32.84,11,6.12,Clear,clear sky,2025-07-09,16:52:31
-Wali Dad,32.18,11,5.76,Clear,clear sky,2025-07-09,16:52:31
-Amanullah,33.06,11,5.56,Clear,clear sky,2025-07-09,16:52:31
-Ghulam Jan,33.06,11,5.56,Clear,clear sky,2025-07-09,16:52:32
-Shah Ghasi,33.06,11,5.56,Clear,clear sky,2025-07-09,16:52:32
-Mir Afzal,31.7,11,5.67,Clear,clear sky,2025-07-09,16:52:32
-Muhammad Malezai,32.18,11,5.64,Clear,clear sky,2025-07-09,16:52:33
-Nasrullah,32.18,11,5.64,Clear,clear sky,2025-07-09,16:52:33
+Kasur,27.45,64,1.79,Clouds,broken clouds,2025-07-10,13:00:12
+Dera Ghazi Khan,41.9,31,5.04,Clouds,few clouds,2025-07-10,13:00:12
+Tando Allahyar,39.17,37,5.46,Clouds,broken clouds,2025-07-10,13:00:12
+Wah Cantt,31.05,63,5.07,Clouds,scattered clouds,2025-07-10,13:00:12
+Larkana,41.94,31,4.83,Clear,clear sky,2025-07-10,13:00:12
+Nawabshah,40.08,37,6.81,Clouds,overcast clouds,2025-07-10,13:00:19
+Bhimber,27.35,69,4.0,Clouds,overcast clouds,2025-07-10,13:00:20
+Hafizabad,28.71,58,4.02,Clouds,overcast clouds,2025-07-10,13:00:20
+Chiniot,34.95,40,3.89,Clouds,broken clouds,2025-07-10,13:00:21
+Jhang Sadar,39.23,33,5.34,Clouds,broken clouds,2025-07-10,13:00:21
+Mardan,31.04,64,5.4,Clouds,broken clouds,2025-07-10,13:00:21
+Malir Cantonment,32.45,60,7.03,Clouds,broken clouds,2025-07-10,13:00:22
+Mingora,26.67,75,2.6,Clouds,broken clouds,2025-07-10,13:00:22
+Abbottabad,25.11,70,2.97,Clouds,broken clouds,2025-07-10,13:00:22
+Mirpur Khas,39.3,37,5.76,Clouds,broken clouds,2025-07-10,13:00:22
+Skardu,28.3,32,4.01,Clouds,overcast clouds,2025-07-10,13:00:23
+Bahawalpur,36.98,38,3.48,Clouds,overcast clouds,2025-07-10,13:00:24
+Muzaffargarh,42.27,30,6.08,Clouds,scattered clouds,2025-07-10,13:00:24
+Khangarh,42.52,29,4.77,Clear,clear sky,2025-07-10,13:00:24
+Gilgit,30.69,31,3.17,Clouds,few clouds,2025-07-10,13:00:24
+Shikarpur,41.97,29,5.2,Clear,clear sky,2025-07-10,13:00:15
+Dadu,41.04,34,2.63,Clouds,broken clouds,2025-07-10,13:00:25
+Shahkot,30.58,51,5.07,Clouds,broken clouds,2025-07-10,13:00:26
+Khairpur,40.93,31,5.4,Clouds,overcast clouds,2025-07-10,13:00:26
+Kamoke,26.81,67,2.79,Clouds,overcast clouds,2025-07-10,13:00:26
+Jhelum,29.29,65,4.53,Clouds,broken clouds,2025-07-10,13:00:27
+Saddiqabad,40.62,32,5.25,Clouds,few clouds,2025-07-10,13:00:27
+Muridke,26.33,69,2.53,Clouds,overcast clouds,2025-07-10,13:00:27
+Burewala,40.01,31,3.99,Clouds,broken clouds,2025-07-10,13:00:27
+Arif Wala,34.88,56,3.64,Clouds,broken clouds,2025-07-10,13:00:28
+Kohat,29.96,64,3.67,Clouds,broken clouds,2025-07-10,13:00:28
+Layyah,41.56,31,3.06,Clouds,broken clouds,2025-07-10,13:00:28
+Tordher,31.74,61,4.98,Clouds,broken clouds,2025-07-10,13:00:29
+Umarkot,36.65,45,7.14,Clouds,overcast clouds,2025-07-10,13:00:29
+Lodhran,41.41,30,5.4,Clouds,broken clouds,2025-07-10,13:00:29
+Khanpur,40.63,33,5.39,Clouds,scattered clouds,2025-07-10,13:00:29
+Khuzdar,35.81,23,1.18,Clouds,few clouds,2025-07-10,13:00:30
+Gojra,37.75,34,4.51,Clouds,broken clouds,2025-07-10,13:00:30
+Bhakkar,40.75,33,4.78,Clouds,few clouds,2025-07-10,13:00:30
+Narowal,27.25,68,2.82,Clouds,overcast clouds,2025-07-10,13:00:30
+Mandi Bahauddin,29.51,63,3.93,Clouds,broken clouds,2025-07-10,13:00:30
+Mianwali,37.48,38,3.96,Clouds,scattered clouds,2025-07-10,13:00:31
+Daska Kalan,26.0,71,2.95,Clouds,overcast clouds,2025-07-10,13:00:31
+Pakpattan,37.06,36,3.19,Clouds,broken clouds,2025-07-10,13:00:31
+Bahawalnagar,35.74,38,3.1,Clouds,overcast clouds,2025-07-10,13:00:31
+Tando Adam,39.58,37,6.04,Clouds,overcast clouds,2025-07-10,13:00:31
+New Mirpur City,29.17,60,3.99,Clouds,broken clouds,2025-07-10,13:00:32
+Toba Tek Singh,38.49,34,3.81,Clouds,overcast clouds,2025-07-10,13:00:32
+Chishtian,39.92,32,4.42,Clouds,broken clouds,2025-07-10,13:00:32
+Shahdad Kot,42.2,31,4.01,Clear,clear sky,2025-07-10,13:00:32
+Charsadda,30.69,64,2.78,Clouds,broken clouds,2025-07-10,13:00:33
+Ghotki,40.99,32,5.21,Clouds,few clouds,2025-07-10,13:00:33
+Jaranwala,32.43,44,3.91,Clouds,scattered clouds,2025-07-10,13:00:33
+Badin,36.08,47,6.87,Clouds,overcast clouds,2025-07-10,13:00:34
+Ahmedpur East,40.49,33,5.47,Clouds,few clouds,2025-07-10,13:00:34
+Tando Muhammad Khan,38.49,40,6.46,Clouds,broken clouds,2025-07-10,13:00:34
+Vehari,39.6,32,3.88,Clouds,overcast clouds,2025-07-10,13:00:34
+Kamalia,37.75,36,3.08,Clouds,overcast clouds,2025-07-10,13:00:35
+Khushāb,35.3,45,3.63,Clouds,broken clouds,2025-07-10,13:00:35
+Kot Addu,41.89,30,4.64,Clouds,broken clouds,2025-07-10,13:00:35
+Wazirabad,26.18,71,2.98,Clouds,overcast clouds,2025-07-10,13:00:35
+Chakwal,30.39,61,4.96,Clouds,broken clouds,2025-07-10,13:00:36
+Model Town,24.92,70,2.19,Clouds,overcast clouds,2025-07-10,13:00:36
+Swabi,31.5,62,3.16,Clouds,scattered clouds,2025-07-10,13:00:36
+Nowshera Cantonment,31.31,62,3.64,Clouds,broken clouds,2025-07-10,13:00:36
+Jalalpur Jattan,25.85,74,3.37,Clouds,overcast clouds,2025-07-10,13:00:37
+Chaman,38.8,14,6.04,Clear,clear sky,2025-07-10,13:00:37
+Kandhkot,41.67,30,5.07,Clear,clear sky,2025-07-10,13:00:37
+Hasilpur,40.6,31,5.57,Clouds,broken clouds,2025-07-10,13:00:38
+Arifwala,37.33,36,3.73,Clouds,overcast clouds,2025-07-10,13:00:38
+Mianke Mor,28.18,59,3.95,Clouds,few clouds,2025-07-10,13:00:38
+Attock City,31.57,61,5.35,Clouds,broken clouds,2025-07-10,13:00:38
+Chichawatni,38.94,33,3.37,Clouds,broken clouds,2025-07-10,12:52:06
+Kharian,27.52,69,4.26,Clouds,broken clouds,2025-07-10,13:00:39
+Qambar,42.18,31,4.7,Clear,clear sky,2025-07-10,13:00:39
+Moro,41.59,32,4.51,Clouds,overcast clouds,2025-07-10,13:00:40
+Mian Channu,38.78,34,4.48,Clouds,overcast clouds,2025-07-10,13:00:40
+Turbat,37.68,40,4.31,Clouds,broken clouds,2025-07-10,13:00:40
+Dipalpur,34.17,40,2.12,Clouds,broken clouds,2025-07-10,13:00:41
+Pano Aqil,40.93,32,5.31,Clouds,scattered clouds,2025-07-10,13:00:41
+Kotri,37.97,42,7.19,Clouds,broken clouds,2025-07-10,13:00:42
+Bhalwal,33.5,47,4.17,Clouds,broken clouds,2025-07-10,13:00:42
+Harunabad,38.99,34,4.57,Clouds,overcast clouds,2025-07-10,13:00:42
+Pattoki,30.64,50,3.92,Clouds,scattered clouds,2025-07-10,13:00:43
+Gwadar,29.74,74,5.83,Clouds,broken clouds,2025-07-10,13:00:43
+Rabwah,35.24,40,3.8,Clouds,broken clouds,2025-07-10,13:00:43
+Kahror Pakka,41.82,29,5.67,Clouds,broken clouds,2025-07-10,13:00:44
+Gujar Khan,30.16,63,5.22,Clouds,scattered clouds,2025-07-10,13:00:45
+Chuhar Kana,27.74,62,3.54,Clouds,broken clouds,2025-07-10,13:00:45
+Kot Malik Barkhurdar,36.03,16,4.17,Clear,clear sky,2025-07-10,13:00:45
+Shahdadpur,39.71,37,6.33,Clouds,overcast clouds,2025-07-10,13:00:46
+Shorkot,39.26,36,3.5,Clear,clear sky,2025-07-10,13:00:46
+Shabqadar,29.8,69,4.95,Clouds,overcast clouds,2025-07-10,13:00:47
+Mansehra,26.86,67,2.86,Clouds,broken clouds,2025-07-10,13:00:47
+Shujaabad,42.04,31,5.64,Clouds,scattered clouds,2025-07-10,13:00:47
+Haveli Lakha,35.6,38,2.58,Clouds,broken clouds,2025-07-10,13:00:48
+Lalamusa,26.95,71,3.79,Clouds,overcast clouds,2025-07-10,13:00:48
+Mailsi,40.64,30,5.17,Clouds,overcast clouds,2025-07-10,13:00:48
+Sibi,39.91,37,4.09,Clouds,few clouds,2025-07-10,13:00:48
+Shakargarh,27.47,69,2.68,Clouds,overcast clouds,2025-07-10,13:00:48
+Jampur,41.48,32,7.05,Clouds,few clouds,2025-07-10,13:00:49
+Sambrial,25.21,74,3.3,Clouds,overcast clouds,2025-07-10,13:00:49
+Sanghar,40.19,35,5.73,Clouds,overcast clouds,2025-07-10,13:00:50
+Hujra Shah Muqim,32.84,44,3.24,Clouds,scattered clouds,2025-07-10,13:00:50
+Kabirwala,39.58,35,4.62,Clouds,overcast clouds,2025-07-10,13:00:50
+Sangla Hill,31.11,50,5.42,Clouds,broken clouds,2025-07-10,13:00:50
+Chunian,30.15,52,4.14,Clouds,scattered clouds,2025-07-10,13:00:50
+Nankana Sahib,29.29,55,4.62,Clouds,scattered clouds,2025-07-10,13:00:51
+Haripur,30.79,63,1.5,Clouds,scattered clouds,2025-07-10,13:00:51
+Pasrur,26.67,71,3.32,Clouds,overcast clouds,2025-07-10,13:00:51
+Rajanpur,41.02,32,5.46,Clear,clear sky,2025-07-10,13:00:52
+Rohri,40.79,32,5.34,Clouds,broken clouds,2025-07-10,12:52:14
+Matli,38.28,40,6.23,Clouds,broken clouds,2025-07-10,13:00:53
+Zhob,33.39,36,0.93,Clear,clear sky,2025-07-10,13:00:53
+Rawalakot,22.92,74,2.81,Clouds,scattered clouds,2025-07-10,13:00:53
+Hadali,26.11,73,3.68,Clouds,overcast clouds,2025-07-10,13:00:54
+Mirpur Mathelo,40.62,33,5.33,Clouds,few clouds,2025-07-10,13:00:54
+Dullewala,39.19,35,4.32,Clear,clear sky,2025-07-10,13:00:54
+Hala,39.1,39,6.78,Clouds,overcast clouds,2025-07-10,13:00:55
+Ratodero,42.22,30,4.89,Clear,clear sky,2025-07-10,13:00:55
+Jatoi Shimali,41.9,31,5.89,Clouds,few clouds,2025-07-10,13:00:55
+Jauharabad,35.78,43,3.68,Clouds,broken clouds,2025-07-10,12:53:00
+Bat Khela,26.6,79,0.88,Clouds,overcast clouds,2025-07-10,13:00:56
+Kot Radha Kishan,27.9,61,3.78,Clouds,scattered clouds,2025-07-10,13:00:56
+Kahna Nau,25.74,69,2.65,Clouds,overcast clouds,2025-07-10,13:00:56
+Mustafabad,34.45,39,2.89,Clouds,scattered clouds,2025-07-10,13:00:57
+Chak Thirty-one -Eleven Left,39.39,32,3.64,Clouds,broken clouds,2025-07-10,13:00:57
+Talagang,32.81,49,5.16,Clouds,scattered clouds,2025-07-10,13:00:58
+Taunsa,41.56,30,2.6,Clouds,scattered clouds,2025-07-10,13:00:58
+Thatta,34.29,54,6.56,Clouds,overcast clouds,2025-07-10,13:00:58
+Sarai Alamgir,29.1,66,4.51,Clouds,broken clouds,2025-07-10,13:00:58
+Usta Muhammad,42.46,30,3.82,Clear,clear sky,2025-07-10,13:00:58
+Kamra,27.05,68,2.4,Clouds,few clouds,2025-07-10,13:00:59
+Basirpur,33.96,42,3.26,Clouds,broken clouds,2025-07-10,13:01:00
+Sehwan,40.57,35,2.83,Clouds,overcast clouds,2025-07-10,13:01:00
+Naushahra Virkan,27.31,63,2.83,Clouds,overcast clouds,2025-07-10,13:01:02
+Fort Abbas,38.89,34,4.74,Clouds,broken clouds,2025-07-10,13:01:02
+Khairpur,40.62,32,5.47,Clear,clear sky,2025-07-10,13:01:03
+Havelian,28.44,69,2.28,Clouds,scattered clouds,2025-07-10,13:01:03
+Dinga,28.23,67,3.68,Clouds,broken clouds,2025-07-10,13:01:03
+Khalabat,31.25,63,2.05,Clouds,scattered clouds,2025-07-10,13:01:06
+New Badah,41.77,31,4.61,Clouds,few clouds,2025-07-10,13:01:07
+Ladhewala Waraich,26.88,67,2.47,Clouds,overcast clouds,2025-07-10,13:01:08
+Tank,37.78,39,3.88,Clouds,broken clouds,2025-07-10,13:01:08
+Tandlianwala,36.69,34,2.42,Clouds,few clouds,2025-07-10,13:01:08
+Loralai,33.33,39,8.28,Clear,clear sky,2025-07-10,13:01:10
+Chak Azam Sahu,37.22,35,4.39,Clouds,broken clouds,2025-07-10,13:01:11
+Jalalpur Pirwala,41.65,31,5.72,Clouds,scattered clouds,2025-07-10,13:01:11
+Pabbi,30.85,62,0.39,Clouds,scattered clouds,2025-07-10,13:01:12
+Chak Jhumra,34.06,41,4.17,Clouds,scattered clouds,2025-07-10,13:01:12
+Sahiwal,37.33,38,3.56,Clouds,broken clouds,2025-07-10,13:01:13
+Renala Khurd,33.81,41,2.57,Clouds,scattered clouds,2025-07-10,12:52:22
+Kot Mumin,32.91,48,4.17,Clouds,broken clouds,2025-07-10,13:01:15
+Risālpur,31.3,61,4.29,Clouds,broken clouds,2025-07-10,13:01:15
+Lakki,36.36,43,5.34,Clouds,overcast clouds,2025-07-10,13:01:15
+Topi,31.57,61,3.47,Clouds,scattered clouds,2025-07-10,13:01:15
+Hangu,26.82,70,1.78,Clouds,broken clouds,2025-07-10,13:01:16
+Pir Jo Goth,41.35,30,5.27,Clouds,broken clouds,2025-07-10,13:01:16
+Kundian,37.96,37,4.83,Clear,clear sky,2025-07-10,13:01:16
+Khurarianwala,33.03,45,4.18,Clouds,scattered clouds,2025-07-10,13:01:16
+Pir Mahal,37.89,36,3.5,Clouds,overcast clouds,2025-07-10,13:01:17
+Mehrabpur,42.49,30,4.04,Clear,clear sky,2025-07-10,13:01:17
+Malakwal City,31.33,56,4.14,Clouds,broken clouds,2025-07-10,12:56:45
+Pindi Bhattian,31.55,51,5.15,Clouds,broken clouds,2025-07-10,13:01:17
+Malakwal,31.33,56,4.14,Clouds,broken clouds,2025-07-10,12:56:45
+Thul,42.03,29,4.98,Clear,clear sky,2025-07-10,13:01:20
+Pindi Gheb,32.4,57,4.89,Clouds,overcast clouds,2025-07-10,13:01:20
+Zahir Pir,41.52,31,5.41,Clear,clear sky,2025-07-10,13:01:22
+Gambat,41.38,31,5.26,Clouds,overcast clouds,2025-07-10,13:01:22
+Kashmor,40.94,32,4.67,Clear,clear sky,2025-07-10,13:01:22
+Dunyapur,41.61,30,5.46,Clouds,overcast clouds,2025-07-10,13:01:22
+Alipur,42.08,30,5.57,Clouds,scattered clouds,2025-07-10,13:01:23
+Naudero,41.84,30,4.92,Clear,clear sky,2025-07-10,13:01:24
+Bagh,23.95,73,2.62,Clouds,scattered clouds,2025-07-10,13:01:24
+Narang Mandi,26.85,79,2.33,Clouds,overcast clouds,2025-07-10,13:01:24
+Pasni,29.1,78,4.43,Clouds,few clouds,2025-07-10,13:01:24
+Sukheke Mandi,29.7,58,4.91,Clouds,overcast clouds,2025-07-10,13:01:25
+Mamu Kanjan,37.51,35,3.16,Clouds,overcast clouds,2025-07-10,13:01:25
+Khewra,30.47,60,4.22,Clouds,broken clouds,2025-07-10,13:01:25
+Sharqpur Sharif,26.36,76,2.79,Clouds,broken clouds,2025-07-10,13:01:25
+Setharja Old,41.42,31,5.28,Clouds,overcast clouds,2025-07-10,13:01:25
+Digri,38.47,39,6.16,Clouds,broken clouds,2025-07-10,13:01:26
+Bhera,32.69,52,4.19,Clouds,broken clouds,2025-07-10,13:01:26
+Tando Jam,38.71,39,5.6,Clouds,scattered clouds,2025-07-10,13:01:27
+Sakrand,39.96,37,6.91,Clouds,broken clouds,2025-07-10,13:01:27
+Raiwind,26.86,74,3.19,Clouds,broken clouds,2025-07-10,13:01:27
+Lalian,35.03,41,3.79,Clouds,broken clouds,2025-07-10,13:01:27
+Khairpur Tamewah,40.8,30,5.83,Clouds,broken clouds,2025-07-10,13:01:28
+Kharan,40.95,16,4.25,Clouds,few clouds,2025-07-10,13:01:28
+Mehar,41.57,32,3.43,Clouds,scattered clouds,2025-07-10,13:01:28
+Khangah Dogran,28.75,62,4.34,Clouds,broken clouds,2025-07-10,13:01:28
+Dīr,24.9,69,3.58,Clouds,broken clouds,2025-07-10,13:01:29
+Khairpur Nathan Shah,41.36,33,2.51,Clouds,scattered clouds,2025-07-10,13:01:29
+Ghauspur,41.69,30,5.22,Clear,clear sky,2025-07-10,13:01:30
+Tangi,29.4,72,4.41,Clouds,overcast clouds,2025-07-10,13:01:30
+Utmanzai,30.58,68,3.24,Clouds,broken clouds,2025-07-10,13:01:30
+Thal,20.87,61,3.94,Clear,clear sky,2025-07-10,13:01:31
+Minchianabad,37.48,35,4.05,Clouds,broken clouds,2025-07-10,13:01:31
+Jahanian Shah,38.21,35,3.64,Clouds,scattered clouds,2025-07-10,13:01:31
+Garh Maharaja,39.64,34,5.14,Clouds,overcast clouds,2025-07-10,13:01:32
+Mastung,35.8,16,2.69,Clear,clear sky,2025-07-10,13:01:32
+Mananwala,28.59,63,4.4,Clouds,broken clouds,2025-07-10,13:01:33
+Fazilpur,27.54,74,2.61,Clouds,overcast clouds,2025-07-10,13:01:33
+Talamba,38.64,35,4.62,Clouds,overcast clouds,2025-07-10,13:01:33
+Kunjah,26.99,78,3.2,Clouds,overcast clouds,2025-07-10,13:01:33
+Jhawarian,34.27,47,3.49,Clouds,broken clouds,2025-07-10,13:01:33
+Nasirabad,41.8,32,4.17,Clouds,few clouds,2025-07-10,13:01:34
+Nushki,41.17,14,5.66,Clear,clear sky,2025-07-10,13:01:35
+Sita Road,41.62,32,3.15,Clouds,broken clouds,2025-07-10,12:56:42
+Dijkot,36.26,37,2.59,Clouds,few clouds,2025-07-10,13:01:35
+Sillanwali,36.7,38,3.8,Clouds,broken clouds,2025-07-10,13:01:35
+Kandiaro,41.64,32,5.43,Clouds,broken clouds,2025-07-10,13:01:36
+Zaida,31.57,62,4.05,Clouds,scattered clouds,2025-07-10,13:01:36
+Kunri,36.38,46,7.02,Clouds,broken clouds,2025-07-10,13:01:36
+Kalat,31.41,19,3.09,Clouds,scattered clouds,2025-07-10,13:01:37
+Daud Khel,34.67,49,1.32,Clouds,broken clouds,2025-07-10,13:01:37
+Mitha Tiwana,36.82,40,3.77,Clouds,scattered clouds,2025-07-10,13:01:38
+Hazro,31.85,62,5.41,Clouds,broken clouds,2025-07-10,13:01:38
+Dunga Bunga,37.7,36,3.52,Clouds,overcast clouds,2025-07-10,13:01:38
+Amangarh,31.29,65,2.77,Clouds,broken clouds,2025-07-10,13:01:38
+Karor,40.53,33,2.6,Clouds,broken clouds,2025-07-10,13:01:39
+Kot Diji,40.78,32,5.53,Clouds,overcast clouds,2025-07-10,13:01:40
+Murree,22.31,71,2.99,Clouds,scattered clouds,2025-07-10,13:01:40
+Mian Sahib,42.18,29,5.11,Clear,clear sky,2025-07-10,13:01:40
+Faqirwali,39.66,33,5.56,Clouds,overcast clouds,2025-07-10,13:01:40
+Kalur Kot,38.42,38,4.07,Clear,clear sky,2025-07-10,13:01:41
+Ahmadpur Sial,40.59,33,5.35,Clouds,broken clouds,2025-07-10,13:01:41
+Phalia,29.07,66,3.67,Clouds,broken clouds,2025-07-10,13:01:42
+Yazman,40.58,32,5.47,Clouds,few clouds,2025-07-10,13:01:42
+Raja Jang,26.96,73,3.14,Clouds,broken clouds,2025-07-10,13:01:42
+Chak Five Hundred Seventy-five,27.74,68,3.81,Clouds,broken clouds,2025-07-10,13:01:43
+Pishin,37.13,15,4.65,Clear,clear sky,2025-07-10,13:01:43
+Chak One Hundred Twenty Nine Left,37.17,36,3.59,Clouds,overcast clouds,2025-07-10,13:01:43
+Ubauro,40.74,32,5.36,Clear,clear sky,2025-07-10,13:01:44
+Chawinda,26.66,81,3.73,Clouds,overcast clouds,2025-07-10,13:01:44
+Mithi,35.06,52,7.23,Clouds,broken clouds,2025-07-10,13:01:44
+Akora,31.47,64,5.04,Clouds,broken clouds,2025-07-10,13:01:45
+Zafarwal,27.02,77,3.49,Clouds,overcast clouds,2025-07-10,13:01:45
+Kot Samaba,40.8,32,5.31,Clouds,scattered clouds,2025-07-10,13:01:46
+Eminabad,26.9,77,2.78,Clouds,overcast clouds,2025-07-10,13:01:46
+Kahuta,29.67,68,2.25,Clouds,scattered clouds,2025-07-10,13:01:46
+Ranipur,41.39,31,5.26,Clouds,overcast clouds,2025-07-10,13:01:46
+Kulachi,39.35,36,4.39,Clouds,few clouds,2025-07-10,13:01:47
+Khanpur Mahar,40.26,33,5.36,Clouds,few clouds,2025-07-10,13:01:47
+Hingorja,41.46,31,5.24,Clouds,broken clouds,2025-07-10,13:01:48
+Naukot,35.72,48,6.77,Clouds,overcast clouds,2025-07-10,13:01:48
+Pind Dadan Khan,31.74,58,4.09,Clouds,broken clouds,2025-07-10,13:01:48
+Kanganpur,30.94,53,4.11,Clouds,scattered clouds,2025-07-10,13:01:48
+Faruka,37.19,38,3.68,Clouds,broken clouds,2025-07-10,13:01:49
+Kotli Loharan,25.73,86,3.53,Clouds,overcast clouds,2025-07-10,13:01:49
+Shahpur Chakar,40.03,36,6.41,Clouds,overcast clouds,2025-07-10,13:01:50
+Talhar,37.55,42,6.56,Clouds,overcast clouds,2025-07-10,13:01:50
+Pad Idan,41.23,33,5.88,Clouds,broken clouds,2025-07-10,13:01:50
+Kot Ghulam Muhammad,26.33,83,3.44,Clouds,overcast clouds,2025-07-10,13:01:51
+Qadirpur Ran,40.26,33,4.7,Clouds,overcast clouds,2025-07-10,13:01:51
+Bela,35.25,56,4.17,Clouds,broken clouds,2025-07-10,13:01:51
+Sook Kalan,26.07,83,3.38,Clouds,overcast clouds,2025-07-10,13:01:51
+Surkhpur,26.04,84,3.18,Clouds,overcast clouds,2025-07-10,13:01:52
+Dhoro Naro,38.74,38,7.1,Clouds,overcast clouds,2025-07-10,13:01:52
+Khangarh,42.12,30,5.87,Clouds,scattered clouds,2025-07-10,13:01:53
+Sarai Naurang,35.06,46,5.0,Clouds,overcast clouds,2025-07-10,13:01:53
+Gharo,33.09,59,7.59,Clouds,overcast clouds,2025-07-10,13:01:53
+Bhit Shah,39.24,38,6.6,Clouds,overcast clouds,2025-07-10,13:01:54
+Matiari,38.64,40,5.97,Clouds,broken clouds,2025-07-10,13:01:54
+Dhanote,41.55,30,5.47,Clouds,broken clouds,2025-07-10,13:01:54
+Warah,41.67,32,3.64,Clear,clear sky,2025-07-10,13:01:55
+Lachi,30.7,63,2.43,Clouds,broken clouds,2025-07-10,13:01:55
+Baddomalhi,27.03,79,2.44,Clouds,overcast clouds,2025-07-10,13:01:55
+Jand,31.77,59,3.87,Clouds,broken clouds,2025-07-10,13:01:56
+Fatehpur,41.31,32,3.48,Clouds,scattered clouds,2025-07-10,13:01:56
+Dera Bugti,36.2,42,4.74,Clear,clear sky,2025-07-10,13:01:56
+Tharu Shah,41.81,32,5.49,Clouds,broken clouds,2025-07-10,13:01:56
+Naushahro Firoz,41.73,32,5.52,Clouds,overcast clouds,2025-07-10,13:01:57
+Dajal,41.27,32,7.63,Clouds,few clouds,2025-07-10,13:01:57
+Daur,40.48,35,6.56,Clouds,broken clouds,2025-07-10,13:01:58
+Bhopalwala,25.7,85,3.19,Clouds,overcast clouds,2025-07-10,13:01:58
+Paharpur,37.74,40,2.86,Clear,clear sky,2025-07-10,13:01:58
+Bhan,40.29,36,2.18,Clouds,overcast clouds,2025-07-10,13:01:59
+Mach,33.88,49,5.21,Clear,clear sky,2025-07-10,13:01:59
+Goth Radhan,41.74,32,4.38,Clouds,scattered clouds,2025-07-10,13:01:59
+Uthal,32.14,66,5.76,Clouds,overcast clouds,2025-07-10,13:02:00
+Kaleke Mandi,29.07,61,4.3,Clouds,overcast clouds,2025-07-10,13:02:00
+Jiwani,29.29,78,6.3,Clouds,overcast clouds,2025-07-10,13:02:00
+Johi,40.24,36,1.26,Clouds,broken clouds,2025-07-10,13:02:01
+Chhor,38.03,41,7.36,Clouds,overcast clouds,2025-07-10,13:02:01
+Mangla,37.36,37,3.67,Clouds,broken clouds,2025-07-10,13:02:01
+Bhawana,37.26,36,3.99,Clouds,broken clouds,2025-07-10,13:02:02
+Shahr Sultan,42.04,30,5.64,Clouds,scattered clouds,2025-07-10,13:02:02
+Jhol,40.12,35,5.77,Clouds,overcast clouds,2025-07-10,13:02:02
+Sodhra,25.97,84,3.12,Clouds,overcast clouds,2025-07-10,13:02:03
+Kalabagh,33.85,52,1.91,Clouds,scattered clouds,2025-07-10,13:02:03
+Sinjhoro,40.14,36,5.98,Clouds,overcast clouds,2025-07-10,13:02:03
+Kamar Mushani,34.88,48,1.75,Clouds,overcast clouds,2025-07-10,13:02:04
+Kallar Kahar,29.23,63,5.02,Clouds,scattered clouds,2025-07-10,13:02:04
+Chuhar Jamali,34.76,51,6.41,Clouds,broken clouds,2025-07-10,13:02:04
+Harnoli,38.23,37,4.47,Clear,clear sky,2025-07-10,13:02:05
+Sarai Sidhu,38.84,36,4.84,Clouds,overcast clouds,2025-07-10,13:02:05
+Choa Saidan Shah,28.35,63,4.49,Clouds,broken clouds,2025-07-10,13:02:05
+Dadhar,39.86,37,4.26,Clouds,few clouds,2025-07-10,13:02:05
+Darya Khan,40.25,33,3.86,Clear,clear sky,2025-07-10,13:02:06
+Harappa,37.8,35,3.34,Clouds,broken clouds,2025-07-10,13:02:07
+Daira Din Panah,41.92,30,4.1,Clouds,broken clouds,2025-07-10,13:02:07
+Madeji,41.92,30,5.14,Clear,clear sky,2025-07-10,13:02:07
+Dokri,41.77,31,4.74,Clear,clear sky,2025-07-10,13:02:07
+Garhiyasin,42.19,29,5.18,Clear,clear sky,2025-07-10,13:02:08
+Sobhodero,41.56,31,5.08,Clouds,broken clouds,2025-07-10,13:02:08
+Dalbandin,43.11,9,5.84,Clear,clear sky,2025-07-10,13:02:08
+Daulatpur,41.16,34,4.13,Clouds,overcast clouds,2025-07-10,13:02:09
+Bhag,40.37,35,3.21,Clouds,scattered clouds,2025-07-10,13:02:09
+Rasulnagar,28.0,70,3.5,Clouds,overcast clouds,2025-07-10,13:02:09
+Chak,41.29,31,5.24,Clouds,few clouds,2025-07-10,13:02:09
+Shahpur,34.84,45,3.28,Clouds,broken clouds,2025-07-10,13:02:10
+Tando Bago,36.75,45,6.9,Clouds,overcast clouds,2025-07-10,13:02:10
+Muhammad Pur,37.08,36,4.13,Clouds,broken clouds,2025-07-10,13:02:11
+Garhi Khairo,42.38,30,3.94,Clear,clear sky,2025-07-10,13:02:11
+Karak,31.59,58,0.93,Clouds,scattered clouds,2025-07-10,13:02:11
+Baffa,26.49,66,2.39,Clouds,few clouds,2025-07-10,13:02:11
+Lakhi,41.55,30,5.22,Clear,clear sky,2025-07-10,13:02:12
+Gadani,30.35,75,6.7,Clouds,broken clouds,2025-07-10,13:02:13
+Chak One Hundred Thirty-eight Nine Left,37.39,36,3.84,Clouds,broken clouds,2025-07-10,13:02:13
+Rojhan,40.85,32,4.59,Clear,clear sky,2025-07-10,13:02:13
+Surab,32.48,22,3.65,Clouds,overcast clouds,2025-07-10,13:02:13
+Ormara,27.86,85,4.92,Clouds,scattered clouds,2025-07-10,13:02:13
+Chamber,38.48,39,5.22,Clouds,scattered clouds,2025-07-10,13:02:14
+Kalaswala,26.85,80,3.08,Clouds,overcast clouds,2025-07-10,13:02:15
+Liliani,33.1,48,4.13,Clouds,broken clouds,2025-07-10,13:02:15
+Bhiria,41.61,32,5.64,Clouds,overcast clouds,2025-07-10,13:02:15
+Islamkot,34.57,53,7.17,Clouds,overcast clouds,2025-07-10,13:02:15
+Saidpur,27.47,70,3.52,Clouds,few clouds,2025-07-10,13:02:16
+Daultala,29.73,65,5.32,Clouds,broken clouds,2025-07-10,13:02:17
+Bhagowal,26.37,83,3.99,Clouds,overcast clouds,2025-07-10,13:02:17
+Mirwah Gorchani,38.88,38,5.6,Clouds,broken clouds,2025-07-10,13:02:17
+Dhaunkal,26.35,82,2.88,Clouds,overcast clouds,2025-07-10,13:02:17
+Kohlu,32.83,43,3.93,Clouds,broken clouds,2025-07-10,13:02:22
+Harnai,32.65,54,5.39,Clouds,scattered clouds,2025-07-10,13:02:22
+Diplo,33.5,58,6.8,Clouds,broken clouds,2025-07-10,13:02:22
+Jandiala Sher Khan,27.19,71,2.88,Clouds,broken clouds,2025-07-10,13:02:22
+Daromehar,35.16,50,5.85,Clouds,overcast clouds,2025-07-10,13:02:23
+Mankera,40.56,33,5.01,Clouds,scattered clouds,2025-07-10,13:02:23
+Bhagwal,27.32,76,4.21,Clouds,overcast clouds,2025-07-10,13:02:24
+Sanjwal,31.29,64,5.22,Clouds,broken clouds,2025-07-10,13:02:24
+Miro Khan,42.35,30,4.85,Clear,clear sky,2025-07-10,13:02:24
+Kot Sultan,41.83,30,3.23,Clouds,broken clouds,2025-07-10,13:02:24
+Khar,26.94,71,3.14,Clouds,broken clouds,2025-07-10,13:02:25
+Gahkuch,27.12,38,3.32,Clouds,broken clouds,2025-07-10,13:02:25
+Khadro,40.13,36,6.3,Clouds,overcast clouds,2025-07-10,13:02:26
+Berani,39.92,36,5.76,Clouds,overcast clouds,2025-07-10,13:02:26
+Tibbi Jay Singh,36.22,36,4.2,Clouds,scattered clouds,2025-07-10,13:02:27
+Mirdad Muafi,37.37,35,3.61,Clouds,broken clouds,2025-07-10,13:02:28
+Chak Ninety-eight -Nine Left,36.53,37,3.94,Clouds,broken clouds,2025-07-10,13:02:29
+Chak One Hundred Twelve -Nine Left,36.46,37,3.34,Clouds,overcast clouds,2025-07-10,13:02:28
+Chak Sixty-five A Gugera Distributary,35.9,37,4.76,Clouds,scattered clouds,2025-07-10,13:02:29
+Begowala,25.78,85,3.12,Clouds,overcast clouds,2025-07-10,13:02:29
+Tangwani,41.95,30,5.02,Clear,clear sky,2025-07-10,13:02:31
+Jati,34.86,50,7.26,Clouds,scattered clouds,2025-07-10,13:02:32
+Rustam,41.65,30,5.24,Clear,clear sky,2025-07-10,13:02:32
+Darya Khan Marri,41.1,34,6.01,Clouds,broken clouds,2025-07-10,13:02:32
+Bozdar Wada,40.97,32,5.49,Clouds,overcast clouds,2025-07-10,13:02:32
+Sohbatpur,42.04,30,4.2,Clear,clear sky,2025-07-10,13:02:33
+Mīrpur Batoro,35.66,48,5.59,Clouds,broken clouds,2025-07-10,13:02:33
+Doaba,29.16,62,2.27,Clouds,scattered clouds,2025-07-10,13:02:33
+Sann,39.52,39,7.14,Clouds,broken clouds,2025-07-10,13:02:34
+Samaro,38.26,40,6.94,Clouds,overcast clouds,2025-07-10,13:02:34
+Barkhan,32.15,46,2.67,Clouds,scattered clouds,2025-07-10,13:02:35
+Karaundi,41.06,33,5.85,Clouds,broken clouds,2025-07-10,13:02:36
+Mirpur Sakro,33.11,58,7.44,Clouds,overcast clouds,2025-07-10,13:02:38
+Kaure Shah Zerin,36.76,35,4.44,Clouds,scattered clouds,2025-07-10,13:02:39
+Bandhi,40.87,34,6.22,Clouds,broken clouds,2025-07-10,13:02:39
+Chak Ninety-nine -Nine Left,36.34,37,4.14,Clouds,broken clouds,2025-07-10,13:02:40
+Bagarji,41.18,31,5.24,Clouds,scattered clouds,2025-07-10,13:02:40
+Adilpur,40.81,32,5.25,Clouds,few clouds,2025-07-10,13:02:41
+Chak One Hundred Ninety Nine A Left,37.46,35,3.69,Clouds,broken clouds,2025-07-10,13:02:41
+Chak One Hundred Eighty-six Nine Left,37.55,35,3.74,Clouds,broken clouds,2025-07-10,13:02:43
+Chak One Hundred Eighty-five A Nine Left,37.62,35,3.78,Clouds,broken clouds,2025-07-10,13:02:44
+Goth Phulji,40.66,35,1.73,Clouds,scattered clouds,2025-07-10,13:02:44
+Rajo Khanani,38.01,41,6.38,Clouds,overcast clouds,2025-07-10,13:02:45
+Alik Ghund,30.47,22,4.85,Clear,clear sky,2025-07-10,13:02:45
+Dinan Wala,37.46,37,3.4,Clouds,overcast clouds,2025-07-10,13:02:45
+Thamewali,32.83,49,0.28,Clouds,overcast clouds,2025-07-10,13:02:45
+Chak One Hundred Eighty-seven Nine Left,37.34,36,3.85,Clouds,broken clouds,2025-07-10,13:02:49
+Chak One Hundred Twenty-nine -Nine Left,37.16,36,3.86,Clouds,broken clouds,2025-07-10,13:02:49
+Jām Sāhib,40.15,36,6.58,Clouds,overcast clouds,2025-07-10,13:02:49
+Kadhan,34.92,51,7.14,Clouds,overcast clouds,2025-07-10,13:02:50
+Kandiari,40.91,33,5.83,Clouds,broken clouds,2025-07-10,13:02:51
+Nazir Town,29.94,64,4.08,Clouds,scattered clouds,2025-07-10,13:02:51
+Goth Garelo,41.88,31,4.71,Clear,clear sky,2025-07-10,13:02:52
+Chak One Hundred Eight -Nine Left,36.56,37,3.71,Clouds,broken clouds,2025-07-10,13:02:52
+Khadan Khak,35.01,19,7.24,Clear,clear sky,2025-07-10,13:02:53
+Chak One Hundred Three Seven Right,37.96,34,3.18,Clouds,broken clouds,2025-07-10,13:02:54
+Duki,34.58,40,5.92,Clear,clear sky,2025-07-10,13:02:54
+Chak One Hundred Forty-two Nine Left,37.62,35,3.78,Clouds,broken clouds,2025-07-10,13:02:56
+Pithoro,39.23,37,6.26,Clouds,overcast clouds,2025-07-10,13:02:56
+Chak One Hundred Thirty-nine Nine Left,37.21,36,3.81,Clouds,broken clouds,2025-07-10,13:02:58
+Chak One Hundred Eighteen Nine Left,36.9,37,3.44,Clouds,overcast clouds,2025-07-10,13:02:58
+Nabisar,35.82,48,6.79,Clouds,broken clouds,2025-07-10,13:02:59
+Chak One Hundred Ten -Nine Left,36.39,37,3.57,Clouds,overcast clouds,2025-07-10,13:03:00
+Kario Ghanwar,37.06,44,6.35,Clouds,broken clouds,2025-07-10,13:03:00
+Chak One Hundred -Nine Left,36.53,37,3.94,Clouds,broken clouds,2025-07-10,13:03:01
+Chak Three Ten Left,37.92,34,3.46,Clouds,broken clouds,2025-07-10,13:03:01
+Chak One Hundred Forty Nine Left,37.48,35,3.83,Clouds,broken clouds,2025-07-10,13:03:01
+Chak Fifty-six -Four Right,36.61,36,4.79,Clouds,broken clouds,2025-07-10,13:03:01
+Chak Hundred One,37.42,35,3.65,Clouds,broken clouds,2025-07-10,13:03:02
+Chak One Hundred Four -Nine Left,36.93,36,3.97,Clouds,broken clouds,2025-07-10,13:03:02
+Chak One Hundred Twenty-one Nine Left,37.4,36,3.75,Clouds,overcast clouds,2025-07-10,13:03:02
+Chak One Hundred Fifty-three -Nine Left,37.36,36,3.73,Clouds,overcast clouds,2025-07-10,13:03:03
+Chak Eighty-eight -Six Right,36.75,36,4.57,Clouds,broken clouds,2025-07-10,13:03:03
+Chak One Hundred Seventeen Nine Left,36.87,37,3.53,Clouds,overcast clouds,2025-07-10,13:03:03
+Chak One Hundred Forty-three Nine Left,37.66,35,3.83,Clouds,broken clouds,2025-07-10,13:03:04
+Chak One Hundred Thirty-two -Nine Left,37.1,36,4.0,Clouds,broken clouds,2025-07-10,13:03:04
+Chak One Hundred Eighty-eight Nine A Left,37.28,36,3.85,Clouds,broken clouds,2025-07-10,13:03:05
+Chak Ninety-nine -Six Right,37.08,36,4.05,Clouds,broken clouds,2025-07-10,13:03:05
+Chak One Hundred Forty-one Nine Left,37.48,35,3.83,Clouds,broken clouds,2025-07-10,13:03:06
+Chak Pindi,26.99,79,3.49,Clouds,overcast clouds,2025-07-10,13:03:06
+Chak One Hundred Six -Nine Left,36.95,36,3.85,Clouds,broken clouds,2025-07-10,13:03:07
+Nao Mian Sahib,42.18,29,5.11,Clear,clear sky,2025-07-10,13:01:40
+Mehmand Chak,27.8,74,4.26,Clouds,broken clouds,2025-07-10,13:03:07
+Mughalabad,19.77,71,3.02,Clouds,scattered clouds,2025-07-10,13:03:07
+Bulri,36.3,46,6.07,Clouds,broken clouds,2025-07-10,13:03:08
+Bar Shinglai,22.28,69,2.95,Clouds,scattered clouds,2025-07-10,13:03:08
+Chak One Hundred Four Seven Right,37.96,34,3.18,Clouds,broken clouds,2025-07-10,13:03:09
+Miranshah,30.98,58,6.07,Clouds,broken clouds,2025-07-10,13:03:09
+Alizai,29.86,57,4.67,Clouds,broken clouds,2025-07-10,13:03:09
+Amirabad,26.67,68,2.86,Clouds,broken clouds,2025-07-10,13:03:09
+Kakad Wari Dir Upper,25.54,68,3.12,Clouds,scattered clouds,2025-07-10,13:03:10
+Cherat Cantonement,27.23,68,2.26,Clouds,broken clouds,2025-07-10,13:03:10
+Keti Bandar,31.14,68,6.67,Clouds,scattered clouds,2025-07-10,13:03:11
+Tando Mitha Khan,39.84,35,5.75,Clouds,broken clouds,2025-07-10,13:03:11
+Dittewal,26.81,80,3.48,Clouds,overcast clouds,2025-07-10,13:03:11
+Landi Kotal,27.54,71,5.17,Clouds,broken clouds,2025-07-10,13:03:12
+Chak Eighty Three Twelve L,39.62,32,4.36,Clouds,overcast clouds,2025-07-10,13:03:13
+Wana,29.52,56,5.54,Clouds,scattered clouds,2025-07-10,13:03:14
+Shooli Bazar,37.78,41,4.59,Clouds,overcast clouds,2025-07-10,13:03:14
+Chak Seventy-five - Five Right,35.8,38,5.01,Clouds,broken clouds,2025-07-10,13:03:14
+Barishal,17.37,41,4.06,Clouds,few clouds,2025-07-10,13:03:14
+Chowki Jamali,42.32,30,3.93,Clear,clear sky,2025-07-10,13:03:15
+Dandot RS,29.07,60,4.25,Clouds,broken clouds,2025-07-10,13:03:15
+Banian,26.81,80,3.48,Clouds,overcast clouds,2025-07-10,13:03:15
+Bakhri Ahmad Khan,41.94,30,3.1,Clouds,broken clouds,2025-07-10,13:03:15
+Basti Dosa,41.84,30,3.09,Clouds,broken clouds,2025-07-10,13:03:16
+Kot Rajkour,26.24,83,3.81,Clouds,overcast clouds,2025-07-10,13:03:16
+Keshupur,34.83,45,3.25,Clouds,broken clouds,2025-07-10,13:03:17
+Muhammad Moryal Sahito Jo Goth,41.45,31,5.28,Clouds,broken clouds,2025-07-10,13:03:17
+Ashanagro Koto,31.33,63,4.35,Clouds,broken clouds,2025-07-10,13:03:17
+Gulishah Kach,27.7,53,2.79,Clouds,scattered clouds,2025-07-10,13:03:19
+Khandowa,28.25,63,4.87,Clouds,scattered clouds,2025-07-10,13:03:19
+Shinpokh,29.38,72,3.75,Clouds,broken clouds,2025-07-10,13:03:21
+Nooriabad,30.48,67,4.67,Clouds,overcast clouds,2025-07-10,13:03:21
+Abdullah Khaskheli,38.49,39,6.65,Clouds,overcast clouds,2025-07-10,13:03:22
+Basti Aukharvand,41.89,30,3.11,Clouds,broken clouds,2025-07-10,13:03:22
+Moza Shahwala,41.83,30,3.09,Clouds,broken clouds,2025-07-10,13:03:22
+Dajjal wala,41.83,30,3.11,Clouds,broken clouds,2025-07-10,13:03:22
+Nooriabad,33.34,56,7.01,Clouds,overcast clouds,2025-07-10,13:03:22
+Ziarat,26.82,38,3.49,Clear,clear sky,2025-07-10,13:03:23
+Pakki Shagwanwali,41.84,30,3.09,Clouds,broken clouds,2025-07-10,13:03:16
+Dhok Awan,31.84,56,5.62,Clouds,few clouds,2025-07-10,13:03:23
+Thakar Ke Hashim,35.16,40,3.66,Clouds,broken clouds,2025-07-10,13:03:24
+Lalbazgaray,23.86,72,2.09,Clouds,broken clouds,2025-07-10,13:03:25
+Chak 54/4,30.31,55,4.56,Clouds,scattered clouds,2025-07-10,13:03:25
+Chah Umar Hayyat Wala,41.63,31,5.45,Clouds,broken clouds,2025-07-10,13:03:25
+Basti Machi,41.84,30,3.09,Clouds,broken clouds,2025-07-10,13:03:25
+Shaheed Abad,21.49,69,2.08,Clouds,broken clouds,2025-07-10,13:03:26
+Amir Kalasa,26.81,80,3.48,Clouds,overcast clouds,2025-07-10,13:03:26
+Taragar wāla,41.84,30,3.09,Clouds,broken clouds,2025-07-10,13:03:25
+Basti Qaudhia,41.84,30,3.09,Clouds,broken clouds,2025-07-10,13:03:27
+Hot Chat,37.81,41,3.74,Clouds,broken clouds,2025-07-10,13:03:27
+Pirotak,38.08,40,3.01,Clouds,broken clouds,2025-07-10,13:03:30
+Jath,37.85,40,3.5,Clouds,broken clouds,2025-07-10,13:03:30
+Dera Tehsildarwala,40.57,31,5.57,Clouds,broken clouds,2025-07-10,13:03:31
+Sheeriwala (Old),41.87,30,3.1,Clouds,broken clouds,2025-07-10,13:03:31
+Asad Ullah,25.54,68,3.12,Clouds,scattered clouds,2025-07-10,13:03:10
+Dhoke Allah Razi,28.25,63,4.87,Clouds,scattered clouds,2025-07-10,13:03:33
+Haveli Mehr Ghulam Qadir Hiraj,38.61,35,4.58,Clouds,overcast clouds,2025-07-10,13:03:33
+Asad Ullah DIrvi,25.54,68,3.12,Clouds,scattered clouds,2025-07-10,13:03:10
+Asad Ullah Khan Dirvi,25.54,68,3.12,Clouds,scattered clouds,2025-07-10,13:03:10
+Uzhnu,24.77,24,3.56,Clouds,broken clouds,2025-07-10,13:03:34
+Aun Hiraj's County,41.49,31,5.01,Clouds,broken clouds,2025-07-10,13:03:35
+Bankhar Banda,18.68,72,5.29,Clouds,scattered clouds,2025-07-10,13:03:37
+Kandogai,18.68,72,5.29,Clouds,scattered clouds,2025-07-10,13:03:37
+Burj Banda,12.78,72,5.71,Clouds,scattered clouds,2025-07-10,13:03:39
+Khar Banda,12.78,72,5.71,Clouds,scattered clouds,2025-07-10,13:03:38
+Khor Banda,12.78,72,5.71,Clouds,scattered clouds,2025-07-10,13:03:38
+Luge Banda,17.07,74,3.36,Clouds,scattered clouds,2025-07-10,13:03:45
+Janchal,19.84,65,4.57,Clouds,few clouds,2025-07-10,13:03:45
+Seru Banda,17.77,74,3.43,Clouds,broken clouds,2025-07-10,13:03:45
+Bandla Banda,6.64,72,5.69,Clouds,scattered clouds,2025-07-10,13:03:48
+Nathi Banda,12.78,72,5.71,Clouds,scattered clouds,2025-07-10,13:03:48
+Charai Banda,14.07,71,4.34,Clouds,scattered clouds,2025-07-10,13:03:53
+Panji Banda,14.07,71,4.34,Clouds,scattered clouds,2025-07-10,13:04:00
+Lawa,33.69,49,2.14,Clouds,broken clouds,2025-07-10,13:04:02
+Ranolia,28.42,66,3.64,Rain,light rain,2025-07-10,13:04:04
+Khenai,23.69,68,3.57,Rain,light rain,2025-07-10,13:04:05
+Dhup,28.42,66,3.64,Rain,light rain,2025-07-10,13:04:05
+Darra,24.99,67,3.95,Rain,light rain,2025-07-10,13:04:06
+Mihr Bat,23.08,67,3.34,Rain,light rain,2025-07-10,13:04:06
+Duber Bazar,28.42,66,3.64,Rain,light rain,2025-07-10,13:04:06
+Gabar,24.99,67,3.95,Rain,light rain,2025-07-10,13:04:07
+Shungial,24.99,67,3.95,Clouds,few clouds,2025-07-10,13:04:07
+Shitgal,17.99,68,4.28,Clouds,scattered clouds,2025-07-10,13:04:08
+Jag Kalle,23.32,67,4.45,Clouds,few clouds,2025-07-10,13:04:08
+Segan,24.99,67,3.95,Rain,light rain,2025-07-10,13:04:08
+Taralla Banda,17.99,68,4.28,Clouds,scattered clouds,2025-07-10,13:04:10
+Lang,25.09,68,4.82,Clouds,few clouds,2025-07-10,13:04:10
+Shilke,20.96,69,4.59,Clouds,scattered clouds,2025-07-10,13:04:10
+Sakah,17.81,71,4.89,Clouds,scattered clouds,2025-07-10,13:04:11
+Sanagai,20.96,69,4.59,Clouds,scattered clouds,2025-07-10,13:04:11
+Serai,17.81,71,4.89,Clouds,scattered clouds,2025-07-10,13:04:12
+Nitai Banda,18.68,72,5.29,Clouds,scattered clouds,2025-07-10,13:04:13
+Harnai Banda,18.68,72,5.29,Clouds,scattered clouds,2025-07-10,13:04:13
+Dathra,19.96,71,5.44,Clouds,scattered clouds,2025-07-10,13:04:13
+Nilgai Banda,12.08,71,5.89,Clouds,few clouds,2025-07-10,13:04:13
+Yazai,15.63,70,5.68,Clouds,few clouds,2025-07-10,13:04:15
+Karbej,15.63,70,5.68,Clouds,few clouds,2025-07-10,13:04:16
+Haj Dir,15.76,70,6.02,Clouds,few clouds,2025-07-10,13:04:17
+Gujar Banda,15.63,70,5.68,Clouds,few clouds,2025-07-10,13:04:19
+Shamalguli,15.63,70,5.68,Clouds,few clouds,2025-07-10,13:04:20
+Dhar,21.4,68,5.36,Clouds,few clouds,2025-07-10,13:04:21
+Kamar Banda,15.63,70,5.68,Clouds,few clouds,2025-07-10,13:04:22
+Shaint,21.4,68,5.36,Clouds,few clouds,2025-07-10,13:04:22
+Datol Banda,21.4,68,5.36,Clouds,few clouds,2025-07-10,13:04:24
+Chilari,21.4,68,5.36,Clouds,few clouds,2025-07-10,13:04:31
+Banil Kalle,25.09,68,4.82,Clouds,few clouds,2025-07-10,13:04:31
+Bulai,20.99,67,4.98,Clouds,few clouds,2025-07-10,13:04:32
+Shamal,20.99,67,4.98,Clouds,few clouds,2025-07-10,13:04:32
+Bara Amba,25.09,68,4.82,Clouds,few clouds,2025-07-10,13:04:34
+Kigamara,24.05,64,4.15,Rain,light rain,2025-07-10,13:04:35
+Kuz Amba,23.32,67,4.45,Clouds,few clouds,2025-07-10,13:04:35
+Serai,24.05,64,4.15,Rain,light rain,2025-07-10,13:04:37
+Khwar Badar Khel,26.81,65,4.07,Clouds,few clouds,2025-07-10,13:04:37
+Sandari,24.09,64,3.7,Rain,light rain,2025-07-10,13:04:37
+Chhor Banda,31.53,63,3.75,Rain,light rain,2025-07-10,13:04:37
+Kuwde,28.6,65,4.63,Rain,light rain,2025-07-10,13:04:39
+Gloz Banda,26.81,65,4.07,Rain,light rain,2025-07-10,13:04:39
+Sirai Kalle Dag,25.28,66,5.06,Clear,clear sky,2025-07-10,13:04:39
+Khertai Bela Duber,24.99,67,3.95,Rain,light rain,2025-07-10,13:04:40
+Mali Dera,24.09,64,3.7,Rain,light rain,2025-07-10,13:04:39
+Manjinr Banda,19.8,70,4.08,Clouds,scattered clouds,2025-07-10,13:04:42
+Khenai,23.08,67,3.34,Rain,light rain,2025-07-10,13:04:42
+Bankhar,23.08,67,3.34,Rain,light rain,2025-07-10,13:04:42
+Shrshain,24.09,64,3.7,Rain,light rain,2025-07-10,13:04:42
+Sarang,28.42,66,3.64,Rain,light rain,2025-07-10,13:04:42
+Thil Banda,29.24,63,3.37,Rain,light rain,2025-07-10,13:04:44
+Mahran,29.24,63,3.37,Rain,light rain,2025-07-10,13:04:46
+Nazro,25.77,62,3.38,Rain,light rain,2025-07-10,13:04:46
+Khal,29.24,63,3.37,Rain,light rain,2025-07-10,13:04:46
+Shamdara,25.77,62,3.38,Rain,light rain,2025-07-10,13:04:46
+Shamial,25.44,61,3.39,Rain,light rain,2025-07-10,13:04:46
+Khakharo,25.77,62,3.38,Rain,light rain,2025-07-10,13:04:47
+Gambir,31.35,63,4.19,Rain,light rain,2025-07-10,13:04:47
+Gambir,31.35,63,4.19,Rain,light rain,2025-07-10,13:04:47
+Gut,20.96,69,4.59,Clouds,scattered clouds,2025-07-10,13:04:49
+Khan Sar,19.8,70,4.08,Clouds,scattered clouds,2025-07-10,13:04:49
+Chaprao,14.07,71,4.34,Clouds,scattered clouds,2025-07-10,13:04:50
+Karlo Banda,20.96,69,4.59,Clouds,scattered clouds,2025-07-10,13:04:50
+Gedar Banda,14.07,71,4.34,Clouds,scattered clouds,2025-07-10,13:04:50
+Gando,22.39,69,3.81,Rain,light rain,2025-07-10,13:04:52
+Abdul Aziz Koruna,29.37,72,4.01,Clouds,overcast clouds,2025-07-10,13:04:53
+Ghando,22.39,69,3.81,Rain,light rain,2025-07-10,13:04:52
+Sholgara,23.08,67,3.34,Rain,light rain,2025-07-10,13:04:53
+Binkot,28.52,65,3.35,Rain,light rain,2025-07-10,13:04:56
+Mun Bek,18.28,72,4.77,Clouds,scattered clouds,2025-07-10,13:04:56
+Mali Banda,18.28,72,4.77,Clouds,scattered clouds,2025-07-10,13:04:56
+Duni,18.28,72,4.77,Clouds,scattered clouds,2025-07-10,13:04:56
+Jabela Banda,12.35,72,4.42,Rain,light rain,2025-07-10,13:04:57
+Fatehpur,25.29,68,3.11,Clouds,few clouds,2025-07-10,13:04:58
+Sore,21.18,72,3.38,Clouds,broken clouds,2025-07-10,13:04:58
+Shalkho Banda,19.8,70,4.08,Clouds,scattered clouds,2025-07-10,13:04:59
+Shonrial,13.96,72,3.45,Clouds,broken clouds,2025-07-10,13:04:59
+Cholao Banda,12.35,72,4.42,Clouds,broken clouds,2025-07-10,13:04:59
+Kuz Laikot,25.16,50,4.56,Clouds,few clouds,2025-07-10,13:05:01
+Bun,16.03,54,4.09,Clear,clear sky,2025-07-10,13:05:01
+Hariani,25.16,50,4.56,Clouds,few clouds,2025-07-10,13:05:01
+Ghulam Khan,28.24,58,6.57,Clouds,broken clouds,2025-07-10,13:05:01
+Spedār,19.63,54,4.06,Clouds,few clouds,2025-07-10,13:05:01
+Dab Banda,18.59,50,4.75,Clouds,scattered clouds,2025-07-10,13:05:03
+Muragh Kili,34.05,12,7.24,Clear,clear sky,2025-07-10,13:05:03
+Kanda,18.59,50,4.75,Clouds,scattered clouds,2025-07-10,13:05:03
+Ghawai Bela,14.4,49,4.66,Clouds,scattered clouds,2025-07-10,13:05:03
+Kain,18.59,50,4.75,Clouds,scattered clouds,2025-07-10,13:05:03
+Lahore,25.02,83,2.1,Clouds,overcast clouds,2025-07-10,13:05:06
+Karachi,30.35,75,6.95,Clouds,overcast clouds,2025-07-10,13:03:01
+Rawalpindi,30.57,70,4.29,Clouds,broken clouds,2025-07-10,13:02:00
+Peshawar,29.94,70,2.86,Clouds,broken clouds,2025-07-10,13:01:26
+Faisalabad,34.7,40,3.81,Clouds,few clouds,2025-07-10,13:05:06
+Bannu,33.74,52,4.54,Clouds,broken clouds,2025-07-10,13:05:09
+Multan,41.52,31,5.03,Clouds,broken clouds,2025-07-10,13:05:09
+Gujranwala,26.83,78,2.54,Clouds,overcast clouds,2025-07-10,13:05:09
+Hyderābād,38.43,41,6.63,Clouds,broken clouds,2025-07-10,13:05:09
+Quetta,35.82,17,3.85,Clear,clear sky,2025-07-10,13:05:09
+Sargodha,34.5,45,3.61,Clouds,broken clouds,2025-07-10,13:05:02
+Dera Ismail Khan,40.0,34,3.6,Clear,clear sky,2025-07-10,13:05:11
+Muzaffarabad,28.11,69,1.79,Clouds,few clouds,2025-07-10,13:02:42
+Sialkot,25.77,85,3.64,Clouds,overcast clouds,2025-07-10,13:05:11
+Bahawalpur,41.13,31,5.28,Clouds,scattered clouds,2025-07-10,13:05:11
+Islamabad,30.1,70,3.98,Clouds,few clouds,2025-07-10,13:02:17
+Gujrat,26.35,82,3.37,Clouds,overcast clouds,2025-07-10,13:05:13
+Shekhupura,26.77,74,2.81,Clouds,broken clouds,2025-07-10,13:05:13
+Battagram City,27.39,71,2.94,Clouds,scattered clouds,2025-07-10,13:05:13
+Kotli,28.15,67,2.08,Clouds,overcast clouds,2025-07-10,13:05:13
+Sukkur,40.97,31,5.29,Clouds,scattered clouds,2025-07-10,13:05:16
+Okara,34.65,40,3.73,Clouds,broken clouds,2025-07-10,13:05:16
+Noorabad,40.12,34,5.48,Clear,clear sky,2025-07-10,13:05:16
+Sahiwal,36.54,37,4.58,Clouds,broken clouds,2025-07-10,13:05:16
+Rahim Yar Khan,40.58,33,5.17,Clouds,scattered clouds,2025-07-10,13:05:16
+Dhup Banda,15.47,71,3.88,Clouds,scattered clouds,2025-07-10,13:05:18
+Tikki Banda,15.47,71,3.88,Clouds,scattered clouds,2025-07-10,13:05:18
+Jabba Gedar Banda,15.47,71,3.88,Clouds,scattered clouds,2025-07-10,13:05:18
+Dand Banda,15.47,71,3.88,Clouds,scattered clouds,2025-07-10,13:05:18
+Maria Banda,19.8,70,4.08,Clouds,scattered clouds,2025-07-10,13:05:18
+Jalkot,22.39,69,3.81,Rain,light rain,2025-07-10,13:05:20
+Soya,22.39,69,3.81,Rain,light rain,2025-07-10,13:05:20
+Daro Banda,18.48,71,3.68,Clouds,scattered clouds,2025-07-10,13:05:20
+Dhand,18.48,71,3.68,Rain,light rain,2025-07-10,13:05:20
+Manri,18.48,71,3.68,Clouds,scattered clouds,2025-07-10,13:05:20
+Ranolia Kuz Kalle,23.69,68,3.57,Rain,light rain,2025-07-10,13:05:23
+Chhar,18.58,70,3.49,Rain,light rain,2025-07-10,13:05:23
+Ranolia Bar Kalle,23.69,68,3.57,Rain,light rain,2025-07-10,13:05:23
+Thapan,23.69,68,3.57,Rain,light rain,2025-07-10,13:05:23
+Dan,16.42,69,3.32,Rain,light rain,2025-07-10,13:05:24
+Dhussa,16.42,69,3.32,Rain,light rain,2025-07-10,13:05:25
+Dahar,23.08,67,3.34,Rain,light rain,2025-07-10,13:05:25
+Kopu Banda,20.64,73,3.43,Clouds,scattered clouds,2025-07-10,13:05:25
+Loe Kobu,8.62,73,3.69,Clouds,scattered clouds,2025-07-10,13:05:25
+Kafir Banda,10.83,73,3.54,Clouds,broken clouds,2025-07-10,13:05:26
+Satil Banda,18.48,71,3.68,Clouds,scattered clouds,2025-07-10,13:05:27
+Kandao Banda,18.58,70,3.49,Clouds,scattered clouds,2025-07-10,13:05:28
+Shakil Gum Banda,18.48,71,3.68,Clouds,scattered clouds,2025-07-10,13:05:27
+Cholao Banda,18.48,71,3.68,Clouds,scattered clouds,2025-07-10,13:05:28
+Chhari Banda,18.48,71,3.68,Clouds,scattered clouds,2025-07-10,13:05:28
+Nate Banda,8.62,73,3.69,Clouds,scattered clouds,2025-07-10,13:05:25
+Cholao Banda,18.48,71,3.68,Clouds,scattered clouds,2025-07-10,13:05:28
+Khana Banda,8.62,73,3.69,Clouds,scattered clouds,2025-07-10,13:05:31
+Kichar Banda,15.47,71,3.88,Clouds,scattered clouds,2025-07-10,13:05:31
+Jabba Banda,7.43,72,4.07,Clouds,scattered clouds,2025-07-10,13:05:31
+Chharon Banda,16.42,69,3.32,Clouds,scattered clouds,2025-07-10,13:05:32
+Sher Banda,13.6,72,3.41,Clouds,scattered clouds,2025-07-10,13:05:32
+Sangotia Banda,17.59,71,3.29,Clouds,scattered clouds,2025-07-10,13:05:32
+Chhapra Banda,18.58,70,3.49,Clouds,scattered clouds,2025-07-10,13:05:32
+Jarin Banda,16.42,69,3.32,Clouds,scattered clouds,2025-07-10,13:05:32
+Mizakhpa,21.06,68,3.18,Clouds,few clouds,2025-07-10,13:05:33
+Ber,21.06,68,3.18,Clouds,few clouds,2025-07-10,13:05:33
+Gullu Ziarat,35.51,11,6.51,Clear,clear sky,2025-07-10,13:05:33
+Bela Rustam Khel,27.48,66,3.15,Rain,light rain,2025-07-10,13:05:33
+Manwain Banda,18.58,70,3.49,Clouds,scattered clouds,2025-07-10,13:05:33
+Khelan,21.32,60,3.99,Clear,clear sky,2025-07-10,13:05:36
+Kili Sardar Khan,35.75,10,6.51,Clear,clear sky,2025-07-10,13:05:36
+Kili Sikandar Khan,35.75,10,6.51,Clear,clear sky,2025-07-10,13:05:36
+Ashewat Dak Choki,35.87,10,4.58,Clear,clear sky,2025-07-10,13:05:36
+Khwazhobai,34.62,11,3.71,Clear,clear sky,2025-07-10,13:05:36
+Manzakai,32.59,29,5.11,Clear,clear sky,2025-07-10,13:05:38
+Zamkai Kili Two,31.52,19,2.9,Clear,clear sky,2025-07-10,13:05:38
+Hasan Kili,31.9,18,2.75,Clear,clear sky,2025-07-10,13:05:38
+Kili Mola Fateh Khan,30.95,19,3.37,Clear,clear sky,2025-07-10,13:05:38
+Zarakai Kili One,31.9,18,2.75,Clear,clear sky,2025-07-10,13:05:38
+Haji Sulaimanzai,32.19,22,5.93,Clouds,few clouds,2025-07-10,13:05:40
+Hasan Kili,31.92,20,4.8,Clouds,few clouds,2025-07-10,13:05:40
+Sheran Kili,30.95,19,3.37,Clear,clear sky,2025-07-10,13:05:40
+Sahmulao Kili,32.12,17,3.43,Clear,clear sky,2025-07-10,13:05:40
+Ochakke,32.88,19,3.83,Clear,clear sky,2025-07-10,13:05:40
+Kili Ziaba,33.47,20,4.59,Clear,clear sky,2025-07-10,13:05:42
+Kili Wazir,32.23,28,5.14,Clear,clear sky,2025-07-10,13:05:42
+Kili Gulab Khan,32.59,29,5.11,Clear,clear sky,2025-07-10,13:05:42
+Kili Jumma Din,32.59,29,5.11,Clear,clear sky,2025-07-10,13:05:42
+Kili Rasanan,32.23,31,5.79,Clear,clear sky,2025-07-10,13:05:42
+Mulla Baran,31.37,33,6.42,Clear,clear sky,2025-07-10,13:05:43
+Kili Shahu,32.3,26,5.86,Clear,clear sky,2025-07-10,13:05:44
+Kili Khial Muhammad,32.3,26,5.86,Clear,clear sky,2025-07-10,13:05:44
+Kili Khudadad,32.45,30,5.88,Clear,clear sky,2025-07-10,13:05:44
+Kili Haji Shah Wali,32.45,30,5.88,Clear,clear sky,2025-07-10,13:05:44
+Kili Lalu,32.09,24,5.07,Clear,clear sky,2025-07-10,13:05:46
+Kili Ghulam Nabi,32.63,28,6.6,Clear,clear sky,2025-07-10,13:05:47
+Gal,23.89,51,4.2,Clear,clear sky,2025-07-10,13:05:47
+Kawai Kili,32.39,31,5.08,Clear,clear sky,2025-07-10,13:05:47
+Wach Sanzalai Kili,31.95,25,3.55,Clear,clear sky,2025-07-10,13:05:47
+Tanga,31.37,33,6.42,Clear,clear sky,2025-07-10,13:05:43
+Sar,21.34,69,3.7,Clouds,scattered clouds,2025-07-10,13:05:49
+Bar Kalle,21.34,69,3.7,Clouds,scattered clouds,2025-07-10,13:05:49
+Badalai,21.18,70,3.66,Clouds,scattered clouds,2025-07-10,13:05:49
+Jezhan,31.45,34,6.23,Clear,clear sky,2025-07-10,13:05:49
+Pia,24.62,69,3.35,Clouds,scattered clouds,2025-07-10,13:05:49
+Sutann,24.05,69,3.38,Clouds,scattered clouds,2025-07-10,13:05:50
+Bach Paichwal,22.35,71,2.96,Clouds,scattered clouds,2025-07-10,13:05:50
+Rahat Kot,25.79,68,3.15,Clouds,few clouds,2025-07-10,13:05:50
+Agro,24.62,69,3.35,Clouds,scattered clouds,2025-07-10,13:05:50
+Hasangat,24.62,69,3.35,Clouds,scattered clouds,2025-07-10,13:05:50
+Shamalguli,28.52,65,3.35,Rain,light rain,2025-07-10,13:05:52
+Dam,25.33,63,3.73,Clouds,broken clouds,2025-07-10,13:05:52
+Kohan,21.6,68,3.18,Clouds,scattered clouds,2025-07-10,13:05:52
+Barimar Banda,11.89,73,4.11,Rain,light rain,2025-07-10,13:05:54
+Shao,25.33,63,3.73,Clouds,broken clouds,2025-07-10,13:05:52
+Jilga Hadira,32.39,18,8.35,Clear,clear sky,2025-07-10,13:05:55
+Mehri Zaranda,32.33,18,8.48,Clear,clear sky,2025-07-10,13:05:55
+Takarai,31.33,17,8.3,Clear,clear sky,2025-07-10,13:05:55
+Wali Dad,31.52,17,8.37,Clear,clear sky,2025-07-10,13:05:56
+Musa,32.33,18,8.48,Clear,clear sky,2025-07-10,13:05:56
+Amanullah,32.19,17,7.97,Clear,clear sky,2025-07-10,13:05:57
+Nasrullah,31.36,17,8.11,Clear,clear sky,2025-07-10,13:05:57
+Mir Afzal,30.99,17,8.22,Clear,clear sky,2025-07-10,13:05:57
+Ghulam Jan,32.19,17,7.97,Clear,clear sky,2025-07-10,13:05:57
+Shah Ghasi,32.19,17,7.97,Clear,clear sky,2025-07-10,13:05:57
+Muhammad Malezai,31.36,17,8.11,Clear,clear sky,2025-07-10,13:05:58

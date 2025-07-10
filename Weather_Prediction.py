@@ -46,7 +46,7 @@ def fetch_city_temperature_data(city_id, engine):
 
     # Keep only rows within 1-hour window around 3 PM
     df = df[
-        (df['datetime'].dt.time >= datetime.strptime("12:30", "%H:%M").time()) &
+        (df['datetime'].dt.time >= datetime.strptime("15:00", "%H:%M").time()) &
         (df['datetime'].dt.time <= datetime.strptime("18:30", "%H:%M").time())
     ]
 
@@ -78,7 +78,6 @@ def save_forecast_to_db(engine, city_id, forecast_date, forecast_time, forecast_
 # Forecast function
 def forecast_temperature_at_3pm(city_id, city_name, engine):
     df = fetch_city_temperature_data(city_id, engine)
-    print(f"Fetched {len(df)} records for {city_name}")
 
     if len(df) < 5:
         print(f"Not enough data to forecast for {city_name}")
@@ -88,14 +87,13 @@ def forecast_temperature_at_3pm(city_id, city_name, engine):
     model.fit(df)
 
     # Generate forecast for 3 PM tomorrow
-    next_day_3pm = datetime.now().replace(hour=15, minute=0, second=0, microsecond=0) + timedelta(days=1)
-    future = pd.DataFrame({"ds": [next_day_3pm]})
+    next_day_5pm = datetime.now().replace(hour=17, minute=0, second=0, microsecond=0) + timedelta(days=1)
+    future = pd.DataFrame({"ds": [next_day_5pm]})
     forecast = model.predict(future)
 
     predicted_temp = round(forecast.iloc[0]['yhat'], 2)
-    print(f"Forecasted 3 PM temp for {city_name} on {next_day_3pm.date()}: {predicted_temp} °C")
 
-    save_forecast_to_db(engine, city_id, next_day_3pm.date(), next_day_3pm.time(), predicted_temp)
+    save_forecast_to_db(engine, city_id, next_day_5pm.date(), next_day_5pm.time(), predicted_temp)
 
 # Main execution
 if __name__ == "__main__":
