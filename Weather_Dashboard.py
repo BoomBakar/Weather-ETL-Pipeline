@@ -7,9 +7,11 @@ from datetime import datetime, timedelta
 import os
 import urllib.parse
 from dotenv import load_dotenv
-# Database connection function
+
+# Load environment variables
 load_dotenv()
 
+# Database connection function
 def get_db_connection():
     user = os.getenv("DB_USER")
     password = urllib.parse.quote_plus(os.getenv("DB_PASSWORD"))
@@ -17,6 +19,7 @@ def get_db_connection():
     port = os.getenv("DB_PORT")
     db = os.getenv("DB_NAME")
     return create_engine(f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{db}")
+
 # Fetch cities from DB
 def fetch_cities_from_db():
     engine = get_db_connection()
@@ -30,10 +33,27 @@ def fetch_cities_from_db():
     
     return result
 
-# Fetch weather data from DB for a city
-def fetch_weather_data_for_city(city_id):
+# Fetch all available dates for a city
+def fetch_all_dates_for_city(city_id):
     engine = get_db_connection()
-    query = f"SELECT date, time, temperature_c, humidity_percent, wind_speed_mps FROM weather_data WHERE city_id = {city_id} ORDER BY date DESC"
+    query = f"""
+    SELECT DISTINCT date
+    FROM weather_data
+    WHERE city_id = {city_id}
+    ORDER BY date DESC
+    """
+    df = pd.read_sql(query, engine)
+    return df['date'].tolist()
+
+# Fetch weather data for a city and a specific date
+def fetch_weather_data_for_city_and_date(city_id, selected_date):
+    engine = get_db_connection()
+    query = f"""
+    SELECT date, time, temperature_c, humidity_percent, wind_speed_mps 
+    FROM weather_data
+    WHERE city_id = {city_id} AND date = '{selected_date}'
+    ORDER BY time
+    """
     df = pd.read_sql(query, engine)
     return df
 
@@ -50,39 +70,39 @@ def display_dashboard():
     # Get the selected city's ID
     city_id = next(city[0] for city in cities if city[1] == selected_city)
     
-    # Fetch weather data for the selected city
-    weather_data = fetch_weather_data_for_city(city_id)
+    # Fetch all available dates for the selected city
+    available_dates = fetch_all_dates_for_city(city_id)
+    
+    # Dropdown to select the date
+    selected_date = st.selectbox("Select a date", available_dates)
+    
+    # Fetch weather data for the selected city and date
+    weather_data = fetch_weather_data_for_city_and_date(city_id, selected_date)
     
     if weather_data.empty:
-        st.write(f"No data available for {selected_city}.")
+        st.write(f"No data available for {selected_city} on {selected_date}.")
     else:
-        # Display Current Data
-        st.write(f"Weather data for {selected_city}:")
+        # Display Weather Data for the selected day
+        st.write(f"Weather data for {selected_city} on {selected_date}:")
         st.dataframe(weather_data)
         
-        # Plot Daily Temperature Trend (Bar Chart)
-        st.subheader(f"Temperature Trend for {selected_city} over the Last Week")
-        daily_temp_data = weather_data.groupby('date')['temperature_c'].mean().reset_index()
-        fig = px.bar(daily_temp_data, x='date', y='temperature_c', title="Daily Average Temperature")
+        # Plot Hourly Temperature Trend (Line Chart)
+        st.subheader(f"Hourly Temperature Trend for {selected_city} on {selected_date}")
+        hourly_temp_data = weather_data[['time', 'temperature_c']]
+        fig = px.line(hourly_temp_data, x='time', y='temperature_c', title="Hourly Temperature")
         st.plotly_chart(fig)
         
-        # Plot Hourly Temperature Trend (Line Chart)
-        st.subheader(f"Hourly Temperature Trend for {selected_city}")
-        hourly_temp_data = weather_data.groupby('time')['temperature_c'].mean().reset_index()
-        fig2 = px.line(hourly_temp_data, x='time', y='temperature_c', title="Hourly Temperature")
+        # Plot Hourly Humidity Data
+        st.subheader(f"Hourly Humidity for {selected_city} on {selected_date}")
+        hourly_humidity_data = weather_data[['time', 'humidity_percent']]
+        fig2 = px.line(hourly_humidity_data, x='time', y='humidity_percent', title="Hourly Humidity")
         st.plotly_chart(fig2)
         
-        # Plot Humidity Data
-        st.subheader(f"Humidity Levels in {selected_city}")
-        humidity_data = weather_data.groupby('time')['humidity_percent'].mean().reset_index()
-        fig3 = px.line(humidity_data, x='time', y='humidity_percent', title="Hourly Humidity")
+        # Plot Hourly Wind Speed Data
+        st.subheader(f"Hourly Wind Speed for {selected_city} on {selected_date}")
+        hourly_wind_speed_data = weather_data[['time', 'wind_speed_mps']]
+        fig3 = px.line(hourly_wind_speed_data, x='time', y='wind_speed_mps', title="Hourly Wind Speed")
         st.plotly_chart(fig3)
-
-        # Plot Wind Speed Data
-        st.subheader(f"Wind Speed in {selected_city}")
-        wind_speed_data = weather_data.groupby('time')['wind_speed_mps'].mean().reset_index()
-        fig4 = px.line(wind_speed_data, x='time', y='wind_speed_mps', title="Hourly Wind Speed")
-        st.plotly_chart(fig4)
 
 if __name__ == "__main__":
     display_dashboard()
