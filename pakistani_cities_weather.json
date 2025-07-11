@@ -1,1 +1,6652 @@
-[]
+[
+  {
+    "city_name": "Larkana",
+    "temperature_c": 42.57,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.6,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:01"
+  },
+  {
+    "city_name": "Tando Allahyar",
+    "temperature_c": 37.86,
+    "humidity_percent": 39,
+    "wind_speed_mps": 5.17,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:01"
+  },
+  {
+    "city_name": "Wah Cantt",
+    "temperature_c": 33.89,
+    "humidity_percent": 56,
+    "wind_speed_mps": 2.9,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:02:17"
+  },
+  {
+    "city_name": "Dera Ghazi Khan",
+    "temperature_c": 35.79,
+    "humidity_percent": 45,
+    "wind_speed_mps": 0.44,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:01"
+  },
+  {
+    "city_name": "Kasur",
+    "temperature_c": 31.03,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.38,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:01"
+  },
+  {
+    "city_name": "Bhimber",
+    "temperature_c": 31.7,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.05,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:20"
+  },
+  {
+    "city_name": "Hafizabad",
+    "temperature_c": 32.36,
+    "humidity_percent": 51,
+    "wind_speed_mps": 2.27,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:02:24"
+  },
+  {
+    "city_name": "Chiniot",
+    "temperature_c": 35.68,
+    "humidity_percent": 40,
+    "wind_speed_mps": 2.46,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:31"
+  },
+  {
+    "city_name": "Nawabshah",
+    "temperature_c": 39.88,
+    "humidity_percent": 33,
+    "wind_speed_mps": 6.52,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:05"
+  },
+  {
+    "city_name": "Jhang Sadar",
+    "temperature_c": 36.73,
+    "humidity_percent": 40,
+    "wind_speed_mps": 2.42,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:02:15"
+  },
+  {
+    "city_name": "Malir Cantonment",
+    "temperature_c": 33.6,
+    "humidity_percent": 54,
+    "wind_speed_mps": 6.15,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:01:36"
+  },
+  {
+    "city_name": "Mardan",
+    "temperature_c": 32.79,
+    "humidity_percent": 53,
+    "wind_speed_mps": 2.55,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:13"
+  },
+  {
+    "city_name": "Mingora",
+    "temperature_c": 29.29,
+    "humidity_percent": 61,
+    "wind_speed_mps": 3.16,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:14"
+  },
+  {
+    "city_name": "Mirpur Khas",
+    "temperature_c": 38.36,
+    "humidity_percent": 38,
+    "wind_speed_mps": 5.4,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:01:47"
+  },
+  {
+    "city_name": "Abbottabad",
+    "temperature_c": 27.23,
+    "humidity_percent": 63,
+    "wind_speed_mps": 3.79,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:01:50"
+  },
+  {
+    "city_name": "Bahawalpur",
+    "temperature_c": 36.61,
+    "humidity_percent": 41,
+    "wind_speed_mps": 3.03,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:16"
+  },
+  {
+    "city_name": "Skardu",
+    "temperature_c": 28.76,
+    "humidity_percent": 23,
+    "wind_speed_mps": 5.15,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:16"
+  },
+  {
+    "city_name": "Muzaffargarh",
+    "temperature_c": 35.73,
+    "humidity_percent": 51,
+    "wind_speed_mps": 2.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:16"
+  },
+  {
+    "city_name": "Khangarh",
+    "temperature_c": 42.79,
+    "humidity_percent": 27,
+    "wind_speed_mps": 5.25,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:44"
+  },
+  {
+    "city_name": "Gilgit",
+    "temperature_c": 30.36,
+    "humidity_percent": 25,
+    "wind_speed_mps": 3.23,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:17"
+  },
+  {
+    "city_name": "Dadu",
+    "temperature_c": 41.88,
+    "humidity_percent": 28,
+    "wind_speed_mps": 4.68,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:18"
+  },
+  {
+    "city_name": "Shikarpur",
+    "temperature_c": 42.2,
+    "humidity_percent": 28,
+    "wind_speed_mps": 5.68,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:18"
+  },
+  {
+    "city_name": "Shahkot",
+    "temperature_c": 32.92,
+    "humidity_percent": 49,
+    "wind_speed_mps": 2.21,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:18"
+  },
+  {
+    "city_name": "Khairpur",
+    "temperature_c": 41.29,
+    "humidity_percent": 29,
+    "wind_speed_mps": 5.96,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:20"
+  },
+  {
+    "city_name": "Kamoke",
+    "temperature_c": 31.05,
+    "humidity_percent": 57,
+    "wind_speed_mps": 1.71,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:18"
+  },
+  {
+    "city_name": "Jhelum",
+    "temperature_c": 32.89,
+    "humidity_percent": 52,
+    "wind_speed_mps": 1.93,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:21"
+  },
+  {
+    "city_name": "Saddiqabad",
+    "temperature_c": 40.16,
+    "humidity_percent": 33,
+    "wind_speed_mps": 4.16,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:21"
+  },
+  {
+    "city_name": "Burewala",
+    "temperature_c": 37.91,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.36,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:02:47"
+  },
+  {
+    "city_name": "Muridke",
+    "temperature_c": 30.6,
+    "humidity_percent": 58,
+    "wind_speed_mps": 1.62,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:22"
+  },
+  {
+    "city_name": "Arif Wala",
+    "temperature_c": 35.01,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.81,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:22"
+  },
+  {
+    "city_name": "Kohat",
+    "temperature_c": 31,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.4,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:22"
+  },
+  {
+    "city_name": "Layyah",
+    "temperature_c": 35.63,
+    "humidity_percent": 42,
+    "wind_speed_mps": 1.95,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:22"
+  },
+  {
+    "city_name": "Umarkot",
+    "temperature_c": 36.96,
+    "humidity_percent": 42,
+    "wind_speed_mps": 6.04,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:25"
+  },
+  {
+    "city_name": "Tordher",
+    "temperature_c": 33.44,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.14,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:25"
+  },
+  {
+    "city_name": "Lodhran",
+    "temperature_c": 37.71,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.82,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:26"
+  },
+  {
+    "city_name": "Khanpur",
+    "temperature_c": 39.19,
+    "humidity_percent": 37,
+    "wind_speed_mps": 0.87,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:26"
+  },
+  {
+    "city_name": "Khuzdar",
+    "temperature_c": 34.12,
+    "humidity_percent": 38,
+    "wind_speed_mps": 2.33,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:26"
+  },
+  {
+    "city_name": "Narowal",
+    "temperature_c": 30.91,
+    "humidity_percent": 57,
+    "wind_speed_mps": 2.05,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:01"
+  },
+  {
+    "city_name": "Bhakkar",
+    "temperature_c": 35.69,
+    "humidity_percent": 44,
+    "wind_speed_mps": 0.58,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:23"
+  },
+  {
+    "city_name": "Gojra",
+    "temperature_c": 36.43,
+    "humidity_percent": 41,
+    "wind_speed_mps": 2.71,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:26"
+  },
+  {
+    "city_name": "Mandi Bahauddin",
+    "temperature_c": 33.35,
+    "humidity_percent": 49,
+    "wind_speed_mps": 1.56,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:29"
+  },
+  {
+    "city_name": "Mianwali",
+    "temperature_c": 35.02,
+    "humidity_percent": 45,
+    "wind_speed_mps": 3.54,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:29"
+  },
+  {
+    "city_name": "Daska Kalan",
+    "temperature_c": 31.41,
+    "humidity_percent": 58,
+    "wind_speed_mps": 1.46,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:01:56"
+  },
+  {
+    "city_name": "Bahawalnagar",
+    "temperature_c": 35.54,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.64,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:29"
+  },
+  {
+    "city_name": "Pakpattan",
+    "temperature_c": 35.38,
+    "humidity_percent": 45,
+    "wind_speed_mps": 2.64,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:29"
+  },
+  {
+    "city_name": "Tando Adam",
+    "temperature_c": 38.81,
+    "humidity_percent": 37,
+    "wind_speed_mps": 5.97,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:30"
+  },
+  {
+    "city_name": "New Mirpur City",
+    "temperature_c": 32.27,
+    "humidity_percent": 52,
+    "wind_speed_mps": 3.17,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:30"
+  },
+  {
+    "city_name": "Toba Tek Singh",
+    "temperature_c": 37.13,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.87,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:30"
+  },
+  {
+    "city_name": "Chishtian",
+    "temperature_c": 37.45,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.17,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:37"
+  },
+  {
+    "city_name": "Shahdad Kot",
+    "temperature_c": 43.01,
+    "humidity_percent": 26,
+    "wind_speed_mps": 4.98,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:31"
+  },
+  {
+    "city_name": "Ghotki",
+    "temperature_c": 41.36,
+    "humidity_percent": 30,
+    "wind_speed_mps": 5.2,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:32"
+  },
+  {
+    "city_name": "Badin",
+    "temperature_c": 35.92,
+    "humidity_percent": 45,
+    "wind_speed_mps": 6.39,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:09"
+  },
+  {
+    "city_name": "Charsadda",
+    "temperature_c": 32.15,
+    "humidity_percent": 55,
+    "wind_speed_mps": 1.66,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:30"
+  },
+  {
+    "city_name": "Jaranwala",
+    "temperature_c": 33.29,
+    "humidity_percent": 49,
+    "wind_speed_mps": 1.96,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:32"
+  },
+  {
+    "city_name": "Tando Muhammad Khan",
+    "temperature_c": 37.88,
+    "humidity_percent": 39,
+    "wind_speed_mps": 5.24,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:34"
+  },
+  {
+    "city_name": "Ahmedpur East",
+    "temperature_c": 38.07,
+    "humidity_percent": 36,
+    "wind_speed_mps": 1.59,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:32"
+  },
+  {
+    "city_name": "Kamalia",
+    "temperature_c": 37.29,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.74,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:34"
+  },
+  {
+    "city_name": "Vehari",
+    "temperature_c": 38.51,
+    "humidity_percent": 38,
+    "wind_speed_mps": 0.65,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:34"
+  },
+  {
+    "city_name": "Khush\u0101b",
+    "temperature_c": 35.42,
+    "humidity_percent": 46,
+    "wind_speed_mps": 3.08,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:35"
+  },
+  {
+    "city_name": "Chakwal",
+    "temperature_c": 32.48,
+    "humidity_percent": 54,
+    "wind_speed_mps": 2.56,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "12:59:32"
+  },
+  {
+    "city_name": "Kot Addu",
+    "temperature_c": 36.01,
+    "humidity_percent": 46,
+    "wind_speed_mps": 0.56,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:27"
+  },
+  {
+    "city_name": "Wazirabad",
+    "temperature_c": 31.57,
+    "humidity_percent": 57,
+    "wind_speed_mps": 1.46,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:17"
+  },
+  {
+    "city_name": "Model Town",
+    "temperature_c": 29.9,
+    "humidity_percent": 59,
+    "wind_speed_mps": 1.96,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:35"
+  },
+  {
+    "city_name": "Swabi",
+    "temperature_c": 33.51,
+    "humidity_percent": 53,
+    "wind_speed_mps": 1.93,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:05"
+  },
+  {
+    "city_name": "Nowshera Cantonment",
+    "temperature_c": 32.72,
+    "humidity_percent": 53,
+    "wind_speed_mps": 1.74,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:38"
+  },
+  {
+    "city_name": "Hasilpur",
+    "temperature_c": 38.38,
+    "humidity_percent": 37,
+    "wind_speed_mps": 1.15,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:02:52"
+  },
+  {
+    "city_name": "Jalalpur Jattan",
+    "temperature_c": 31.42,
+    "humidity_percent": 58,
+    "wind_speed_mps": 1.1,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:38"
+  },
+  {
+    "city_name": "Kandhkot",
+    "temperature_c": 41.85,
+    "humidity_percent": 29,
+    "wind_speed_mps": 5.24,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:38"
+  },
+  {
+    "city_name": "Chaman",
+    "temperature_c": 38.41,
+    "humidity_percent": 11,
+    "wind_speed_mps": 7.53,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:38"
+  },
+  {
+    "city_name": "Arifwala",
+    "temperature_c": 36.73,
+    "humidity_percent": 42,
+    "wind_speed_mps": 3.02,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:42"
+  },
+  {
+    "city_name": "Qambar",
+    "temperature_c": 42.93,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.23,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:46"
+  },
+  {
+    "city_name": "Mianke Mor",
+    "temperature_c": 31.47,
+    "humidity_percent": 54,
+    "wind_speed_mps": 2.06,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:46"
+  },
+  {
+    "city_name": "Chichawatni",
+    "temperature_c": 37.3,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.79,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:02:43"
+  },
+  {
+    "city_name": "Attock City",
+    "temperature_c": 33.86,
+    "humidity_percent": 51,
+    "wind_speed_mps": 2.08,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:46"
+  },
+  {
+    "city_name": "Kharian",
+    "temperature_c": 31.99,
+    "humidity_percent": 54,
+    "wind_speed_mps": 1.88,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:46"
+  },
+  {
+    "city_name": "Moro",
+    "temperature_c": 41.63,
+    "humidity_percent": 28,
+    "wind_speed_mps": 5.9,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:29"
+  },
+  {
+    "city_name": "Mian Channu",
+    "temperature_c": 38.09,
+    "humidity_percent": 38,
+    "wind_speed_mps": 1.53,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:51"
+  },
+  {
+    "city_name": "Bhalwal",
+    "temperature_c": 34.52,
+    "humidity_percent": 47,
+    "wind_speed_mps": 2.63,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:51"
+  },
+  {
+    "city_name": "Turbat",
+    "temperature_c": 37.29,
+    "humidity_percent": 39,
+    "wind_speed_mps": 4.02,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:43"
+  },
+  {
+    "city_name": "Dipalpur",
+    "temperature_c": 34.66,
+    "humidity_percent": 45,
+    "wind_speed_mps": 2.29,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:51"
+  },
+  {
+    "city_name": "Pano Aqil",
+    "temperature_c": 41.32,
+    "humidity_percent": 30,
+    "wind_speed_mps": 5.52,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:55"
+  },
+  {
+    "city_name": "Kotri",
+    "temperature_c": 36.83,
+    "humidity_percent": 42,
+    "wind_speed_mps": 5.51,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:55"
+  },
+  {
+    "city_name": "Pattoki",
+    "temperature_c": 32.56,
+    "humidity_percent": 51,
+    "wind_speed_mps": 1.47,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:55"
+  },
+  {
+    "city_name": "Gwadar",
+    "temperature_c": 29.47,
+    "humidity_percent": 72,
+    "wind_speed_mps": 5.21,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:02:34"
+  },
+  {
+    "city_name": "Harunabad",
+    "temperature_c": 37.39,
+    "humidity_percent": 39,
+    "wind_speed_mps": 3.01,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:55"
+  },
+  {
+    "city_name": "Kahror Pakka",
+    "temperature_c": 37.99,
+    "humidity_percent": 37,
+    "wind_speed_mps": 2.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:07"
+  },
+  {
+    "city_name": "Rabwah",
+    "temperature_c": 35.86,
+    "humidity_percent": 40,
+    "wind_speed_mps": 2.1,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:08"
+  },
+  {
+    "city_name": "Gujar Khan",
+    "temperature_c": 33.06,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.55,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:08"
+  },
+  {
+    "city_name": "Kot Malik Barkhurdar",
+    "temperature_c": 35.44,
+    "humidity_percent": 18,
+    "wind_speed_mps": 6.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:07"
+  },
+  {
+    "city_name": "Chuhar Kana",
+    "temperature_c": 31.7,
+    "humidity_percent": 53,
+    "wind_speed_mps": 2.66,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:08"
+  },
+  {
+    "city_name": "Shahdadpur",
+    "temperature_c": 39.25,
+    "humidity_percent": 35,
+    "wind_speed_mps": 6.13,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:54"
+  },
+  {
+    "city_name": "Shorkot",
+    "temperature_c": 35.44,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.5,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:05"
+  },
+  {
+    "city_name": "Shabqadar",
+    "temperature_c": 31.72,
+    "humidity_percent": 56,
+    "wind_speed_mps": 3.38,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:10"
+  },
+  {
+    "city_name": "Shujaabad",
+    "temperature_c": 36.31,
+    "humidity_percent": 49,
+    "wind_speed_mps": 3.02,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:26"
+  },
+  {
+    "city_name": "Mansehra",
+    "temperature_c": 29.17,
+    "humidity_percent": 59,
+    "wind_speed_mps": 3.49,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:03"
+  },
+  {
+    "city_name": "Haveli Lakha",
+    "temperature_c": 34.71,
+    "humidity_percent": 46,
+    "wind_speed_mps": 2.36,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:09"
+  },
+  {
+    "city_name": "Sibi",
+    "temperature_c": 40.09,
+    "humidity_percent": 35,
+    "wind_speed_mps": 4.3,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:15"
+  },
+  {
+    "city_name": "Mailsi",
+    "temperature_c": 38.36,
+    "humidity_percent": 37,
+    "wind_speed_mps": 3.07,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:15"
+  },
+  {
+    "city_name": "Shakargarh",
+    "temperature_c": 31.32,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.26,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:15"
+  },
+  {
+    "city_name": "Lalamusa",
+    "temperature_c": 31.83,
+    "humidity_percent": 55,
+    "wind_speed_mps": 1.69,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:13"
+  },
+  {
+    "city_name": "Jampur",
+    "temperature_c": 35.9,
+    "humidity_percent": 44,
+    "wind_speed_mps": 0.92,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:19"
+  },
+  {
+    "city_name": "Sambrial",
+    "temperature_c": 31.19,
+    "humidity_percent": 60,
+    "wind_speed_mps": 1.4,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:19"
+  },
+  {
+    "city_name": "Sanghar",
+    "temperature_c": 39.59,
+    "humidity_percent": 34,
+    "wind_speed_mps": 5.93,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:19"
+  },
+  {
+    "city_name": "Kabirwala",
+    "temperature_c": 36.98,
+    "humidity_percent": 45,
+    "wind_speed_mps": 2.34,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:21"
+  },
+  {
+    "city_name": "Hujra Shah Muqim",
+    "temperature_c": 34.09,
+    "humidity_percent": 46,
+    "wind_speed_mps": 2.01,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:19"
+  },
+  {
+    "city_name": "Chunian",
+    "temperature_c": 32.46,
+    "humidity_percent": 50,
+    "wind_speed_mps": 1.75,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:22"
+  },
+  {
+    "city_name": "Haripur",
+    "temperature_c": 33.49,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.8,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:17"
+  },
+  {
+    "city_name": "Pasrur",
+    "temperature_c": 31.31,
+    "humidity_percent": 58,
+    "wind_speed_mps": 1.76,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:24"
+  },
+  {
+    "city_name": "Nankana Sahib",
+    "temperature_c": 32.14,
+    "humidity_percent": 51,
+    "wind_speed_mps": 2.35,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:24"
+  },
+  {
+    "city_name": "Sangla Hill",
+    "temperature_c": 33.23,
+    "humidity_percent": 48,
+    "wind_speed_mps": 2.55,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:25"
+  },
+  {
+    "city_name": "Rajanpur",
+    "temperature_c": 38,
+    "humidity_percent": 39,
+    "wind_speed_mps": 1.24,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:29"
+  },
+  {
+    "city_name": "Hadali",
+    "temperature_c": 31.57,
+    "humidity_percent": 62,
+    "wind_speed_mps": 1.85,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:40"
+  },
+  {
+    "city_name": "Mirpur Mathelo",
+    "temperature_c": 40.94,
+    "humidity_percent": 31,
+    "wind_speed_mps": 4.98,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:00"
+  },
+  {
+    "city_name": "Ratodero",
+    "temperature_c": 42.74,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.54,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:44"
+  },
+  {
+    "city_name": "Dullewala",
+    "temperature_c": 35.12,
+    "humidity_percent": 45,
+    "wind_speed_mps": 1.71,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:43"
+  },
+  {
+    "city_name": "Hala",
+    "temperature_c": 38.52,
+    "humidity_percent": 37,
+    "wind_speed_mps": 6.55,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:44"
+  },
+  {
+    "city_name": "Jatoi Shimali",
+    "temperature_c": 36.84,
+    "humidity_percent": 41,
+    "wind_speed_mps": 3.06,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:46"
+  },
+  {
+    "city_name": "Jauharabad",
+    "temperature_c": 35.57,
+    "humidity_percent": 45,
+    "wind_speed_mps": 3.01,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:47"
+  },
+  {
+    "city_name": "Mustafabad",
+    "temperature_c": 34.31,
+    "humidity_percent": 45,
+    "wind_speed_mps": 2.36,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:17"
+  },
+  {
+    "city_name": "Kahna Nau",
+    "temperature_c": 30.24,
+    "humidity_percent": 58,
+    "wind_speed_mps": 2.37,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:48"
+  },
+  {
+    "city_name": "Chak Thirty-one -Eleven Left",
+    "temperature_c": 37.44,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.7,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:49"
+  },
+  {
+    "city_name": "Bat Khela",
+    "temperature_c": 30.1,
+    "humidity_percent": 59,
+    "wind_speed_mps": 2.31,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:48"
+  },
+  {
+    "city_name": "Kot Radha Kishan",
+    "temperature_c": 31.31,
+    "humidity_percent": 54,
+    "wind_speed_mps": 2.24,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:02:37"
+  },
+  {
+    "city_name": "Talagang",
+    "temperature_c": 32.76,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.93,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:50"
+  },
+  {
+    "city_name": "Thatta",
+    "temperature_c": 36.29,
+    "humidity_percent": 44,
+    "wind_speed_mps": 5.86,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:59"
+  },
+  {
+    "city_name": "Kamra",
+    "temperature_c": 29.61,
+    "humidity_percent": 60,
+    "wind_speed_mps": 2.74,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:52"
+  },
+  {
+    "city_name": "Sarai Alamgir",
+    "temperature_c": 32.88,
+    "humidity_percent": 53,
+    "wind_speed_mps": 1.89,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:51"
+  },
+  {
+    "city_name": "Usta Muhammad",
+    "temperature_c": 43.05,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.14,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:17"
+  },
+  {
+    "city_name": "Taunsa",
+    "temperature_c": 35.95,
+    "humidity_percent": 43,
+    "wind_speed_mps": 1.7,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:51"
+  },
+  {
+    "city_name": "Basirpur",
+    "temperature_c": 34.14,
+    "humidity_percent": 47,
+    "wind_speed_mps": 2.41,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:30"
+  },
+  {
+    "city_name": "Fort Abbas",
+    "temperature_c": 37.04,
+    "humidity_percent": 41,
+    "wind_speed_mps": 1.68,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:54"
+  },
+  {
+    "city_name": "Havelian",
+    "temperature_c": 30.69,
+    "humidity_percent": 62,
+    "wind_speed_mps": 3.15,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:00"
+  },
+  {
+    "city_name": "Naushahra Virkan",
+    "temperature_c": 31.49,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.2,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:26"
+  },
+  {
+    "city_name": "Khairpur",
+    "temperature_c": 40.74,
+    "humidity_percent": 32,
+    "wind_speed_mps": 4.78,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:56"
+  },
+  {
+    "city_name": "Sehwan",
+    "temperature_c": 41.08,
+    "humidity_percent": 30,
+    "wind_speed_mps": 5.27,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:22"
+  },
+  {
+    "city_name": "Dinga",
+    "temperature_c": 32.64,
+    "humidity_percent": 52,
+    "wind_speed_mps": 1.69,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:56"
+  },
+  {
+    "city_name": "Ladhewala Waraich",
+    "temperature_c": 31.54,
+    "humidity_percent": 56,
+    "wind_speed_mps": 1.47,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:57"
+  },
+  {
+    "city_name": "Tank",
+    "temperature_c": 34.47,
+    "humidity_percent": 46,
+    "wind_speed_mps": 2.84,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:59"
+  },
+  {
+    "city_name": "New Badah",
+    "temperature_c": 42.49,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.3,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:33"
+  },
+  {
+    "city_name": "Khalabat",
+    "temperature_c": 33.89,
+    "humidity_percent": 54,
+    "wind_speed_mps": 2.96,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:59"
+  },
+  {
+    "city_name": "Kot Mumin",
+    "temperature_c": 34.16,
+    "humidity_percent": 48,
+    "wind_speed_mps": 2.48,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:59"
+  },
+  {
+    "city_name": "Chak Azam Sahu",
+    "temperature_c": 35.84,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.87,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:30"
+  },
+  {
+    "city_name": "Tandlianwala",
+    "temperature_c": 35.4,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.88,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:01"
+  },
+  {
+    "city_name": "Loralai",
+    "temperature_c": 31.31,
+    "humidity_percent": 46,
+    "wind_speed_mps": 7.96,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:03"
+  },
+  {
+    "city_name": "Renala Khurd",
+    "temperature_c": 34.11,
+    "humidity_percent": 46,
+    "wind_speed_mps": 1.98,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:03"
+  },
+  {
+    "city_name": "Ris\u0101lpur",
+    "temperature_c": 32.68,
+    "humidity_percent": 53,
+    "wind_speed_mps": 1.96,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:07"
+  },
+  {
+    "city_name": "Chak Jhumra",
+    "temperature_c": 34.53,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.78,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:27"
+  },
+  {
+    "city_name": "Sahiwal",
+    "temperature_c": 36.09,
+    "humidity_percent": 42,
+    "wind_speed_mps": 1.74,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:06"
+  },
+  {
+    "city_name": "Jalalpur Pirwala",
+    "temperature_c": 37.6,
+    "humidity_percent": 40,
+    "wind_speed_mps": 3.14,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:08"
+  },
+  {
+    "city_name": "Hangu",
+    "temperature_c": 27.55,
+    "humidity_percent": 61,
+    "wind_speed_mps": 1.56,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:09"
+  },
+  {
+    "city_name": "Lakki",
+    "temperature_c": 34.45,
+    "humidity_percent": 45,
+    "wind_speed_mps": 1.8,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:05"
+  },
+  {
+    "city_name": "Topi",
+    "temperature_c": 33.75,
+    "humidity_percent": 53,
+    "wind_speed_mps": 2.2,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:16"
+  },
+  {
+    "city_name": "Kundian",
+    "temperature_c": 34.74,
+    "humidity_percent": 46,
+    "wind_speed_mps": 2.7,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:17"
+  },
+  {
+    "city_name": "Pir Jo Goth",
+    "temperature_c": 41.55,
+    "humidity_percent": 29,
+    "wind_speed_mps": 5.91,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:18"
+  },
+  {
+    "city_name": "Pabbi",
+    "temperature_c": 32.17,
+    "humidity_percent": 55,
+    "wind_speed_mps": 0.8,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:49"
+  },
+  {
+    "city_name": "Khurarianwala",
+    "temperature_c": 33.83,
+    "humidity_percent": 47,
+    "wind_speed_mps": 2.21,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:18"
+  },
+  {
+    "city_name": "Pir Mahal",
+    "temperature_c": 37.46,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.57,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:18"
+  },
+  {
+    "city_name": "Mehrabpur",
+    "temperature_c": 43.11,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.23,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:18"
+  },
+  {
+    "city_name": "Malakwal City",
+    "temperature_c": 34.11,
+    "humidity_percent": 48,
+    "wind_speed_mps": 2.32,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:50"
+  },
+  {
+    "city_name": "Pindi Bhattian",
+    "temperature_c": 33.81,
+    "humidity_percent": 46,
+    "wind_speed_mps": 2.48,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:20"
+  },
+  {
+    "city_name": "Narang Mandi",
+    "temperature_c": 30.48,
+    "humidity_percent": 59,
+    "wind_speed_mps": 1.93,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:45"
+  },
+  {
+    "city_name": "Malakwal",
+    "temperature_c": 34.11,
+    "humidity_percent": 48,
+    "wind_speed_mps": 2.32,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:50"
+  },
+  {
+    "city_name": "Thul",
+    "temperature_c": 42.5,
+    "humidity_percent": 28,
+    "wind_speed_mps": 5.35,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:37"
+  },
+  {
+    "city_name": "Pindi Gheb",
+    "temperature_c": 34.2,
+    "humidity_percent": 49,
+    "wind_speed_mps": 2.49,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:21"
+  },
+  {
+    "city_name": "Zahir Pir",
+    "temperature_c": 39.27,
+    "humidity_percent": 37,
+    "wind_speed_mps": 1.02,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:22"
+  },
+  {
+    "city_name": "Gambat",
+    "temperature_c": 41.32,
+    "humidity_percent": 29,
+    "wind_speed_mps": 6.19,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:23"
+  },
+  {
+    "city_name": "Dunyapur",
+    "temperature_c": 37.32,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.74,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:23"
+  },
+  {
+    "city_name": "Alipur",
+    "temperature_c": 37.14,
+    "humidity_percent": 40,
+    "wind_speed_mps": 3.15,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:47"
+  },
+  {
+    "city_name": "Kashmor",
+    "temperature_c": 41.17,
+    "humidity_percent": 31,
+    "wind_speed_mps": 4.54,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:59"
+  },
+  {
+    "city_name": "Bagh",
+    "temperature_c": 26.47,
+    "humidity_percent": 63,
+    "wind_speed_mps": 2.81,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:03"
+  },
+  {
+    "city_name": "Naudero",
+    "temperature_c": 42.22,
+    "humidity_percent": 27,
+    "wind_speed_mps": 5.76,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:33"
+  },
+  {
+    "city_name": "Pasni",
+    "temperature_c": 28.84,
+    "humidity_percent": 75,
+    "wind_speed_mps": 3.92,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:30"
+  },
+  {
+    "city_name": "Sukheke Mandi",
+    "temperature_c": 32.88,
+    "humidity_percent": 49,
+    "wind_speed_mps": 2.4,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:26"
+  },
+  {
+    "city_name": "Setharja Old",
+    "temperature_c": 41.25,
+    "humidity_percent": 29,
+    "wind_speed_mps": 6.27,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:27"
+  },
+  {
+    "city_name": "Mamu Kanjan",
+    "temperature_c": 36.62,
+    "humidity_percent": 40,
+    "wind_speed_mps": 3.16,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:16"
+  },
+  {
+    "city_name": "Khewra",
+    "temperature_c": 32.88,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.56,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:28"
+  },
+  {
+    "city_name": "Sharqpur Sharif",
+    "temperature_c": 30.65,
+    "humidity_percent": 57,
+    "wind_speed_mps": 1.94,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:28"
+  },
+  {
+    "city_name": "Digri",
+    "temperature_c": 37.61,
+    "humidity_percent": 40,
+    "wind_speed_mps": 5.94,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:18"
+  },
+  {
+    "city_name": "Bhera",
+    "temperature_c": 34.66,
+    "humidity_percent": 47,
+    "wind_speed_mps": 2.65,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:28"
+  },
+  {
+    "city_name": "Sakrand",
+    "temperature_c": 39.8,
+    "humidity_percent": 33,
+    "wind_speed_mps": 6.76,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:11"
+  },
+  {
+    "city_name": "Raiwind",
+    "temperature_c": 30.76,
+    "humidity_percent": 56,
+    "wind_speed_mps": 2.53,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:31"
+  },
+  {
+    "city_name": "Lalian",
+    "temperature_c": 35.92,
+    "humidity_percent": 41,
+    "wind_speed_mps": 1.38,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:44"
+  },
+  {
+    "city_name": "Tando Jam",
+    "temperature_c": 37.57,
+    "humidity_percent": 40,
+    "wind_speed_mps": 4.88,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:31"
+  },
+  {
+    "city_name": "Khairpur Tamewah",
+    "temperature_c": 38.3,
+    "humidity_percent": 37,
+    "wind_speed_mps": 1.95,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:32"
+  },
+  {
+    "city_name": "Mehar",
+    "temperature_c": 42.57,
+    "humidity_percent": 26,
+    "wind_speed_mps": 4.64,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:33"
+  },
+  {
+    "city_name": "Kharan",
+    "temperature_c": 41.1,
+    "humidity_percent": 13,
+    "wind_speed_mps": 4.06,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:49"
+  },
+  {
+    "city_name": "Khairpur Nathan Shah",
+    "temperature_c": 42.48,
+    "humidity_percent": 26,
+    "wind_speed_mps": 4.11,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:33"
+  },
+  {
+    "city_name": "Khangah Dogran",
+    "temperature_c": 32.4,
+    "humidity_percent": 50,
+    "wind_speed_mps": 2.53,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:17"
+  },
+  {
+    "city_name": "D\u012br",
+    "temperature_c": 26.27,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.95,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:34"
+  },
+  {
+    "city_name": "Ghauspur",
+    "temperature_c": 41.97,
+    "humidity_percent": 29,
+    "wind_speed_mps": 5.46,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:35"
+  },
+  {
+    "city_name": "Tangi",
+    "temperature_c": 31.59,
+    "humidity_percent": 57,
+    "wind_speed_mps": 3.18,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:11"
+  },
+  {
+    "city_name": "Thal",
+    "temperature_c": 20.6,
+    "humidity_percent": 56,
+    "wind_speed_mps": 3.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:37"
+  },
+  {
+    "city_name": "Utmanzai",
+    "temperature_c": 32.13,
+    "humidity_percent": 55,
+    "wind_speed_mps": 1.91,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:17"
+  },
+  {
+    "city_name": "Garh Maharaja",
+    "temperature_c": 36.55,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.84,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:38"
+  },
+  {
+    "city_name": "Minchianabad",
+    "temperature_c": 35.2,
+    "humidity_percent": 46,
+    "wind_speed_mps": 2.09,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:38"
+  },
+  {
+    "city_name": "Jahanian Shah",
+    "temperature_c": 36.27,
+    "humidity_percent": 41,
+    "wind_speed_mps": 2.5,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:38"
+  },
+  {
+    "city_name": "Mastung",
+    "temperature_c": 35.65,
+    "humidity_percent": 20,
+    "wind_speed_mps": 5.76,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:39"
+  },
+  {
+    "city_name": "Mananwala",
+    "temperature_c": 32.07,
+    "humidity_percent": 51,
+    "wind_speed_mps": 2.5,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:30"
+  },
+  {
+    "city_name": "Fazilpur",
+    "temperature_c": 31.15,
+    "humidity_percent": 56,
+    "wind_speed_mps": 2.1,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:03"
+  },
+  {
+    "city_name": "Kunjah",
+    "temperature_c": 31.9,
+    "humidity_percent": 55,
+    "wind_speed_mps": 1.8,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:40"
+  },
+  {
+    "city_name": "Talamba",
+    "temperature_c": 37.8,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.06,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:41"
+  },
+  {
+    "city_name": "Nasirabad",
+    "temperature_c": 42.77,
+    "humidity_percent": 26,
+    "wind_speed_mps": 4.89,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:21"
+  },
+  {
+    "city_name": "Jhawarian",
+    "temperature_c": 34.98,
+    "humidity_percent": 47,
+    "wind_speed_mps": 2.85,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:41"
+  },
+  {
+    "city_name": "Nushki",
+    "temperature_c": 40.5,
+    "humidity_percent": 20,
+    "wind_speed_mps": 5.73,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:43"
+  },
+  {
+    "city_name": "Sita Road",
+    "temperature_c": 42.49,
+    "humidity_percent": 26,
+    "wind_speed_mps": 4.68,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:43"
+  },
+  {
+    "city_name": "Dijkot",
+    "temperature_c": 35.48,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.84,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:43"
+  },
+  {
+    "city_name": "Kandiaro",
+    "temperature_c": 41.69,
+    "humidity_percent": 28,
+    "wind_speed_mps": 6.01,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:16"
+  },
+  {
+    "city_name": "Zaida",
+    "temperature_c": 33.57,
+    "humidity_percent": 52,
+    "wind_speed_mps": 1.39,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:45"
+  },
+  {
+    "city_name": "Mitha Tiwana",
+    "temperature_c": 35.79,
+    "humidity_percent": 43,
+    "wind_speed_mps": 3.05,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:47"
+  },
+  {
+    "city_name": "Hazro",
+    "temperature_c": 34.09,
+    "humidity_percent": 52,
+    "wind_speed_mps": 1.14,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:49"
+  },
+  {
+    "city_name": "Dunga Bunga",
+    "temperature_c": 36.97,
+    "humidity_percent": 41,
+    "wind_speed_mps": 3.24,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:49"
+  },
+  {
+    "city_name": "Amangarh",
+    "temperature_c": 32.64,
+    "humidity_percent": 54,
+    "wind_speed_mps": 1.34,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:57"
+  },
+  {
+    "city_name": "Kunri",
+    "temperature_c": 36.85,
+    "humidity_percent": 42,
+    "wind_speed_mps": 5.94,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:34"
+  },
+  {
+    "city_name": "Kalat",
+    "temperature_c": 31.17,
+    "humidity_percent": 25,
+    "wind_speed_mps": 4.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:52"
+  },
+  {
+    "city_name": "Daud Khel",
+    "temperature_c": 34.51,
+    "humidity_percent": 48,
+    "wind_speed_mps": 2.42,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:34"
+  },
+  {
+    "city_name": "Karor",
+    "temperature_c": 34.71,
+    "humidity_percent": 45,
+    "wind_speed_mps": 0.35,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:53"
+  },
+  {
+    "city_name": "Kot Diji",
+    "temperature_c": 41.02,
+    "humidity_percent": 30,
+    "wind_speed_mps": 6.36,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:54"
+  },
+  {
+    "city_name": "Faqirwali",
+    "temperature_c": 37.58,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.24,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:55"
+  },
+  {
+    "city_name": "Phalia",
+    "temperature_c": 33.04,
+    "humidity_percent": 49,
+    "wind_speed_mps": 2.17,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:05"
+  },
+  {
+    "city_name": "Kalur Kot",
+    "temperature_c": 34.3,
+    "humidity_percent": 48,
+    "wind_speed_mps": 1.34,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:10"
+  },
+  {
+    "city_name": "Yazman",
+    "temperature_c": 37.24,
+    "humidity_percent": 38,
+    "wind_speed_mps": 0.95,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:12"
+  },
+  {
+    "city_name": "Murree",
+    "temperature_c": 24.62,
+    "humidity_percent": 65,
+    "wind_speed_mps": 2.62,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:10"
+  },
+  {
+    "city_name": "Raja Jang",
+    "temperature_c": 30.78,
+    "humidity_percent": 56,
+    "wind_speed_mps": 2.58,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:12"
+  },
+  {
+    "city_name": "Chak One Hundred Twenty Nine Left",
+    "temperature_c": 36.46,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.93,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:13"
+  },
+  {
+    "city_name": "Chawinda",
+    "temperature_c": 31.36,
+    "humidity_percent": 58,
+    "wind_speed_mps": 1.95,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:15"
+  },
+  {
+    "city_name": "Ubauro",
+    "temperature_c": 40.85,
+    "humidity_percent": 32,
+    "wind_speed_mps": 4.79,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:17"
+  },
+  {
+    "city_name": "Mithi",
+    "temperature_c": 34.82,
+    "humidity_percent": 48,
+    "wind_speed_mps": 6.42,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:18"
+  },
+  {
+    "city_name": "Zafarwal",
+    "temperature_c": 31.26,
+    "humidity_percent": 57,
+    "wind_speed_mps": 2.23,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:18"
+  },
+  {
+    "city_name": "Akora",
+    "temperature_c": 33.06,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.67,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:40"
+  },
+  {
+    "city_name": "Pishin",
+    "temperature_c": 36.9,
+    "humidity_percent": 12,
+    "wind_speed_mps": 7.65,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:07"
+  },
+  {
+    "city_name": "Ranipur",
+    "temperature_c": 41.26,
+    "humidity_percent": 29,
+    "wind_speed_mps": 6.24,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:22"
+  },
+  {
+    "city_name": "Kahuta",
+    "temperature_c": 32.73,
+    "humidity_percent": 58,
+    "wind_speed_mps": 2.36,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:22"
+  },
+  {
+    "city_name": "Kulachi",
+    "temperature_c": 34.95,
+    "humidity_percent": 45,
+    "wind_speed_mps": 1.54,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:43"
+  },
+  {
+    "city_name": "Khanpur Mahar",
+    "temperature_c": 40.79,
+    "humidity_percent": 31,
+    "wind_speed_mps": 5.25,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:23"
+  },
+  {
+    "city_name": "Hingorja",
+    "temperature_c": 41.3,
+    "humidity_percent": 29,
+    "wind_speed_mps": 6.23,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:24"
+  },
+  {
+    "city_name": "Eminabad",
+    "temperature_c": 31.2,
+    "humidity_percent": 57,
+    "wind_speed_mps": 1.7,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:26"
+  },
+  {
+    "city_name": "Shahpur Chakar",
+    "temperature_c": 39.86,
+    "humidity_percent": 34,
+    "wind_speed_mps": 6.09,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:17"
+  },
+  {
+    "city_name": "Faruka",
+    "temperature_c": 36.19,
+    "humidity_percent": 41,
+    "wind_speed_mps": 1.79,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:47"
+  },
+  {
+    "city_name": "Pad Idan",
+    "temperature_c": 41.01,
+    "humidity_percent": 30,
+    "wind_speed_mps": 6.57,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:17"
+  },
+  {
+    "city_name": "Talhar",
+    "temperature_c": 36.78,
+    "humidity_percent": 42,
+    "wind_speed_mps": 6.55,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:21"
+  },
+  {
+    "city_name": "Bela",
+    "temperature_c": 35.29,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.12,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:00"
+  },
+  {
+    "city_name": "Kot Ghulam Muhammad",
+    "temperature_c": 31.4,
+    "humidity_percent": 59,
+    "wind_speed_mps": 1.7,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:59"
+  },
+  {
+    "city_name": "Qadirpur Ran",
+    "temperature_c": 37.06,
+    "humidity_percent": 48,
+    "wind_speed_mps": 2.29,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:49"
+  },
+  {
+    "city_name": "Sook Kalan",
+    "temperature_c": 31.46,
+    "humidity_percent": 57,
+    "wind_speed_mps": 1.22,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:49"
+  },
+  {
+    "city_name": "Surkhpur",
+    "temperature_c": 31.45,
+    "humidity_percent": 60,
+    "wind_speed_mps": 1.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:50"
+  },
+  {
+    "city_name": "Khangarh",
+    "temperature_c": 36,
+    "humidity_percent": 49,
+    "wind_speed_mps": 2.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:50"
+  },
+  {
+    "city_name": "Sarai Naurang",
+    "temperature_c": 34.85,
+    "humidity_percent": 43,
+    "wind_speed_mps": 3.4,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:05"
+  },
+  {
+    "city_name": "Dhoro Naro",
+    "temperature_c": 37.65,
+    "humidity_percent": 40,
+    "wind_speed_mps": 6.12,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:49"
+  },
+  {
+    "city_name": "Gharo",
+    "temperature_c": 34.56,
+    "humidity_percent": 51,
+    "wind_speed_mps": 6.34,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:52"
+  },
+  {
+    "city_name": "Bhit Shah",
+    "temperature_c": 38.63,
+    "humidity_percent": 37,
+    "wind_speed_mps": 6.35,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:28"
+  },
+  {
+    "city_name": "Dhanote",
+    "temperature_c": 37.65,
+    "humidity_percent": 38,
+    "wind_speed_mps": 2.57,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:52"
+  },
+  {
+    "city_name": "Matiari",
+    "temperature_c": 37.62,
+    "humidity_percent": 40,
+    "wind_speed_mps": 5.69,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:52"
+  },
+  {
+    "city_name": "Lachi",
+    "temperature_c": 31.51,
+    "humidity_percent": 54,
+    "wind_speed_mps": 1.19,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:34"
+  },
+  {
+    "city_name": "Baddomalhi",
+    "temperature_c": 30.6,
+    "humidity_percent": 58,
+    "wind_speed_mps": 2.15,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:53"
+  },
+  {
+    "city_name": "Warah",
+    "temperature_c": 42.72,
+    "humidity_percent": 26,
+    "wind_speed_mps": 4.47,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:31"
+  },
+  {
+    "city_name": "Jand",
+    "temperature_c": 33.27,
+    "humidity_percent": 50,
+    "wind_speed_mps": 2.04,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:17"
+  },
+  {
+    "city_name": "Fatehpur",
+    "temperature_c": 35.4,
+    "humidity_percent": 44,
+    "wind_speed_mps": 0.24,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:55"
+  },
+  {
+    "city_name": "Kotli Loharan",
+    "temperature_c": 31.57,
+    "humidity_percent": 65,
+    "wind_speed_mps": 1.54,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:55"
+  },
+  {
+    "city_name": "Dera Bugti",
+    "temperature_c": 36.18,
+    "humidity_percent": 42,
+    "wind_speed_mps": 5.78,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:56"
+  },
+  {
+    "city_name": "Naushahro Firoz",
+    "temperature_c": 41.65,
+    "humidity_percent": 28,
+    "wind_speed_mps": 6.18,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:57"
+  },
+  {
+    "city_name": "Dajal",
+    "temperature_c": 36.17,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.39,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:08:57"
+  },
+  {
+    "city_name": "Daur",
+    "temperature_c": 40.37,
+    "humidity_percent": 32,
+    "wind_speed_mps": 6.64,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:31"
+  },
+  {
+    "city_name": "Paharpur",
+    "temperature_c": 34.57,
+    "humidity_percent": 47,
+    "wind_speed_mps": 2.59,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:17"
+  },
+  {
+    "city_name": "Bhan",
+    "temperature_c": 41.41,
+    "humidity_percent": 29,
+    "wind_speed_mps": 4.5,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:04:47"
+  },
+  {
+    "city_name": "Uthal",
+    "temperature_c": 33.98,
+    "humidity_percent": 56,
+    "wind_speed_mps": 4.79,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:25"
+  },
+  {
+    "city_name": "Bhopalwala",
+    "temperature_c": 31.29,
+    "humidity_percent": 59,
+    "wind_speed_mps": 1.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:00"
+  },
+  {
+    "city_name": "Goth Radhan",
+    "temperature_c": 42.46,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.2,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:01"
+  },
+  {
+    "city_name": "Mach",
+    "temperature_c": 33.39,
+    "humidity_percent": 51,
+    "wind_speed_mps": 5.38,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:16"
+  },
+  {
+    "city_name": "Tharu Shah",
+    "temperature_c": 41.84,
+    "humidity_percent": 28,
+    "wind_speed_mps": 6,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:02"
+  },
+  {
+    "city_name": "Mangla",
+    "temperature_c": 36.2,
+    "humidity_percent": 41,
+    "wind_speed_mps": 1.81,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:03"
+  },
+  {
+    "city_name": "Johi",
+    "temperature_c": 41.54,
+    "humidity_percent": 29,
+    "wind_speed_mps": 3.63,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:57"
+  },
+  {
+    "city_name": "Bhawana",
+    "temperature_c": 36.06,
+    "humidity_percent": 41,
+    "wind_speed_mps": 3.03,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:08"
+  },
+  {
+    "city_name": "Jhol",
+    "temperature_c": 39.48,
+    "humidity_percent": 35,
+    "wind_speed_mps": 5.85,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:09"
+  },
+  {
+    "city_name": "Kaleke Mandi",
+    "temperature_c": 32.62,
+    "humidity_percent": 50,
+    "wind_speed_mps": 2.28,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:09"
+  },
+  {
+    "city_name": "Jiwani",
+    "temperature_c": 29.05,
+    "humidity_percent": 74,
+    "wind_speed_mps": 5.81,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:09"
+  },
+  {
+    "city_name": "Sodhra",
+    "temperature_c": 31.43,
+    "humidity_percent": 57,
+    "wind_speed_mps": 1.39,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:18"
+  },
+  {
+    "city_name": "Kalabagh",
+    "temperature_c": 33.93,
+    "humidity_percent": 49,
+    "wind_speed_mps": 1.78,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:18"
+  },
+  {
+    "city_name": "Sinjhoro",
+    "temperature_c": 39.75,
+    "humidity_percent": 34,
+    "wind_speed_mps": 5.91,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:18"
+  },
+  {
+    "city_name": "Chhor",
+    "temperature_c": 37.29,
+    "humidity_percent": 41,
+    "wind_speed_mps": 6.14,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:18"
+  },
+  {
+    "city_name": "Chuhar Jamali",
+    "temperature_c": 34.74,
+    "humidity_percent": 49,
+    "wind_speed_mps": 5.43,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:33"
+  },
+  {
+    "city_name": "Kallar Kahar",
+    "temperature_c": 31.46,
+    "humidity_percent": 55,
+    "wind_speed_mps": 3.24,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:19"
+  },
+  {
+    "city_name": "Harnoli",
+    "temperature_c": 34.66,
+    "humidity_percent": 46,
+    "wind_speed_mps": 1.65,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:20"
+  },
+  {
+    "city_name": "Sarai Sidhu",
+    "temperature_c": 36.96,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.85,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:20"
+  },
+  {
+    "city_name": "Shahr Sultan",
+    "temperature_c": 36.93,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:21"
+  },
+  {
+    "city_name": "Dadhar",
+    "temperature_c": 39.97,
+    "humidity_percent": 36,
+    "wind_speed_mps": 4.93,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:21"
+  },
+  {
+    "city_name": "Choa Saidan Shah",
+    "temperature_c": 30.71,
+    "humidity_percent": 54,
+    "wind_speed_mps": 2.67,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:48"
+  },
+  {
+    "city_name": "Darya Khan",
+    "temperature_c": 35.1,
+    "humidity_percent": 45,
+    "wind_speed_mps": 1.05,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:22"
+  },
+  {
+    "city_name": "Harappa",
+    "temperature_c": 36.63,
+    "humidity_percent": 41,
+    "wind_speed_mps": 3.07,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:22"
+  },
+  {
+    "city_name": "Daira Din Panah",
+    "temperature_c": 36.28,
+    "humidity_percent": 45,
+    "wind_speed_mps": 0.43,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:22"
+  },
+  {
+    "city_name": "Sobhodero",
+    "temperature_c": 41.47,
+    "humidity_percent": 29,
+    "wind_speed_mps": 6.08,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:15"
+  },
+  {
+    "city_name": "Dokri",
+    "temperature_c": 42.38,
+    "humidity_percent": 27,
+    "wind_speed_mps": 5.47,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:25"
+  },
+  {
+    "city_name": "Madeji",
+    "temperature_c": 42.13,
+    "humidity_percent": 28,
+    "wind_speed_mps": 5.8,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:50"
+  },
+  {
+    "city_name": "Garhiyasin",
+    "temperature_c": 42.36,
+    "humidity_percent": 27,
+    "wind_speed_mps": 5.62,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:31"
+  },
+  {
+    "city_name": "Dalbandin",
+    "temperature_c": 42.39,
+    "humidity_percent": 12,
+    "wind_speed_mps": 3.16,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:13"
+  },
+  {
+    "city_name": "Kamar Mushani",
+    "temperature_c": 34.34,
+    "humidity_percent": 48,
+    "wind_speed_mps": 2.06,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:26"
+  },
+  {
+    "city_name": "Bhag",
+    "temperature_c": 41.26,
+    "humidity_percent": 31,
+    "wind_speed_mps": 4.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:27"
+  },
+  {
+    "city_name": "Rasulnagar",
+    "temperature_c": 32.23,
+    "humidity_percent": 53,
+    "wind_speed_mps": 2.01,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:27"
+  },
+  {
+    "city_name": "Daulatpur",
+    "temperature_c": 41.22,
+    "humidity_percent": 29,
+    "wind_speed_mps": 5.83,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:57"
+  },
+  {
+    "city_name": "Chak",
+    "temperature_c": 41.68,
+    "humidity_percent": 29,
+    "wind_speed_mps": 5.76,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:37"
+  },
+  {
+    "city_name": "Shahpur",
+    "temperature_c": 35.29,
+    "humidity_percent": 46,
+    "wind_speed_mps": 2.9,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:28"
+  },
+  {
+    "city_name": "Tando Bago",
+    "temperature_c": 36.37,
+    "humidity_percent": 44,
+    "wind_speed_mps": 6.49,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:49"
+  },
+  {
+    "city_name": "Baffa",
+    "temperature_c": 28.83,
+    "humidity_percent": 58,
+    "wind_speed_mps": 2.87,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:26"
+  },
+  {
+    "city_name": "Muhammad Pur",
+    "temperature_c": 36.01,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.92,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:29"
+  },
+  {
+    "city_name": "Garhi Khairo",
+    "temperature_c": 43.12,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.23,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:29"
+  },
+  {
+    "city_name": "Lakhi",
+    "temperature_c": 41.83,
+    "humidity_percent": 28,
+    "wind_speed_mps": 5.76,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:30"
+  },
+  {
+    "city_name": "Surab",
+    "temperature_c": 31.76,
+    "humidity_percent": 31,
+    "wind_speed_mps": 3.54,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:32"
+  },
+  {
+    "city_name": "Chak One Hundred Thirty-eight Nine Left",
+    "temperature_c": 36.3,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.94,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:32"
+  },
+  {
+    "city_name": "Rojhan",
+    "temperature_c": 39.2,
+    "humidity_percent": 37,
+    "wind_speed_mps": 0.95,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:33"
+  },
+  {
+    "city_name": "Chamber",
+    "temperature_c": 37.42,
+    "humidity_percent": 40,
+    "wind_speed_mps": 4.77,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:49"
+  },
+  {
+    "city_name": "Ormara",
+    "temperature_c": 27.88,
+    "humidity_percent": 84,
+    "wind_speed_mps": 5.34,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:34"
+  },
+  {
+    "city_name": "Islamkot",
+    "temperature_c": 34.17,
+    "humidity_percent": 48,
+    "wind_speed_mps": 5.68,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:07"
+  },
+  {
+    "city_name": "Kalaswala",
+    "temperature_c": 31.21,
+    "humidity_percent": 57,
+    "wind_speed_mps": 1.78,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:57"
+  },
+  {
+    "city_name": "Bhiria",
+    "temperature_c": 41.53,
+    "humidity_percent": 29,
+    "wind_speed_mps": 6.24,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:35"
+  },
+  {
+    "city_name": "Liliani",
+    "temperature_c": 34.41,
+    "humidity_percent": 48,
+    "wind_speed_mps": 2.28,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:36"
+  },
+  {
+    "city_name": "Karak",
+    "temperature_c": 31.92,
+    "humidity_percent": 51,
+    "wind_speed_mps": 3.16,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:00"
+  },
+  {
+    "city_name": "Mirwah Gorchani",
+    "temperature_c": 37.97,
+    "humidity_percent": 39,
+    "wind_speed_mps": 5.25,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:33"
+  },
+  {
+    "city_name": "Bhagowal",
+    "temperature_c": 31.43,
+    "humidity_percent": 60,
+    "wind_speed_mps": 2.05,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:38"
+  },
+  {
+    "city_name": "Gadani",
+    "temperature_c": 30.49,
+    "humidity_percent": 73,
+    "wind_speed_mps": 5.73,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:37"
+  },
+  {
+    "city_name": "Saidpur",
+    "temperature_c": 30.63,
+    "humidity_percent": 60,
+    "wind_speed_mps": 2.67,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:39"
+  },
+  {
+    "city_name": "Daultala",
+    "temperature_c": 32.8,
+    "humidity_percent": 56,
+    "wind_speed_mps": 2.39,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:01"
+  },
+  {
+    "city_name": "Diplo",
+    "temperature_c": 34.14,
+    "humidity_percent": 51,
+    "wind_speed_mps": 6.62,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:40"
+  },
+  {
+    "city_name": "Harnai",
+    "temperature_c": 30.59,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.72,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:41"
+  },
+  {
+    "city_name": "Jandiala Sher Khan",
+    "temperature_c": 31.35,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.37,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:41"
+  },
+  {
+    "city_name": "Kohlu",
+    "temperature_c": 29.41,
+    "humidity_percent": 56,
+    "wind_speed_mps": 8.22,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:42"
+  },
+  {
+    "city_name": "Bhagwal",
+    "temperature_c": 31.83,
+    "humidity_percent": 54,
+    "wind_speed_mps": 2.03,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:42"
+  },
+  {
+    "city_name": "Mankera",
+    "temperature_c": 35.26,
+    "humidity_percent": 45,
+    "wind_speed_mps": 1.04,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:42"
+  },
+  {
+    "city_name": "Kot Sultan",
+    "temperature_c": 36.53,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.62,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:02"
+  },
+  {
+    "city_name": "Dhaunkal",
+    "temperature_c": 31.56,
+    "humidity_percent": 56,
+    "wind_speed_mps": 1.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:43"
+  },
+  {
+    "city_name": "Miro Khan",
+    "temperature_c": 42.99,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.4,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:36"
+  },
+  {
+    "city_name": "Sanjwal",
+    "temperature_c": 33.9,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.01,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:44"
+  },
+  {
+    "city_name": "Khar",
+    "temperature_c": 29.45,
+    "humidity_percent": 54,
+    "wind_speed_mps": 2.93,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:45"
+  },
+  {
+    "city_name": "Khadro",
+    "temperature_c": 39.97,
+    "humidity_percent": 33,
+    "wind_speed_mps": 6.02,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:46"
+  },
+  {
+    "city_name": "Berani",
+    "temperature_c": 39,
+    "humidity_percent": 36,
+    "wind_speed_mps": 5.8,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:46"
+  },
+  {
+    "city_name": "Tibbi Jay Singh",
+    "temperature_c": 35.42,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.96,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:47"
+  },
+  {
+    "city_name": "Chak One Hundred Twelve -Nine Left",
+    "temperature_c": 35.92,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.81,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:48"
+  },
+  {
+    "city_name": "Mirdad Muafi",
+    "temperature_c": 36.28,
+    "humidity_percent": 42,
+    "wind_speed_mps": 3.03,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:50"
+  },
+  {
+    "city_name": "Begowala",
+    "temperature_c": 31.33,
+    "humidity_percent": 58,
+    "wind_speed_mps": 1.38,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:05:22"
+  },
+  {
+    "city_name": "Tangwani",
+    "temperature_c": 42.22,
+    "humidity_percent": 28,
+    "wind_speed_mps": 5.32,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:59"
+  },
+  {
+    "city_name": "Bozdar Wada",
+    "temperature_c": 40.98,
+    "humidity_percent": 30,
+    "wind_speed_mps": 6.5,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:54"
+  },
+  {
+    "city_name": "Jati",
+    "temperature_c": 34.63,
+    "humidity_percent": 49,
+    "wind_speed_mps": 5.92,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:31"
+  },
+  {
+    "city_name": "Rustam",
+    "temperature_c": 42.03,
+    "humidity_percent": 28,
+    "wind_speed_mps": 5.77,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:57"
+  },
+  {
+    "city_name": "Darya Khan Marri",
+    "temperature_c": 40.88,
+    "humidity_percent": 30,
+    "wind_speed_mps": 6.64,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:53"
+  },
+  {
+    "city_name": "Sohbatpur",
+    "temperature_c": 42.41,
+    "humidity_percent": 28,
+    "wind_speed_mps": 5.07,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:22"
+  },
+  {
+    "city_name": "M\u012brpur Batoro",
+    "temperature_c": 36.72,
+    "humidity_percent": 43,
+    "wind_speed_mps": 6.05,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:03"
+  },
+  {
+    "city_name": "Sann",
+    "temperature_c": 39.48,
+    "humidity_percent": 34,
+    "wind_speed_mps": 6.91,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:07"
+  },
+  {
+    "city_name": "Karaundi",
+    "temperature_c": 40.9,
+    "humidity_percent": 30,
+    "wind_speed_mps": 6.62,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:11"
+  },
+  {
+    "city_name": "Barkhan",
+    "temperature_c": 29.12,
+    "humidity_percent": 59,
+    "wind_speed_mps": 5.42,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:12"
+  },
+  {
+    "city_name": "Kaure Shah Zerin",
+    "temperature_c": 35.6,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.92,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:12"
+  },
+  {
+    "city_name": "Mirpur Sakro",
+    "temperature_c": 34.03,
+    "humidity_percent": 52,
+    "wind_speed_mps": 5.89,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:14"
+  },
+  {
+    "city_name": "Adilpur",
+    "temperature_c": 41.23,
+    "humidity_percent": 30,
+    "wind_speed_mps": 5.23,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:00"
+  },
+  {
+    "city_name": "Chak Ninety-nine -Nine Left",
+    "temperature_c": 35.72,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.76,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:17"
+  },
+  {
+    "city_name": "Bagarji",
+    "temperature_c": 41.54,
+    "humidity_percent": 29,
+    "wind_speed_mps": 5.74,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:18"
+  },
+  {
+    "city_name": "Chak One Hundred Eighty-six Nine Left",
+    "temperature_c": 36.38,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.99,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:20"
+  },
+  {
+    "city_name": "Samaro",
+    "temperature_c": 37.57,
+    "humidity_percent": 40,
+    "wind_speed_mps": 5.91,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:49"
+  },
+  {
+    "city_name": "Chak One Hundred Ninety Nine A Left",
+    "temperature_c": 36.33,
+    "humidity_percent": 42,
+    "wind_speed_mps": 3.01,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:21"
+  },
+  {
+    "city_name": "Goth Phulji",
+    "temperature_c": 41.94,
+    "humidity_percent": 28,
+    "wind_speed_mps": 3.91,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:17"
+  },
+  {
+    "city_name": "Chak One Hundred Eighty-five A Nine Left",
+    "temperature_c": 36.43,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.98,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:22"
+  },
+  {
+    "city_name": "Alik Ghund",
+    "temperature_c": 27.92,
+    "humidity_percent": 36,
+    "wind_speed_mps": 3.74,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:23"
+  },
+  {
+    "city_name": "Bandhi",
+    "temperature_c": 40.71,
+    "humidity_percent": 31,
+    "wind_speed_mps": 6.68,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:24"
+  },
+  {
+    "city_name": "Dinan Wala",
+    "temperature_c": 36.87,
+    "humidity_percent": 41,
+    "wind_speed_mps": 3.29,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:25"
+  },
+  {
+    "city_name": "Rajo Khanani",
+    "temperature_c": 37.13,
+    "humidity_percent": 41,
+    "wind_speed_mps": 6.51,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:16"
+  },
+  {
+    "city_name": "J\u0101m S\u0101hib",
+    "temperature_c": 39.99,
+    "humidity_percent": 33,
+    "wind_speed_mps": 6.22,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:27"
+  },
+  {
+    "city_name": "Khadan Khak",
+    "temperature_c": 34.4,
+    "humidity_percent": 20,
+    "wind_speed_mps": 10.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:15"
+  },
+  {
+    "city_name": "Chak One Hundred Eight -Nine Left",
+    "temperature_c": 35.91,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.8,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:47"
+  },
+  {
+    "city_name": "Goth Garelo",
+    "temperature_c": 42.59,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.38,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:48"
+  },
+  {
+    "city_name": "Nazir Town",
+    "temperature_c": 33,
+    "humidity_percent": 54,
+    "wind_speed_mps": 2.92,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:15"
+  },
+  {
+    "city_name": "Chak One Hundred Forty-two Nine Left",
+    "temperature_c": 36.43,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.98,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:49"
+  },
+  {
+    "city_name": "Pithoro",
+    "temperature_c": 38.1,
+    "humidity_percent": 39,
+    "wind_speed_mps": 5.94,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:37"
+  },
+  {
+    "city_name": "Chak One Hundred Three Seven Right",
+    "temperature_c": 36.79,
+    "humidity_percent": 40,
+    "wind_speed_mps": 3.08,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:50"
+  },
+  {
+    "city_name": "Chak One Hundred Eighteen Nine Left",
+    "temperature_c": 36.23,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.88,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:50"
+  },
+  {
+    "city_name": "Nabisar",
+    "temperature_c": 36.37,
+    "humidity_percent": 44,
+    "wind_speed_mps": 6.01,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:51"
+  },
+  {
+    "city_name": "Chak One Hundred Thirty-nine Nine Left",
+    "temperature_c": 36.23,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.9,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:51"
+  },
+  {
+    "city_name": "Kario Ghanwar",
+    "temperature_c": 36.4,
+    "humidity_percent": 44,
+    "wind_speed_mps": 6.4,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:53"
+  },
+  {
+    "city_name": "Chak One Hundred Forty Nine Left",
+    "temperature_c": 36.41,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.94,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:53"
+  },
+  {
+    "city_name": "Chak Three Ten Left",
+    "temperature_c": 36.66,
+    "humidity_percent": 41,
+    "wind_speed_mps": 3.06,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:53"
+  },
+  {
+    "city_name": "Chak Fifty-six -Four Right",
+    "temperature_c": 35.68,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.8,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:53"
+  },
+  {
+    "city_name": "Chak One Hundred Ten -Nine Left",
+    "temperature_c": 35.84,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.8,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:54"
+  },
+  {
+    "city_name": "Chak One Hundred -Nine Left",
+    "temperature_c": 35.84,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.79,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:54"
+  },
+  {
+    "city_name": "Chak Hundred One",
+    "temperature_c": 36.32,
+    "humidity_percent": 42,
+    "wind_speed_mps": 3.02,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:55"
+  },
+  {
+    "city_name": "Chak One Hundred Twenty-one Nine Left",
+    "temperature_c": 36.57,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.96,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:56"
+  },
+  {
+    "city_name": "Chak One Hundred Four -Nine Left",
+    "temperature_c": 36.04,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.85,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:55"
+  },
+  {
+    "city_name": "Chak One Hundred Fifty-three -Nine Left",
+    "temperature_c": 36.48,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.93,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:56"
+  },
+  {
+    "city_name": "Chak One Hundred Forty-three Nine Left",
+    "temperature_c": 36.46,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.98,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:57"
+  },
+  {
+    "city_name": "Chak Eighty-eight -Six Right",
+    "temperature_c": 35.79,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.82,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:57"
+  },
+  {
+    "city_name": "Chak One Hundred Seventeen Nine Left",
+    "temperature_c": 36.16,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.85,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:58"
+  },
+  {
+    "city_name": "Chak One Hundred Forty-one Nine Left",
+    "temperature_c": 36.41,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.94,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:58"
+  },
+  {
+    "city_name": "Chak One Hundred Thirty-two -Nine Left",
+    "temperature_c": 36.09,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.91,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:58"
+  },
+  {
+    "city_name": "Chak One Hundred Six -Nine Left",
+    "temperature_c": 36.08,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.85,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:01"
+  },
+  {
+    "city_name": "Chak Ninety-nine -Six Right",
+    "temperature_c": 36.06,
+    "humidity_percent": 43,
+    "wind_speed_mps": 2.91,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:01"
+  },
+  {
+    "city_name": "Chak One Hundred Eighty-eight Nine A Left",
+    "temperature_c": 36.21,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.95,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:01"
+  },
+  {
+    "city_name": "Chak Pindi",
+    "temperature_c": 31.89,
+    "humidity_percent": 55,
+    "wind_speed_mps": 1.77,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:03"
+  },
+  {
+    "city_name": "Mehmand Chak",
+    "temperature_c": 32.18,
+    "humidity_percent": 53,
+    "wind_speed_mps": 1.69,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:03"
+  },
+  {
+    "city_name": "Mughalabad",
+    "temperature_c": 22.07,
+    "humidity_percent": 65,
+    "wind_speed_mps": 2.78,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:03"
+  },
+  {
+    "city_name": "Bulri",
+    "temperature_c": 37.26,
+    "humidity_percent": 41,
+    "wind_speed_mps": 5.92,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:21"
+  },
+  {
+    "city_name": "Nao Mian Sahib",
+    "temperature_c": 42.57,
+    "humidity_percent": 27,
+    "wind_speed_mps": 5.36,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:03"
+  },
+  {
+    "city_name": "Duki",
+    "temperature_c": 32.43,
+    "humidity_percent": 48,
+    "wind_speed_mps": 6.53,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:04"
+  },
+  {
+    "city_name": "Bar Shinglai",
+    "temperature_c": 24.04,
+    "humidity_percent": 59,
+    "wind_speed_mps": 2.98,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:05"
+  },
+  {
+    "city_name": "Miranshah",
+    "temperature_c": 29.5,
+    "humidity_percent": 59,
+    "wind_speed_mps": 4.66,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:08"
+  },
+  {
+    "city_name": "Cherat Cantonement",
+    "temperature_c": 28.78,
+    "humidity_percent": 56,
+    "wind_speed_mps": 1.48,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:15"
+  },
+  {
+    "city_name": "Amirabad",
+    "temperature_c": 29.18,
+    "humidity_percent": 59,
+    "wind_speed_mps": 3.61,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:12"
+  },
+  {
+    "city_name": "Chak One Hundred Four Seven Right",
+    "temperature_c": 36.79,
+    "humidity_percent": 40,
+    "wind_speed_mps": 3.08,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:12"
+  },
+  {
+    "city_name": "Alizai",
+    "temperature_c": 28.9,
+    "humidity_percent": 59,
+    "wind_speed_mps": 4.73,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:12"
+  },
+  {
+    "city_name": "Tando Mitha Khan",
+    "temperature_c": 38.92,
+    "humidity_percent": 36,
+    "wind_speed_mps": 5.9,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:20"
+  },
+  {
+    "city_name": "Landi Kotal",
+    "temperature_c": 28.74,
+    "humidity_percent": 58,
+    "wind_speed_mps": 4.22,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:20"
+  },
+  {
+    "city_name": "Dittewal",
+    "temperature_c": 31.79,
+    "humidity_percent": 55,
+    "wind_speed_mps": 1.69,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:20"
+  },
+  {
+    "city_name": "Wana",
+    "temperature_c": 26.97,
+    "humidity_percent": 63,
+    "wind_speed_mps": 3.68,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:21"
+  },
+  {
+    "city_name": "Kakad Wari Dir Upper",
+    "temperature_c": 26.72,
+    "humidity_percent": 60,
+    "wind_speed_mps": 2.98,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:21"
+  },
+  {
+    "city_name": "Shooli Bazar",
+    "temperature_c": 36.2,
+    "humidity_percent": 45,
+    "wind_speed_mps": 4.87,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:21"
+  },
+  {
+    "city_name": "Chak Eighty Three Twelve L",
+    "temperature_c": 38.44,
+    "humidity_percent": 38,
+    "wind_speed_mps": 1.28,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:21"
+  },
+  {
+    "city_name": "Chak Seventy-five - Five Right",
+    "temperature_c": 35.43,
+    "humidity_percent": 44,
+    "wind_speed_mps": 2.74,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:23"
+  },
+  {
+    "city_name": "Barishal",
+    "temperature_c": 17.32,
+    "humidity_percent": 28,
+    "wind_speed_mps": 4.6,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:23"
+  },
+  {
+    "city_name": "Dandot RS",
+    "temperature_c": 31.44,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.63,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:23"
+  },
+  {
+    "city_name": "Chowki Jamali",
+    "temperature_c": 43.13,
+    "humidity_percent": 26,
+    "wind_speed_mps": 5.19,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:34"
+  },
+  {
+    "city_name": "Bakhri Ahmad Khan",
+    "temperature_c": 36.54,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.76,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:24"
+  },
+  {
+    "city_name": "Banian",
+    "temperature_c": 31.79,
+    "humidity_percent": 55,
+    "wind_speed_mps": 1.69,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:24"
+  },
+  {
+    "city_name": "Keshupur",
+    "temperature_c": 35.26,
+    "humidity_percent": 46,
+    "wind_speed_mps": 2.75,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:25"
+  },
+  {
+    "city_name": "Basti Dosa",
+    "temperature_c": 36.45,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.92,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:25"
+  },
+  {
+    "city_name": "Muhammad Moryal Sahito Jo Goth",
+    "temperature_c": 41.29,
+    "humidity_percent": 29,
+    "wind_speed_mps": 6.25,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:25"
+  },
+  {
+    "city_name": "Ashanagro Koto",
+    "temperature_c": 33.08,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.16,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:26"
+  },
+  {
+    "city_name": "Gulishah Kach",
+    "temperature_c": 25.46,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.46,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:27"
+  },
+  {
+    "city_name": "Kot Rajkour",
+    "temperature_c": 31.43,
+    "humidity_percent": 60,
+    "wind_speed_mps": 1.91,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:27"
+  },
+  {
+    "city_name": "Khandowa",
+    "temperature_c": 30.59,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.21,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:28"
+  },
+  {
+    "city_name": "Moza Shahwala",
+    "temperature_c": 36.37,
+    "humidity_percent": 42,
+    "wind_speed_mps": 1.11,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:07:02"
+  },
+  {
+    "city_name": "Nooriabad",
+    "temperature_c": 32.27,
+    "humidity_percent": 55,
+    "wind_speed_mps": 2.33,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:28"
+  },
+  {
+    "city_name": "Abdullah Khaskheli",
+    "temperature_c": 37.69,
+    "humidity_percent": 40,
+    "wind_speed_mps": 5.83,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:29"
+  },
+  {
+    "city_name": "Basti Aukharvand",
+    "temperature_c": 36.54,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.75,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:29"
+  },
+  {
+    "city_name": "Nooriabad",
+    "temperature_c": 35.1,
+    "humidity_percent": 46,
+    "wind_speed_mps": 4.94,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:30"
+  },
+  {
+    "city_name": "Ziarat",
+    "temperature_c": 23.09,
+    "humidity_percent": 56,
+    "wind_speed_mps": 3.13,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:30"
+  },
+  {
+    "city_name": "Dajjal wala",
+    "temperature_c": 36.47,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.83,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:31"
+  },
+  {
+    "city_name": "Shinpokh",
+    "temperature_c": 31.42,
+    "humidity_percent": 55,
+    "wind_speed_mps": 4.07,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:31"
+  },
+  {
+    "city_name": "Thakar Ke Hashim",
+    "temperature_c": 34.45,
+    "humidity_percent": 47,
+    "wind_speed_mps": 2.28,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:32"
+  },
+  {
+    "city_name": "Pakki Shagwanwali",
+    "temperature_c": 36.45,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.92,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:25"
+  },
+  {
+    "city_name": "Chak 54/4",
+    "temperature_c": 32.39,
+    "humidity_percent": 51,
+    "wind_speed_mps": 2.16,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:33"
+  },
+  {
+    "city_name": "Lalbazgaray",
+    "temperature_c": 24.68,
+    "humidity_percent": 63,
+    "wind_speed_mps": 1.92,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:33"
+  },
+  {
+    "city_name": "Basti Machi",
+    "temperature_c": 36.45,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.92,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:33"
+  },
+  {
+    "city_name": "Dhok Awan",
+    "temperature_c": 32.77,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.18,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:34"
+  },
+  {
+    "city_name": "Shaheed Abad",
+    "temperature_c": 21.54,
+    "humidity_percent": 64,
+    "wind_speed_mps": 2.16,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:34"
+  },
+  {
+    "city_name": "Hot Chat",
+    "temperature_c": 36.88,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.43,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:35"
+  },
+  {
+    "city_name": "Amir Kalasa",
+    "temperature_c": 31.79,
+    "humidity_percent": 55,
+    "wind_speed_mps": 1.69,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:36"
+  },
+  {
+    "city_name": "Dera Tehsildarwala",
+    "temperature_c": 38.45,
+    "humidity_percent": 37,
+    "wind_speed_mps": 0.94,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:37"
+  },
+  {
+    "city_name": "Chah Umar Hayyat Wala",
+    "temperature_c": 37.09,
+    "humidity_percent": 45,
+    "wind_speed_mps": 3.35,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:37"
+  },
+  {
+    "city_name": "Jath",
+    "temperature_c": 36.84,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.32,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:38"
+  },
+  {
+    "city_name": "Sheeriwala (Old)",
+    "temperature_c": 36.44,
+    "humidity_percent": 42,
+    "wind_speed_mps": 1.02,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:38"
+  },
+  {
+    "city_name": "Taragar w\u0101la",
+    "temperature_c": 36.45,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.92,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:33"
+  },
+  {
+    "city_name": "Asad Ullah",
+    "temperature_c": 26.72,
+    "humidity_percent": 60,
+    "wind_speed_mps": 2.98,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:39"
+  },
+  {
+    "city_name": "Dhoke Allah Razi",
+    "temperature_c": 30.59,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.21,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:39"
+  },
+  {
+    "city_name": "Haveli Mehr Ghulam Qadir Hiraj",
+    "temperature_c": 37.68,
+    "humidity_percent": 39,
+    "wind_speed_mps": 2.31,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:40"
+  },
+  {
+    "city_name": "Asad Ullah Khan Dirvi",
+    "temperature_c": 26.72,
+    "humidity_percent": 60,
+    "wind_speed_mps": 2.98,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:39"
+  },
+  {
+    "city_name": "Asad Ullah DIrvi",
+    "temperature_c": 26.72,
+    "humidity_percent": 60,
+    "wind_speed_mps": 2.98,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:39"
+  },
+  {
+    "city_name": "Uzhnu",
+    "temperature_c": 24.46,
+    "humidity_percent": 15,
+    "wind_speed_mps": 2.51,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:41"
+  },
+  {
+    "city_name": "Aun Hiraj's County",
+    "temperature_c": 36.57,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.71,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:42"
+  },
+  {
+    "city_name": "Kandogai",
+    "temperature_c": 19.17,
+    "humidity_percent": 67,
+    "wind_speed_mps": 5.1,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:42"
+  },
+  {
+    "city_name": "Pirotak",
+    "temperature_c": 37,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.05,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:43"
+  },
+  {
+    "city_name": "Basti Qaudhia",
+    "temperature_c": 36.45,
+    "humidity_percent": 42,
+    "wind_speed_mps": 0.92,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:43"
+  },
+  {
+    "city_name": "Bankhar Banda",
+    "temperature_c": 19.17,
+    "humidity_percent": 67,
+    "wind_speed_mps": 5.1,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:42"
+  },
+  {
+    "city_name": "Burj Banda",
+    "temperature_c": 13.33,
+    "humidity_percent": 67,
+    "wind_speed_mps": 5.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:43"
+  },
+  {
+    "city_name": "Khar Banda",
+    "temperature_c": 13.33,
+    "humidity_percent": 67,
+    "wind_speed_mps": 5.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:45"
+  },
+  {
+    "city_name": "Nathi Banda",
+    "temperature_c": 13.33,
+    "humidity_percent": 67,
+    "wind_speed_mps": 5.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:45"
+  },
+  {
+    "city_name": "Khor Banda",
+    "temperature_c": 13.33,
+    "humidity_percent": 67,
+    "wind_speed_mps": 5.45,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:45"
+  },
+  {
+    "city_name": "Janchal",
+    "temperature_c": 20.99,
+    "humidity_percent": 58,
+    "wind_speed_mps": 4.46,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:45"
+  },
+  {
+    "city_name": "Bandla Banda",
+    "temperature_c": 7.11,
+    "humidity_percent": 67,
+    "wind_speed_mps": 5.43,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:45"
+  },
+  {
+    "city_name": "Seru Banda",
+    "temperature_c": 18.29,
+    "humidity_percent": 70,
+    "wind_speed_mps": 3.51,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:47"
+  },
+  {
+    "city_name": "Charai Banda",
+    "temperature_c": 14.76,
+    "humidity_percent": 66,
+    "wind_speed_mps": 4.29,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:47"
+  },
+  {
+    "city_name": "Luge Banda",
+    "temperature_c": 17.76,
+    "humidity_percent": 69,
+    "wind_speed_mps": 3.45,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:47"
+  },
+  {
+    "city_name": "Dhup",
+    "temperature_c": 29.6,
+    "humidity_percent": 58,
+    "wind_speed_mps": 3.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:47"
+  },
+  {
+    "city_name": "Panji Banda",
+    "temperature_c": 14.76,
+    "humidity_percent": 66,
+    "wind_speed_mps": 4.29,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:47"
+  },
+  {
+    "city_name": "Ranolia",
+    "temperature_c": 29.6,
+    "humidity_percent": 58,
+    "wind_speed_mps": 3.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:49"
+  },
+  {
+    "city_name": "Mihr Bat",
+    "temperature_c": 24.31,
+    "humidity_percent": 59,
+    "wind_speed_mps": 3.43,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:49"
+  },
+  {
+    "city_name": "Lawa",
+    "temperature_c": 32.85,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.86,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:49"
+  },
+  {
+    "city_name": "Khenai",
+    "temperature_c": 24.8,
+    "humidity_percent": 61,
+    "wind_speed_mps": 3.62,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:49"
+  },
+  {
+    "city_name": "Duber Bazar",
+    "temperature_c": 29.6,
+    "humidity_percent": 58,
+    "wind_speed_mps": 3.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:49"
+  },
+  {
+    "city_name": "Shitgal",
+    "temperature_c": 18.93,
+    "humidity_percent": 62,
+    "wind_speed_mps": 4.23,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:52"
+  },
+  {
+    "city_name": "Gabar",
+    "temperature_c": 26.06,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.95,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:52"
+  },
+  {
+    "city_name": "Shungial",
+    "temperature_c": 26.06,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.95,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:52"
+  },
+  {
+    "city_name": "Darra",
+    "temperature_c": 26.06,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.95,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:52"
+  },
+  {
+    "city_name": "Segan",
+    "temperature_c": 26.06,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.95,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:52"
+  },
+  {
+    "city_name": "Lang",
+    "temperature_c": 26.03,
+    "humidity_percent": 62,
+    "wind_speed_mps": 4.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:54"
+  },
+  {
+    "city_name": "Sanagai",
+    "temperature_c": 21.77,
+    "humidity_percent": 64,
+    "wind_speed_mps": 4.51,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:54"
+  },
+  {
+    "city_name": "Jag Kalle",
+    "temperature_c": 24.38,
+    "humidity_percent": 60,
+    "wind_speed_mps": 4.36,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:54"
+  },
+  {
+    "city_name": "Shilke",
+    "temperature_c": 21.77,
+    "humidity_percent": 64,
+    "wind_speed_mps": 4.51,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:54"
+  },
+  {
+    "city_name": "Taralla Banda",
+    "temperature_c": 18.93,
+    "humidity_percent": 62,
+    "wind_speed_mps": 4.23,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:54"
+  },
+  {
+    "city_name": "Serai",
+    "temperature_c": 18.51,
+    "humidity_percent": 65,
+    "wind_speed_mps": 4.75,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:56"
+  },
+  {
+    "city_name": "Nitai Banda",
+    "temperature_c": 19.17,
+    "humidity_percent": 67,
+    "wind_speed_mps": 5.1,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:56"
+  },
+  {
+    "city_name": "Dathra",
+    "temperature_c": 20.7,
+    "humidity_percent": 65,
+    "wind_speed_mps": 5.22,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:56"
+  },
+  {
+    "city_name": "Harnai Banda",
+    "temperature_c": 19.17,
+    "humidity_percent": 67,
+    "wind_speed_mps": 5.1,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:56"
+  },
+  {
+    "city_name": "Sakah",
+    "temperature_c": 18.51,
+    "humidity_percent": 65,
+    "wind_speed_mps": 4.75,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:56"
+  },
+  {
+    "city_name": "Yazai",
+    "temperature_c": 16.52,
+    "humidity_percent": 63,
+    "wind_speed_mps": 5.39,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:58"
+  },
+  {
+    "city_name": "Nilgai Banda",
+    "temperature_c": 12.87,
+    "humidity_percent": 64,
+    "wind_speed_mps": 5.59,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:58"
+  },
+  {
+    "city_name": "Gujar Banda",
+    "temperature_c": 16.52,
+    "humidity_percent": 63,
+    "wind_speed_mps": 5.39,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:58"
+  },
+  {
+    "city_name": "Haj Dir",
+    "temperature_c": 16.69,
+    "humidity_percent": 62,
+    "wind_speed_mps": 5.69,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:58"
+  },
+  {
+    "city_name": "Karbej",
+    "temperature_c": 16.52,
+    "humidity_percent": 63,
+    "wind_speed_mps": 5.39,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:11:58"
+  },
+  {
+    "city_name": "Dhar",
+    "temperature_c": 22.38,
+    "humidity_percent": 61,
+    "wind_speed_mps": 5.13,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:01"
+  },
+  {
+    "city_name": "Shaint",
+    "temperature_c": 22.38,
+    "humidity_percent": 61,
+    "wind_speed_mps": 5.13,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:01"
+  },
+  {
+    "city_name": "Datol Banda",
+    "temperature_c": 22.38,
+    "humidity_percent": 61,
+    "wind_speed_mps": 5.13,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:01"
+  },
+  {
+    "city_name": "Kamar Banda",
+    "temperature_c": 16.52,
+    "humidity_percent": 63,
+    "wind_speed_mps": 5.39,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:01"
+  },
+  {
+    "city_name": "Shamalguli",
+    "temperature_c": 16.52,
+    "humidity_percent": 63,
+    "wind_speed_mps": 5.39,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:01"
+  },
+  {
+    "city_name": "Shamal",
+    "temperature_c": 22.06,
+    "humidity_percent": 60,
+    "wind_speed_mps": 4.81,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:03"
+  },
+  {
+    "city_name": "Chilari",
+    "temperature_c": 22.38,
+    "humidity_percent": 61,
+    "wind_speed_mps": 5.13,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:03"
+  },
+  {
+    "city_name": "Bulai",
+    "temperature_c": 22.06,
+    "humidity_percent": 60,
+    "wind_speed_mps": 4.81,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:03"
+  },
+  {
+    "city_name": "Bara Amba",
+    "temperature_c": 26.03,
+    "humidity_percent": 62,
+    "wind_speed_mps": 4.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:03"
+  },
+  {
+    "city_name": "Banil Kalle",
+    "temperature_c": 26.03,
+    "humidity_percent": 62,
+    "wind_speed_mps": 4.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:03"
+  },
+  {
+    "city_name": "Kigamara",
+    "temperature_c": 25.29,
+    "humidity_percent": 56,
+    "wind_speed_mps": 4.11,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:05"
+  },
+  {
+    "city_name": "Kuz Amba",
+    "temperature_c": 24.38,
+    "humidity_percent": 60,
+    "wind_speed_mps": 4.36,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:05"
+  },
+  {
+    "city_name": "Khwar Badar Khel",
+    "temperature_c": 27.97,
+    "humidity_percent": 58,
+    "wind_speed_mps": 4.04,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:05"
+  },
+  {
+    "city_name": "Chhor Banda",
+    "temperature_c": 32.85,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.78,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:07"
+  },
+  {
+    "city_name": "Serai",
+    "temperature_c": 25.29,
+    "humidity_percent": 56,
+    "wind_speed_mps": 4.11,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:05"
+  },
+  {
+    "city_name": "Sandari",
+    "temperature_c": 25.36,
+    "humidity_percent": 56,
+    "wind_speed_mps": 3.74,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:05"
+  },
+  {
+    "city_name": "Mali Dera",
+    "temperature_c": 25.36,
+    "humidity_percent": 56,
+    "wind_speed_mps": 3.74,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:08"
+  },
+  {
+    "city_name": "Gloz Banda",
+    "temperature_c": 27.97,
+    "humidity_percent": 58,
+    "wind_speed_mps": 4.04,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:08"
+  },
+  {
+    "city_name": "Kuwde",
+    "temperature_c": 29.82,
+    "humidity_percent": 56,
+    "wind_speed_mps": 4.51,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:08"
+  },
+  {
+    "city_name": "Khertai Bela Duber",
+    "temperature_c": 26.06,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.95,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:08"
+  },
+  {
+    "city_name": "Sirai Kalle Dag",
+    "temperature_c": 26.43,
+    "humidity_percent": 58,
+    "wind_speed_mps": 4.88,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:08"
+  },
+  {
+    "city_name": "Manjinr Banda",
+    "temperature_c": 20.62,
+    "humidity_percent": 64,
+    "wind_speed_mps": 4.07,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:10"
+  },
+  {
+    "city_name": "Bankhar",
+    "temperature_c": 24.31,
+    "humidity_percent": 59,
+    "wind_speed_mps": 3.43,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:10"
+  },
+  {
+    "city_name": "Khenai",
+    "temperature_c": 24.31,
+    "humidity_percent": 59,
+    "wind_speed_mps": 3.43,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:10"
+  },
+  {
+    "city_name": "Sarang",
+    "temperature_c": 29.6,
+    "humidity_percent": 58,
+    "wind_speed_mps": 3.68,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:11"
+  },
+  {
+    "city_name": "Shrshain",
+    "temperature_c": 25.36,
+    "humidity_percent": 56,
+    "wind_speed_mps": 3.74,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:11"
+  },
+  {
+    "city_name": "Mahran",
+    "temperature_c": 30.62,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.46,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:13"
+  },
+  {
+    "city_name": "Thil Banda",
+    "temperature_c": 30.62,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.46,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:13"
+  },
+  {
+    "city_name": "Nazro",
+    "temperature_c": 27.19,
+    "humidity_percent": 53,
+    "wind_speed_mps": 3.49,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:14"
+  },
+  {
+    "city_name": "Shamdara",
+    "temperature_c": 27.19,
+    "humidity_percent": 53,
+    "wind_speed_mps": 3.49,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:14"
+  },
+  {
+    "city_name": "Khal",
+    "temperature_c": 30.62,
+    "humidity_percent": 54,
+    "wind_speed_mps": 3.46,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:14"
+  },
+  {
+    "city_name": "Khakharo",
+    "temperature_c": 27.19,
+    "humidity_percent": 53,
+    "wind_speed_mps": 3.49,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:17"
+  },
+  {
+    "city_name": "Shamial",
+    "temperature_c": 26.88,
+    "humidity_percent": 52,
+    "wind_speed_mps": 3.52,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:15"
+  },
+  {
+    "city_name": "Gambir",
+    "temperature_c": 32.63,
+    "humidity_percent": 55,
+    "wind_speed_mps": 4.15,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:17"
+  },
+  {
+    "city_name": "Gambir",
+    "temperature_c": 32.63,
+    "humidity_percent": 55,
+    "wind_speed_mps": 4.15,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:17"
+  },
+  {
+    "city_name": "Gut",
+    "temperature_c": 21.77,
+    "humidity_percent": 64,
+    "wind_speed_mps": 4.51,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:17"
+  },
+  {
+    "city_name": "Khan Sar",
+    "temperature_c": 20.62,
+    "humidity_percent": 64,
+    "wind_speed_mps": 4.07,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:19"
+  },
+  {
+    "city_name": "Chaprao",
+    "temperature_c": 14.76,
+    "humidity_percent": 66,
+    "wind_speed_mps": 4.29,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:19"
+  },
+  {
+    "city_name": "Ghando",
+    "temperature_c": 23.35,
+    "humidity_percent": 63,
+    "wind_speed_mps": 3.84,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:19"
+  },
+  {
+    "city_name": "Karlo Banda",
+    "temperature_c": 21.77,
+    "humidity_percent": 64,
+    "wind_speed_mps": 4.51,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:19"
+  },
+  {
+    "city_name": "Gedar Banda",
+    "temperature_c": 14.76,
+    "humidity_percent": 66,
+    "wind_speed_mps": 4.29,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:19"
+  },
+  {
+    "city_name": "Sholgara",
+    "temperature_c": 24.31,
+    "humidity_percent": 59,
+    "wind_speed_mps": 3.43,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:22"
+  },
+  {
+    "city_name": "Duni",
+    "temperature_c": 18.71,
+    "humidity_percent": 68,
+    "wind_speed_mps": 4.67,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:22"
+  },
+  {
+    "city_name": "Gando",
+    "temperature_c": 23.35,
+    "humidity_percent": 63,
+    "wind_speed_mps": 3.84,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:22"
+  },
+  {
+    "city_name": "Abdul Aziz Koruna",
+    "temperature_c": 31.55,
+    "humidity_percent": 58,
+    "wind_speed_mps": 2.81,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:22"
+  },
+  {
+    "city_name": "Binkot",
+    "temperature_c": 29.83,
+    "humidity_percent": 56,
+    "wind_speed_mps": 3.44,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:22"
+  },
+  {
+    "city_name": "Cholao Banda",
+    "temperature_c": 12.65,
+    "humidity_percent": 70,
+    "wind_speed_mps": 4.37,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:24"
+  },
+  {
+    "city_name": "Jabela Banda",
+    "temperature_c": 12.65,
+    "humidity_percent": 70,
+    "wind_speed_mps": 4.37,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:24"
+  },
+  {
+    "city_name": "Sore",
+    "temperature_c": 21.67,
+    "humidity_percent": 69,
+    "wind_speed_mps": 3.48,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:24"
+  },
+  {
+    "city_name": "Mali Banda",
+    "temperature_c": 18.71,
+    "humidity_percent": 68,
+    "wind_speed_mps": 4.67,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:24"
+  },
+  {
+    "city_name": "Mun Bek",
+    "temperature_c": 18.71,
+    "humidity_percent": 68,
+    "wind_speed_mps": 4.67,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:22"
+  },
+  {
+    "city_name": "Shonrial",
+    "temperature_c": 14.32,
+    "humidity_percent": 69,
+    "wind_speed_mps": 3.56,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:27"
+  },
+  {
+    "city_name": "Fatehpur",
+    "temperature_c": 26.56,
+    "humidity_percent": 59,
+    "wind_speed_mps": 3.09,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:27"
+  },
+  {
+    "city_name": "Shalkho Banda",
+    "temperature_c": 20.62,
+    "humidity_percent": 64,
+    "wind_speed_mps": 4.07,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:27"
+  },
+  {
+    "city_name": "Kuz Laikot",
+    "temperature_c": 25.3,
+    "humidity_percent": 45,
+    "wind_speed_mps": 4.66,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:27"
+  },
+  {
+    "city_name": "Hariani",
+    "temperature_c": 25.3,
+    "humidity_percent": 45,
+    "wind_speed_mps": 4.66,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:27"
+  },
+  {
+    "city_name": "Muragh Kili",
+    "temperature_c": 31.1,
+    "humidity_percent": 18,
+    "wind_speed_mps": 8.81,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:29"
+  },
+  {
+    "city_name": "Bun",
+    "temperature_c": 15.9,
+    "humidity_percent": 47,
+    "wind_speed_mps": 4.1,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:29"
+  },
+  {
+    "city_name": "Sped\u0101r",
+    "temperature_c": 19.51,
+    "humidity_percent": 47,
+    "wind_speed_mps": 3.97,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:29"
+  },
+  {
+    "city_name": "Ghulam Khan",
+    "temperature_c": 27.1,
+    "humidity_percent": 58,
+    "wind_speed_mps": 5.55,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:29"
+  },
+  {
+    "city_name": "Ghawai Bela",
+    "temperature_c": 13.72,
+    "humidity_percent": 44,
+    "wind_speed_mps": 4.73,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:29"
+  },
+  {
+    "city_name": "Dab Banda",
+    "temperature_c": 18.11,
+    "humidity_percent": 44,
+    "wind_speed_mps": 4.69,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:31"
+  },
+  {
+    "city_name": "Karachi",
+    "temperature_c": 30.88,
+    "humidity_percent": 71,
+    "wind_speed_mps": 5.85,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:06:02"
+  },
+  {
+    "city_name": "Kain",
+    "temperature_c": 18.11,
+    "humidity_percent": 44,
+    "wind_speed_mps": 4.69,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:32"
+  },
+  {
+    "city_name": "Kanda",
+    "temperature_c": 18.11,
+    "humidity_percent": 44,
+    "wind_speed_mps": 4.69,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:32"
+  },
+  {
+    "city_name": "Lahore",
+    "temperature_c": 29.8,
+    "humidity_percent": 60,
+    "wind_speed_mps": 1.86,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:32"
+  },
+  {
+    "city_name": "Peshawar",
+    "temperature_c": 31.51,
+    "humidity_percent": 57,
+    "wind_speed_mps": 1.54,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:04"
+  },
+  {
+    "city_name": "Gujranwala",
+    "temperature_c": 31.46,
+    "humidity_percent": 56,
+    "wind_speed_mps": 1.5,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:35"
+  },
+  {
+    "city_name": "Faisalabad",
+    "temperature_c": 35.02,
+    "humidity_percent": 42,
+    "wind_speed_mps": 2.73,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:03:42"
+  },
+  {
+    "city_name": "Rawalpindi",
+    "temperature_c": 33.8,
+    "humidity_percent": 61,
+    "wind_speed_mps": 3.17,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:10:29"
+  },
+  {
+    "city_name": "Hyder\u0101b\u0101d",
+    "temperature_c": 37.17,
+    "humidity_percent": 41,
+    "wind_speed_mps": 5.32,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:35"
+  },
+  {
+    "city_name": "Multan",
+    "temperature_c": 36.61,
+    "humidity_percent": 52,
+    "wind_speed_mps": 2.75,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:35"
+  },
+  {
+    "city_name": "Bahawalpur",
+    "temperature_c": 37.89,
+    "humidity_percent": 36,
+    "wind_speed_mps": 1.45,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:37"
+  },
+  {
+    "city_name": "Quetta",
+    "temperature_c": 35.17,
+    "humidity_percent": 19,
+    "wind_speed_mps": 6.15,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:37"
+  },
+  {
+    "city_name": "Bannu",
+    "temperature_c": 33.96,
+    "humidity_percent": 44,
+    "wind_speed_mps": 5.1,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:37"
+  },
+  {
+    "city_name": "Sargodha",
+    "temperature_c": 35.24,
+    "humidity_percent": 46,
+    "wind_speed_mps": 1.45,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:37"
+  },
+  {
+    "city_name": "Dera Ismail Khan",
+    "temperature_c": 35.45,
+    "humidity_percent": 44,
+    "wind_speed_mps": 1.86,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:39"
+  },
+  {
+    "city_name": "Sialkot",
+    "temperature_c": 31.46,
+    "humidity_percent": 63,
+    "wind_speed_mps": 1.74,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:38"
+  },
+  {
+    "city_name": "Muzaffarabad",
+    "temperature_c": 29.86,
+    "humidity_percent": 62,
+    "wind_speed_mps": 2.18,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:40"
+  },
+  {
+    "city_name": "Islamabad",
+    "temperature_c": 33.29,
+    "humidity_percent": 60,
+    "wind_speed_mps": 2.93,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:09:15"
+  },
+  {
+    "city_name": "Jabba Gedar Banda",
+    "temperature_c": 7.99,
+    "humidity_percent": 68,
+    "wind_speed_mps": 4.07,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:39"
+  },
+  {
+    "city_name": "Dand Banda",
+    "temperature_c": 16.18,
+    "humidity_percent": 67,
+    "wind_speed_mps": 3.9,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:40"
+  },
+  {
+    "city_name": "Dhand",
+    "temperature_c": 19.33,
+    "humidity_percent": 65,
+    "wind_speed_mps": 3.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:40"
+  },
+  {
+    "city_name": "Jalkot",
+    "temperature_c": 23.35,
+    "humidity_percent": 63,
+    "wind_speed_mps": 3.84,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:41"
+  },
+  {
+    "city_name": "Daro Banda",
+    "temperature_c": 19.33,
+    "humidity_percent": 65,
+    "wind_speed_mps": 3.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:41"
+  },
+  {
+    "city_name": "Manri",
+    "temperature_c": 19.33,
+    "humidity_percent": 65,
+    "wind_speed_mps": 3.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:41"
+  },
+  {
+    "city_name": "Soya",
+    "temperature_c": 23.35,
+    "humidity_percent": 63,
+    "wind_speed_mps": 3.84,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:44"
+  },
+  {
+    "city_name": "Thapan",
+    "temperature_c": 24.8,
+    "humidity_percent": 61,
+    "wind_speed_mps": 3.62,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:45"
+  },
+  {
+    "city_name": "Ranolia Bar Kalle",
+    "temperature_c": 24.8,
+    "humidity_percent": 61,
+    "wind_speed_mps": 3.62,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:45"
+  },
+  {
+    "city_name": "Chhar",
+    "temperature_c": 24.8,
+    "humidity_percent": 61,
+    "wind_speed_mps": 3.62,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:45"
+  },
+  {
+    "city_name": "Dahar",
+    "temperature_c": 24.31,
+    "humidity_percent": 59,
+    "wind_speed_mps": 3.43,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:45"
+  },
+  {
+    "city_name": "Dhussa",
+    "temperature_c": 17.59,
+    "humidity_percent": 62,
+    "wind_speed_mps": 3.42,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:45"
+  },
+  {
+    "city_name": "Ranolia Kuz Kalle",
+    "temperature_c": 24.8,
+    "humidity_percent": 61,
+    "wind_speed_mps": 3.62,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:46"
+  },
+  {
+    "city_name": "Kopu Banda",
+    "temperature_c": 21.35,
+    "humidity_percent": 69,
+    "wind_speed_mps": 3.52,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:46"
+  },
+  {
+    "city_name": "Loe Kobu",
+    "temperature_c": 9.24,
+    "humidity_percent": 69,
+    "wind_speed_mps": 3.75,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:46"
+  },
+  {
+    "city_name": "Dan",
+    "temperature_c": 17.59,
+    "humidity_percent": 62,
+    "wind_speed_mps": 3.42,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:47"
+  },
+  {
+    "city_name": "Kafir Banda",
+    "temperature_c": 11.37,
+    "humidity_percent": 70,
+    "wind_speed_mps": 3.61,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:48"
+  },
+  {
+    "city_name": "Kandao Banda",
+    "temperature_c": 19.59,
+    "humidity_percent": 63,
+    "wind_speed_mps": 3.56,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:48"
+  },
+  {
+    "city_name": "Satil Banda",
+    "temperature_c": 19.33,
+    "humidity_percent": 65,
+    "wind_speed_mps": 3.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:48"
+  },
+  {
+    "city_name": "Shakil Gum Banda",
+    "temperature_c": 19.33,
+    "humidity_percent": 65,
+    "wind_speed_mps": 3.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:48"
+  },
+  {
+    "city_name": "Nate Banda",
+    "temperature_c": 9.24,
+    "humidity_percent": 69,
+    "wind_speed_mps": 3.75,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:46"
+  },
+  {
+    "city_name": "Cholao Banda",
+    "temperature_c": 19.33,
+    "humidity_percent": 65,
+    "wind_speed_mps": 3.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:50"
+  },
+  {
+    "city_name": "Cholao Banda",
+    "temperature_c": 19.33,
+    "humidity_percent": 65,
+    "wind_speed_mps": 3.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:50"
+  },
+  {
+    "city_name": "Khana Banda",
+    "temperature_c": 9.24,
+    "humidity_percent": 69,
+    "wind_speed_mps": 3.75,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:51"
+  },
+  {
+    "city_name": "Jabba Banda",
+    "temperature_c": 14.76,
+    "humidity_percent": 66,
+    "wind_speed_mps": 4.29,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:12:19"
+  },
+  {
+    "city_name": "Chharon Banda",
+    "temperature_c": 17.59,
+    "humidity_percent": 62,
+    "wind_speed_mps": 3.42,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:52"
+  },
+  {
+    "city_name": "Sangotia Banda",
+    "temperature_c": 18.68,
+    "humidity_percent": 64,
+    "wind_speed_mps": 3.4,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:53"
+  },
+  {
+    "city_name": "Jarin Banda",
+    "temperature_c": 17.59,
+    "humidity_percent": 62,
+    "wind_speed_mps": 3.42,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:53"
+  },
+  {
+    "city_name": "Sher Banda",
+    "temperature_c": 14.54,
+    "humidity_percent": 66,
+    "wind_speed_mps": 3.5,
+    "weather_main": "Clouds",
+    "weather_description": "few clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:54"
+  },
+  {
+    "city_name": "Manwain Banda",
+    "temperature_c": 19.59,
+    "humidity_percent": 63,
+    "wind_speed_mps": 3.56,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:55"
+  },
+  {
+    "city_name": "Chhapra Banda",
+    "temperature_c": 19.59,
+    "humidity_percent": 63,
+    "wind_speed_mps": 3.56,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:55"
+  },
+  {
+    "city_name": "Chhari Banda",
+    "temperature_c": 19.33,
+    "humidity_percent": 65,
+    "wind_speed_mps": 3.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:55"
+  },
+  {
+    "city_name": "Ber",
+    "temperature_c": 22.35,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.3,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:56"
+  },
+  {
+    "city_name": "Bela Rustam Khel",
+    "temperature_c": 28.85,
+    "humidity_percent": 57,
+    "wind_speed_mps": 3.27,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:56"
+  },
+  {
+    "city_name": "Gullu Ziarat",
+    "temperature_c": 31.76,
+    "humidity_percent": 22,
+    "wind_speed_mps": 5.59,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:57"
+  },
+  {
+    "city_name": "Kili Sikandar Khan",
+    "temperature_c": 32.29,
+    "humidity_percent": 20,
+    "wind_speed_mps": 4.49,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:57"
+  },
+  {
+    "city_name": "Kili Sardar Khan",
+    "temperature_c": 32.29,
+    "humidity_percent": 20,
+    "wind_speed_mps": 4.49,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:58"
+  },
+  {
+    "city_name": "Ashewat Dak Choki",
+    "temperature_c": 32.49,
+    "humidity_percent": 22,
+    "wind_speed_mps": 2.58,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:59"
+  },
+  {
+    "city_name": "Khwazhobai",
+    "temperature_c": 31.97,
+    "humidity_percent": 21,
+    "wind_speed_mps": 1.39,
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:59"
+  },
+  {
+    "city_name": "Khelan",
+    "temperature_c": 20.96,
+    "humidity_percent": 55,
+    "wind_speed_mps": 3.74,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:59"
+  },
+  {
+    "city_name": "Kichar Banda",
+    "temperature_c": 16.18,
+    "humidity_percent": 67,
+    "wind_speed_mps": 3.9,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:59"
+  },
+  {
+    "city_name": "Manzakai",
+    "temperature_c": 31.01,
+    "humidity_percent": 37,
+    "wind_speed_mps": 5.71,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:00"
+  },
+  {
+    "city_name": "Hasan Kili",
+    "temperature_c": 29.61,
+    "humidity_percent": 33,
+    "wind_speed_mps": 5.03,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:00"
+  },
+  {
+    "city_name": "Zamkai Kili Two",
+    "temperature_c": 29.22,
+    "humidity_percent": 34,
+    "wind_speed_mps": 5.25,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:00"
+  },
+  {
+    "city_name": "Kili Mola Fateh Khan",
+    "temperature_c": 28.83,
+    "humidity_percent": 33,
+    "wind_speed_mps": 5.35,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:01"
+  },
+  {
+    "city_name": "Zarakai Kili One",
+    "temperature_c": 29.61,
+    "humidity_percent": 33,
+    "wind_speed_mps": 5.03,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:01"
+  },
+  {
+    "city_name": "Ochakke",
+    "temperature_c": 30.85,
+    "humidity_percent": 31,
+    "wind_speed_mps": 5.56,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:01"
+  },
+  {
+    "city_name": "Haji Sulaimanzai",
+    "temperature_c": 30.3,
+    "humidity_percent": 31,
+    "wind_speed_mps": 7.49,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:02"
+  },
+  {
+    "city_name": "Mizakhpa",
+    "temperature_c": 22.35,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.3,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:13:56"
+  },
+  {
+    "city_name": "Hasan Kili",
+    "temperature_c": 29.85,
+    "humidity_percent": 30,
+    "wind_speed_mps": 6.72,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:03"
+  },
+  {
+    "city_name": "Sahmulao Kili",
+    "temperature_c": 30.01,
+    "humidity_percent": 30,
+    "wind_speed_mps": 5.32,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:03"
+  },
+  {
+    "city_name": "Kili Ziaba",
+    "temperature_c": 31.55,
+    "humidity_percent": 32,
+    "wind_speed_mps": 6.03,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:04"
+  },
+  {
+    "city_name": "Kili Rasanan",
+    "temperature_c": 30.91,
+    "humidity_percent": 37,
+    "wind_speed_mps": 5.85,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:05"
+  },
+  {
+    "city_name": "Kili Jumma Din",
+    "temperature_c": 31.01,
+    "humidity_percent": 37,
+    "wind_speed_mps": 5.71,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:06"
+  },
+  {
+    "city_name": "Sheran Kili",
+    "temperature_c": 28.83,
+    "humidity_percent": 33,
+    "wind_speed_mps": 5.35,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:06"
+  },
+  {
+    "city_name": "Mulla Baran",
+    "temperature_c": 30.3,
+    "humidity_percent": 37,
+    "wind_speed_mps": 6,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:06"
+  },
+  {
+    "city_name": "Kili Haji Shah Wali",
+    "temperature_c": 31.06,
+    "humidity_percent": 36,
+    "wind_speed_mps": 6.06,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:07"
+  },
+  {
+    "city_name": "Kili Wazir",
+    "temperature_c": 30.6,
+    "humidity_percent": 36,
+    "wind_speed_mps": 5.88,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:07"
+  },
+  {
+    "city_name": "Kili Shahu",
+    "temperature_c": 30.72,
+    "humidity_percent": 34,
+    "wind_speed_mps": 6.42,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:08"
+  },
+  {
+    "city_name": "Kili Khudadad",
+    "temperature_c": 31.06,
+    "humidity_percent": 36,
+    "wind_speed_mps": 6.06,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:08"
+  },
+  {
+    "city_name": "Kili Khial Muhammad",
+    "temperature_c": 30.72,
+    "humidity_percent": 34,
+    "wind_speed_mps": 6.42,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:08"
+  },
+  {
+    "city_name": "Kili Ghulam Nabi",
+    "temperature_c": 31.23,
+    "humidity_percent": 34,
+    "wind_speed_mps": 6.71,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:09"
+  },
+  {
+    "city_name": "Kili Lalu",
+    "temperature_c": 30.34,
+    "humidity_percent": 34,
+    "wind_speed_mps": 6.11,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:09"
+  },
+  {
+    "city_name": "Gal",
+    "temperature_c": 23.92,
+    "humidity_percent": 45,
+    "wind_speed_mps": 4.28,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:10"
+  },
+  {
+    "city_name": "Kili Gulab Khan",
+    "temperature_c": 31.01,
+    "humidity_percent": 37,
+    "wind_speed_mps": 5.71,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:06"
+  },
+  {
+    "city_name": "Kawai Kili",
+    "temperature_c": 30.84,
+    "humidity_percent": 38,
+    "wind_speed_mps": 5.52,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:11"
+  },
+  {
+    "city_name": "Tanga",
+    "temperature_c": 30.3,
+    "humidity_percent": 37,
+    "wind_speed_mps": 6,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:06"
+  },
+  {
+    "city_name": "Bar Kalle",
+    "temperature_c": 22.1,
+    "humidity_percent": 64,
+    "wind_speed_mps": 3.74,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:12"
+  },
+  {
+    "city_name": "Jezhan",
+    "temperature_c": 30.46,
+    "humidity_percent": 38,
+    "wind_speed_mps": 5.79,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:12"
+  },
+  {
+    "city_name": "Badalai",
+    "temperature_c": 21.83,
+    "humidity_percent": 65,
+    "wind_speed_mps": 3.75,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:13"
+  },
+  {
+    "city_name": "Pia",
+    "temperature_c": 25.64,
+    "humidity_percent": 62,
+    "wind_speed_mps": 3.36,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:13"
+  },
+  {
+    "city_name": "Sar",
+    "temperature_c": 22.1,
+    "humidity_percent": 64,
+    "wind_speed_mps": 3.74,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:12"
+  },
+  {
+    "city_name": "Sutann",
+    "temperature_c": 25.05,
+    "humidity_percent": 62,
+    "wind_speed_mps": 3.4,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:14"
+  },
+  {
+    "city_name": "Hasangat",
+    "temperature_c": 25.64,
+    "humidity_percent": 62,
+    "wind_speed_mps": 3.36,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:15"
+  },
+  {
+    "city_name": "Agro",
+    "temperature_c": 25.64,
+    "humidity_percent": 62,
+    "wind_speed_mps": 3.36,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:15"
+  },
+  {
+    "city_name": "Bach Paichwal",
+    "temperature_c": 23.74,
+    "humidity_percent": 62,
+    "wind_speed_mps": 2.97,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:16"
+  },
+  {
+    "city_name": "Rahat Kot",
+    "temperature_c": 26.96,
+    "humidity_percent": 60,
+    "wind_speed_mps": 3.14,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:16"
+  },
+  {
+    "city_name": "Wach Sanzalai Kili",
+    "temperature_c": 29.53,
+    "humidity_percent": 39,
+    "wind_speed_mps": 5.28,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:17"
+  },
+  {
+    "city_name": "Barimar Banda",
+    "temperature_c": 12.07,
+    "humidity_percent": 71,
+    "wind_speed_mps": 4.11,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:17"
+  },
+  {
+    "city_name": "Shao",
+    "temperature_c": 26.1,
+    "humidity_percent": 57,
+    "wind_speed_mps": 3.96,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:18"
+  },
+  {
+    "city_name": "Dam",
+    "temperature_c": 26.1,
+    "humidity_percent": 57,
+    "wind_speed_mps": 3.96,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:18"
+  },
+  {
+    "city_name": "Jilga Hadira",
+    "temperature_c": 31.49,
+    "humidity_percent": 14,
+    "wind_speed_mps": 9.89,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:19"
+  },
+  {
+    "city_name": "Shamalguli",
+    "temperature_c": 29.83,
+    "humidity_percent": 56,
+    "wind_speed_mps": 3.44,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:20"
+  },
+  {
+    "city_name": "Mehri Zaranda",
+    "temperature_c": 31.46,
+    "humidity_percent": 14,
+    "wind_speed_mps": 9.93,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:20"
+  },
+  {
+    "city_name": "Takarai",
+    "temperature_c": 30.56,
+    "humidity_percent": 14,
+    "wind_speed_mps": 9.78,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:20"
+  },
+  {
+    "city_name": "Wali Dad",
+    "temperature_c": 30.75,
+    "humidity_percent": 14,
+    "wind_speed_mps": 9.99,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:21"
+  },
+  {
+    "city_name": "Musa",
+    "temperature_c": 31.46,
+    "humidity_percent": 14,
+    "wind_speed_mps": 9.93,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:21"
+  },
+  {
+    "city_name": "Mir Afzal",
+    "temperature_c": 30.25,
+    "humidity_percent": 13,
+    "wind_speed_mps": 9.98,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:22"
+  },
+  {
+    "city_name": "Amanullah",
+    "temperature_c": 31.53,
+    "humidity_percent": 13,
+    "wind_speed_mps": 9.83,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:23"
+  },
+  {
+    "city_name": "Ghulam Jan",
+    "temperature_c": 31.53,
+    "humidity_percent": 13,
+    "wind_speed_mps": 9.83,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:23"
+  },
+  {
+    "city_name": "Nasrullah",
+    "temperature_c": 30.66,
+    "humidity_percent": 13,
+    "wind_speed_mps": 9.82,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:23"
+  },
+  {
+    "city_name": "Muhammad Malezai",
+    "temperature_c": 30.66,
+    "humidity_percent": 13,
+    "wind_speed_mps": 9.82,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:24"
+  },
+  {
+    "city_name": "Shah Ghasi",
+    "temperature_c": 31.53,
+    "humidity_percent": 13,
+    "wind_speed_mps": 9.83,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:29"
+  },
+  {
+    "city_name": "Kohan",
+    "temperature_c": 22.38,
+    "humidity_percent": 61,
+    "wind_speed_mps": 3.2,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "date_pkt": "2025-07-11",
+    "time_pkt": "13:14:35"
+  }
+]
